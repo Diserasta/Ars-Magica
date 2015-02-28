@@ -1,0 +1,93 @@
+Rignhildr, Runa's Mother
+
+"Greetings there. How can I help you today?"
+
+Characteristics:
+	Int: +2
+	Per:  0
+	Pre: +1
+	Com: +5
+	Str: -3
+	Sta: +3
+	Dex:  0
+	Qik: -2
+Size: 0
+Age: ___ (___)
+Decrepitude: __ (___)
+Warping Score: __ (___)
+Confidence Score: 1 (3)
+Virtues and Flaws:
+	Virtues: (10)
+		Strong Faerie Blood (Major, Supernatural) -3
+			(Rignhildr is the daughter of a court faerie who was visiting the
+			Scandinavian lands. She has the blood of the Sidhe within her, and
+			as such gets +1 Presence, and is at -3 for all aging rolls, and 
+			only starts aging at 50, instead of 35. She can also see normally 
+			in darkness or semi-darkness.)
+		Gentle Gift (Major, Hermetic) -3
+			(Rignhildr has the Gentle Gift, as such her Gift does not disturb 
+			others)
+		Good Teacher (Minor, General) -1
+			(Rignhildr is good at explaining concepts and skills. Add three to
+			the Quality of any books she writes, and five to the Advancement 
+			Total of anyone who studies with her)
+		Unaffected by the Gift (Minor, Supernatural) -1
+			(Rignhildr is strangely unaffected by the Gift. Even people with 
+			the Blatant Gift aren't particularly bothersome to her, though she
+			can tell they are different. This may explain her choice in 
+			husband)
+		Great Communication (Minor, General) x2 -2
+			(Rignhildr has a gift with words and can appease nearly anyone)
+		Puissant Rune Magic (Minor, Supernatural) F
+			(Treat any use of Rune Magic as 2 higher than it is)
+	Flaws: (10)
+		Compassionate (Major, Personality) -3
+			(Rignhildr is an incredibly compassionate and kind soul, and cannot
+			stand to see people suffer. She does everything in her power to 
+			help those in need, and can often be a tad too kind. She does 
+			however understand that at times, violence is necessary, and 
+			killing other might be needed, though she is loathe to do it, and 
+			would prefer persuading the attackers to never do so again, or at 
+			the very worst, maiming them)
+		Restriction (Major, Supernatural) -3
+			(Rignhildr cannot cast spells at all on targets made from glass, or
+			carve runes on glass)
+		Natt-thel Prone (Major, Supernatural) -3
+			(Rignhildr is particularly prone to being overwhelmed by the power
+			of her magic, and suffers the effects of Natt-thel on a single 
+			magical botch, instead of on a double botch)
+		Close Family Ties (Minor, Story) -1
+			(Runa's family is incredibly close, considering they're one of the 
+			few rune mages left alive. Even without that, they love each other
+			and would do anything for one another. They will always come to 
+			each other's aid, and will often cross immense distances to do so)
+Personality Traits:
+	Compassionate	+4
+	Kind			+3
+	Soft-Spoken		+2
+Reputations:
+	Renowned Healer (Iceland) +2
+Wizard's Sigil: Targets affected by Rignhildr's rune magic have a glowing rune
+somewhere on their body, corresponding to the rune affecting them, though the
+rune may not be immediately obvious.
+Arts:
+Letter	Name		Sc	Xp | Letter	Name	Sc	Xp  | Letter	Name		Sc	Xp
+-----------------------------------------------------------------------------------
+	F	Fehu		__	___| 	H	Hagalaz	__	___ |	T		Tiwaz		__	___ 
+	U	Uruz		__	___| 	N	Naudiz	__	___ |	B		Berkanan	__	___ 
+	Th	Thurisaz	__	___| 	I	Isa		__	___ |	E		Ehwaz		__	___ 
+	A	Ansuz		__	___| 	J	Jera	__	___ |	M		Mannaz		__	___ 
+	R	Raido		__	___| 	Y	Ihwaz	__	___ |	L		Laguz		__	___ 
+	K	Kauno		__	___| 	P	Perth	__	___ |	Ng		Ingwaz		__	___ 
+	G	Gebo		__	___| 	Z	Algiz	__	___ |	D		Dagaz		__	___ 
+	W	Wunjo		__	___| 	S	Sowilo	__	___ |	O		Othila		__	___ 
+
+Rune Scripts:
+	See Rignhildr's Grimoire.
+
+Appearance:
+	Rignhildr is rather a large woman by most standards, at 175cm and 84kg. She
+	is what you would expect from a stereotypical Viking: the men are big, tall
+	and have beards, and the women are bigger, taller and also have beards. Not
+	that she has a beard mind, but she does fit the image quite well. She has 
+	large orange discs for eyes and dirty blonde hair.

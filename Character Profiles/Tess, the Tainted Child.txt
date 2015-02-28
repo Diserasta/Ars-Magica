@@ -1,0 +1,321 @@
+Teresa (Tess), Tainted Child
+
+"Wh-Who are you?"
+
+Infernal Might: 9 (Corpus)
+Characteristics:
+	Int: +4
+	Per:  0
+	Pre: +2
+	Com: +2
+	Str: -2
+	Sta: +2
+	Dex: +1
+	Qik:  0
+Size: -1
+Age: 8 (17)
+Decrepitude: 0 (0)
+Warping Score: 0 (0)
+Confidence Score: 1 (3)
+Hierarchy Score: 1
+Virtues and Flaws:
+	Virtues: (20)
+		Apt Student (Minor, General) -1
+			(When being taught by someone else, add five to your Advancement
+			Total)
+		Devil Child (Free - Mythic Companion Virtue)
+		Demonic Blood (Major, Supernatural) -3
+			(30 Levels of Infernal Powers that may be invoked at will by 
+			spending Might Points, the Might Cost of which is Mag/2, and 
+			Initiative is = Qik)
+		Demonic Might x2 (Minor, Supernatural) -2
+			(A permananent +2 to Might)
+		Demonic Powers x5 (Minor, Supernatural, Tainted) -5
+			(An additional 20 Levels of Infernal Powers)
+		Magical Warder (Major, General) -3
+			A spirit of vengeance watches over Tess and protects her. It was
+			originally contracted to protect her and report her dealings to
+			her demonics parents, who thought the spirit was actually a lower 
+			demon. In point of fact, he is a ghost tainted by the Infernal 
+			Realm, who managed to trick the demons into allowing him to bond
+			with Tess. His reasons for doing this are unknown, but regardless,
+			he is extremely protective of his charge, to an almost sadistic
+			streak. He has also recently started feeding her demonic parents
+			misinformation, after killing the raunch that watched over her.
+			(He claimed that it had tried to harm her, and he acted as per his
+			contract. While the demons weren't pleased at this, and did punish
+			him by stripping some of his Might, but they were reluctant to
+			completely destroy him, as he had done good work protecting her
+			to that point)
+			During their time together, he has developed a way of 'switching' 
+			with her, so that he inhabits her body (and her body is transformed
+			to suit his build) and she becomes the floating spirit. He only 
+			does this when she is in extreme danger, or excrutiating pain, 
+			however, as Tess does not usually enjoy how he 'deals' with said 
+			situations.
+			Despite all this, the two of them get along reasonably well, and
+			often chat using their mental link, especially when Tess is 
+			stressed, as it helps her take her mind off of the situation.
+		Great Intelligence (Minor, General) -1
+			Tess absorbs information incredibly easily and can make astounding
+			logical leaps for someone so young.
+		Improved Characteristics x2 (Minor, General) -2
+			(An extra 3 points to spend on Characteristics)
+		Puissant Guile (Minor, General, Free) -1
+		Puissant Stealth (Minor, General) -1
+		Rapid Convalescence (Minor, General) -1
+	Flaws: (20)
+		Tragic Life (Major, Supernatural) +6
+		Small Frame (Minor, General) +2
+		Greater Malediction (Major, Supernatural) +6
+			Tess can still suffer Vituperation, with all its' advantages
+			and disadvantages, however, instead of recieving (and checking for)
+			Warping Points, Might Points are used instead. In essence, this 
+			means any time she would recieve 2 or more Warping Points (for 
+			whatever reason), or any time she is (unwillingly) stripped of 2 or
+			more Might Points (this does not trigger when she activates her 
+			abilities), she is instead stripped of either 2 Might Points, 
+			or the amount of Might Points which she would've lost, whichever is
+			greater, and checks for Vituperation.
+			Additionally, Tess still suffers extra botch dice in Infernal 
+			auras despite being aligned with the Infernal Realm (however, she 
+			still gets bonuses to Casting Totals).
+			This is a side-effect of her demonic conception, which would've
+			gone "better" if her mother had not inadvertedly wandered into a
+			powerful Divine aura, which stripped the child's affiliation
+			to the Infernal Realm.	
+		Depraved (Minor, Personality) +2
+			In her own words "Religion makes pointless what humans would do of
+			their own free will. If my doctrine demands I be kind, then I am no
+			longer being kind, simply dutiful."
+			Due to this philosohpy, Tess often gets into disagreements with 
+			members of the clergy (when she encounters them), and religious
+			members of the party. She also has a general disdain for worship
+			(Alexander may have rubbed off on her), and avoids services like
+			the plague.
+		Nocturnal (Minor, Personality) +2
+			You are at -1 on all rolls between dawn and midday. Conversely, you
+			have little difficulty staying up at night, and often stay up late
+			into the night.
+			
+			Tess often stays around Aelita during the small hours, as she's
+			usually the only one awake then, much to the latter's chagrin. 
+			Despite this, Aelita knows that it's her duty to take care of the 
+			girl, and will accept Tess' quirks and child-like behaviours (she 
+			is only  eight after all, a fact often forgotten). Tess herself 
+			doesn't realise how rare it is for Aelita to allow company, and 
+			simply takes joy in the fact that she has someone to 'play' with,
+			and talk to. Aelita, on the other hand, finds an extra pair of 
+			hands around the lab useful, and often tutors Tess on magical
+			theory while she works.	
+		Witch Marks (Minor, General, Tainted) +2
+			Tess has an intricate cross-shaped scar on the back of each hand.
+			No one is quite sure how they got there, but it might be due to the
+			same Divine aura that stripped her Infernal affiliation.
+			Most members of the clergy would consider such self-mutilation (for
+			there could be no other way such an intricate pattern could end up
+			on someone's skin) sacrelige, and Christians in general would be 
+			extremely suspect of such marks. Members of the clergy may even
+			declare Tess a witch and demand her murder or burning. Due to this,
+			she often wears fingerless gloves over her hands, which were bought
+			for her by Frederik while he was out trading, and later modified
+			(and enchanted) to allow her greater freedom with her hands.
+Personality Traits:
+	Over-Affectionate 	+3 (Often to her detriment, as she does not have the 
+							emotional maturity to deal with said emotions.)
+	Loyal				+3 (To her Friends)
+	Shy					+2
+	Determined			+2
+Reputations:
+	Chosen by a Demon (False Gods)		+1
+Combat:
+
+Soak:
+
+Equipment:
+	
+
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incap. (13-16), Dead (17+)
+Abilities:
+	Ability				Specialty			 	Sc	Xp
+	Hungarian			(Poetry)				5	75
+	Latin				(Academic Usage)		3	40
+	
+	Art of Memory		(Texts)					2	21
+	Artes Liberales		(Logic)					2	19
+	Athletics			(Grace)					2	15
+	Charm				(Being Witty)			2	15
+	Concentration		(Reading)				0	0
+	Guile 				(Concealing Motives)	3+2	32
+	Infernal Lore		(Demons)				2	16
+	Legerdemain			(Picking Pockets)		2	17
+	Magic Theory		(Enchanting Items)		3	38
+	Music				(Sing)					2	26
+	Single Weapon		(Daggers)				3	30
+	Stealth				(Sneak)					2+2	18
+	
+	True Name of		(Seere)					1	5
+	True Name of 		(Dantalion)				1	5
+Powers:
+
+	Take the Gift of Inspiration/And Replace It With Retardation
+	Debauchery, Consumption, Level 25
+	R:Touch, D:Concentration, T: Individual
+	Might Cost: 2, Init equal to Qik, Mentem
+		Tess touches the forehead of the victim (often herself), and then the
+		forehead of the target, granting it a +3 to Int, but to no greater than
+		+4, and cursing the victim with a -3 to Int, but to no less than -4 
+		while the spell lasts.
+		(Base 5, +2 Increased Char (+3 total), +1 Touch, +1 Conc)
+	
+	Bend the Body, Break the Will/What Can Injure, Will Not Kill!
+	Incantation, Consumption, Level 35
+	R:Touch, D:Momentary, T:Individual
+	Might Cost: 3, Init equal to Qik, Corpus
+		Tess sings a song that starts pure and innocent, which throughout the 
+		ritual becomes more and more mournful, until it sings of death and
+		despair. The song strips the target of a potentially grevious wound,
+		but will inflict a similar wound upon it's caster.
+		Permanently heals one Heavy Wound, one Medium Wound or two Light 
+		Wounds, and strikes the victim with a Heavy Wound.
+		(Base 25, +1 versatility, +1 Touch)
+	
+	As a Branch In a Fearsome Gale/Break This Pleb As I Exhale
+	Debauchery, Malediction, Level 20
+	R:Voice, D:Momentary, T:Part
+	Might Cost: 2, Init equal to Qik, Corpus
+		With a few vehement words, Tess breaks a target bone of a victim in 
+		range of her voice, inflicting a Medium Wound, and if used on a major
+		bone, crippling that limb. The bone breaks with great force, and a 
+		loud, if rather sickening snap.
+		(Base 5, +2 Voice, +1 Part)
+		
+	As Bats Travel Through The Night/Grant Me The Power of Flight
+	Debauchery, Phantasm, Level 5
+	R:Personal, D:Sun, T:Individual
+	Might Cost: 1, Init equal to Qik, Corpus
+		Tess grows large, leathery bat wings from her back, which allow her to
+		fly at up to 40mph. These wings dissolve quickly in a Divine aura. Tess
+		can end this effect by concentrating.
+		(Base 3, +2 Sun)
+	
+	Grant Me the Silence of Black Cats Stalking The Night
+	Debauchery, Phantasm, Level 10
+	R:Personal, D:Sun, T:Part
+	Might Cost: 1, Init equal to Qik, Corpus
+		Hides all sounds created by Tess for the duration of the effect, 
+		except her vocal cords, so she can still speak.
+		(Base 3, +2 Sun, +1 Part)
+	
+	With This Object As A Coal/Grant Heat That Burns As Hot As My Soul
+	Debauchery, Effusion, Level 10
+	R:Touch, D:Diameter, T:Individual
+	Might Cost 1, Init equal to Qik, Ignem
+		Heats an object to a heat hot enough for iron to glow red hot (~700 
+		degrees). This may cause things to catch fire and/or decompose. 
+		This causes +10 damage, or double the weapon's normal damage, whichever 
+		is higher, if used in the same round as the power is used, and +5 
+		damage, or double the weapon's damage, whichever is higher for a 
+		Diameter.
+		(Base 4, +1 Touch, +1 Diameter)
+	
+	From the Whispers in the Night/Form My Friendly Sprite
+	Incantation, Diablerie, Level 25
+	R:Arcane Connection, D:Momentary, T:Individual
+	Might Cost: 2, Init Equal to Qik, Vim
+		Summons a sprite in the shape of a small fire, with a smiley face on 
+		it. The sprite has a telepathic link to Tess and will follow mental
+		commands to the best of its abilities. The sprite can also shapeshift.
+		Tess was given small ever-burning embers by small spirits of fire after
+		she (read: Aelita and troupe) rescued them from being used as Might
+		sources for some particularly mean demons. These small embers currently
+		reside as embellishments on Tess' necklace.
+		(It also has a character sheet, for detailed information.)
+		It is worth noting that Tess has always had this power, however she never 
+		really needed to summon a creature. It was intended as a way for her to
+		summon any demons she needed for her 'plots', but she was never given 
+		any Arcane Connections to demons. She later renamed the power when
+		she found a use for it.
+		(Base 5, +4 Arcane Connection)
+Appearance:
+	Teresa is a petite girl for 16, coming in at only 4'9", and with a very 
+	slim build. She looks as though she might shatter if you breathed at her
+	too hard, almost as if she were a porcelain doll. Adding to this illusion
+	are her stunningly large amber eyes, her almost glistening silver-y hair, 
+	and her bleached bone white skin. She prefers to dress in black, and wears 
+	silver jewellery.
+
+
+
+Tess was created by a demon for the purpose of corrupting an important noble,
+and triggering a huge war, a la Helen of Troy. She spent her early childhood
+cared for by her mother, who mysteriously died on the day she turned 8. The 
+local villagers considered this a bad omen and banished her from the village. 
+As she wandered the local country side, feeding from plants and the occassional
+extremely convenient leftover cooked meat from a camp (this was orchestrated by
+her raunch, who would Blight the campers, and scare them away while they were
+eating). After wandering for a few months, she happened upon a young prince
+from the local area who was out hunting. When asked why she was out here and
+not at home, she replied that she had no home, as she had been kicked out of
+her village. Feeling sorry for her, the prince took her in and promised to find
+her a new home. After two years of living in the castle, the prince has almost
+lost hope, and was considering just adopting the poor girl, as she seemed to
+have suffered through great trauma for someone so young. However, a band of
+mages visited the castle, asking for a audience with the lord. They were 
+apparently going to set up a small covenant nearby, and wanted the lord's
+blessing. The prince met them after their audience with the lord and asked if
+they would be willing to take the girl in. Though he innately distrusted three 
+of the magi, the fourth seemed quite pleasant. He had been told before that
+most magi ellicit an aura of distrust, and that this reaction of distrust was 
+normal, so he tried to ignore it, as the magi had been polite when in audience
+with the lord; and the prince was a trusting man.
+Two of the female maga took one look at the girl and their expressions became 
+extremely stern. After a little back and forth in what the prince figured was 
+probably Latin, they agreed to take her in, on the condition that the prince 
+tell no one what had happened to the girl, and insist she had run away. The 
+prince agreed to the strange terms, and shook hands with the mages.
+From that point on, Tess' "parents" have repeatedly tried to steer her back
+towards the nobility, as it would still be a few years until she was needed,
+but each attempt was foiled by the group of magi. The demons involved have 
+begun to get incredibly frustrated with the situation and are considering 
+outright murdering everyone involved and trying again with an actual demon.
+For this reason, Fredrik has been crafting and enchanting items for her to use,
+as well as tutoring her (with help from the others) in self-defence and using 
+her powers effectively.
+In addition, Alexander has been contacting various good-natured demons, and 
+asking for their assistance. Many have suggested that she learn the Infernal
+Methods and Powers, as they are a part of her heritage, and are the only form
+of magic she could learn, due to her Infernal Might. Aelita and the troupe are
+reluctant to allow her this however, as it would mark her as an Infernalist, 
+and the Methods themselves are quite unpleasant to activate, requiring sinning 
+or self-injury in most cases. 
+
+Notes:
+	Maleficium roll: stress die + Characteristic + Method + Power + aura bonus
+	Incantation uses Com
+	Debauchery 	uses Sta
+	
+	Vituperation:
+		The character is overcome with the power of the Infernal, wrenching her
+		from consciousness and temporarily tearing her mind and body into 
+		pieces.
+		
+		The roll to resist Vituperation (for Tess) is:
+			Stamina + Concentration + Confidence Score + stress die
+									vs
+			Number of Infernal Might lost + Hierarchy Score + local 
+						aura + stress die (no botch)
+		If she is successful, after a few moments, Tess and Alexander manage to
+		control the malign supernatural forces attacking her, and do not suffer
+		any long term ills. Otherwise, she is stuck in Vituperation for a period
+		equal to (Number of Might Points lost - 2) on the Wizard's Twilight 
+		table.
+		When Vituperation is over, Tess returns and must make an immediate 
+		Aging Roll as such:
+			stress die (no botch) + (age / 10, rounded up) - living conditions
+					modifier + (Number of Might Points lost - 2)
+		Once this ordeal is over, Tess' Confidence Score may be increased by 
+		one, if it is less than either the number of Might Points lost - 2, or
+		her Decrepitude. This represents how the terrifying experience hardens 
+		her resolve and increases her self-reliance.

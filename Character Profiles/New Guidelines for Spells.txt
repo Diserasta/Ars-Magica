@@ -1,0 +1,56 @@
+New Guidelines for Spells (As We Think of Them)
+
+Rego Corpus:
+	ReCo 5 states "move a target slowly in any direction you please, even if 
+	unsupported"
+	Using that guideline, you should be able to create a flight, or floating 
+	spell.
+	That being said, we have to decide what speed a person would move at, and
+	if they can go faster.
+	The first is easy. Our example spells that uses the ReCo 5 guideline 
+	states "As fast as smoke rises".
+	Give or take, I've seen (and people seem to agree) that smoke rises at 
+	about 1 foot per second. Let's say that's one pace per round. That seems
+	slow enough, and is roughly in line with the other ranges given in Ars.
+	The second is a bit trickier. Based on our standard, 1 magnitude = *10 rule
+	and on the example of the ReCo teleport spells, we get this:
+		Base 5:		1 pace per round
+		Base 10:	10 paces per round
+		Base 15:	100 paces per round (At 1 pace ~ 1 meter, this is about
+										 37mph, comparable to Wings of Soaring
+										 Wind)
+		Base 20:	1000 paces per round (This would assuredly require 
+										  protection)
+		Teleportation starts at ReCo 20 as well, but allows instant movement.
+	Now, to fluff it out as per normal Ars Magica guidelines, I propose:
+		Base 5:		As fast as smoke rises
+		Base 10:	As fast as a man can run (About 13mph)
+		Base 15:	As fast as a horse can gallop (Around 30mph)
+		Base 20:	As fast as an eagle can fly (Around 80mph, this would be
+		extremely uncomfortable without protection)
+		Base 25: 	As fast as an arrow in flight (About 130mph, this would be
+		impossible without protection, and would cut up anyone who foolishly
+		attempted it like so)
+		
+		
+Rune Magic:
+	Kauno:
+	Kauno is the rune associated with diseases, and it allows its users to 
+	inflict diseases on their targets. These diseases however are designed as 
+	per the ArM5 Core Rules. I propose re-adjusting them to fit with the Art &
+	Academe rules for diseases, as such.
+	Let us start with the highest Guideline, Kauno 45, which inflicts a 
+	terminal illness. I think this is a bit out of flavour (and honestly a 
+	little strange as no other Viktir Rune Magic allows you to outright kill
+	someone), and I think the Viktir (and their gods) would allow their enemies
+	a fighting chance to prove they are stronger than their attacker, whether 
+	attacked by sword, fire or disease. Additionally, the disease must be 
+	chosen when the script is designed and cannot be altered later, however 
+	another script may be developed for a different disease.
+	As such, I propose the following guidelines:
+		Kauno 20: Inflict a Disease with Severity no greater than 6
+		Kauno 25: Inflict a Disease with Severity no greater than 12
+		Kauno 30: Inflcit a Disease with Severity no greater than 15
+		Kauno 35: Inflict a Disease with Severity no greater than 18
+		Kauno 40: Inflict a Disease with Severity no greater than 21
+		Kauno 45: Inflict a Disease with Severity no greater than 24

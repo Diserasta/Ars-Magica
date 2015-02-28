@@ -1,0 +1,106 @@
+Yuki, The Myrmidon
+
+"Who dies next?"
+
+Characteristics:
+	Int: -1
+	Per:  0
+	Pre: +2
+	Com: -1
+	Str:  0
+	Sta: -2
+	Dex: +2
+	Qik: +5
+Size: -1
+Age: 21 (19)
+Decrepitude: 0
+Warping Score: 0 (3)
+Confidence Score: 0 (0)
+Virtues and Flaw:
+	Virtues: (5)
+		Great Quickness (Minor, General) x2 -2
+			(Yuki is lengendarily fast on his feet, and has extraordinary 
+			reaction times)
+		Craft Guild Training (Minor, General) -1
+			(Yuki recieved training from a master smith during his time in 
+			Spain and gets an extra 50xp to spend on any smithing Craft, 
+			Profession, Bargain or Blacksmith's Guild Lore)
+		Warrior (Minor, General) -1
+			(Yuki spent some time learning how to wield a katana, as well as 
+			the ways of warfare from a ronin who frequented his master's shop 
+			in Japan)
+			(50 xp to spend on Martial Abilities)
+		Puissant Great Weapon (Minor, General) -1
+			(Yuki has a knack for using the swords he makes, and as such, any 
+			use of Great Weapons is considered two higher than it actually is)
+		Adept with Craft:Swordsmith (Minor, General) -1
+			(Yuki learns very blacksmithing practices very quickly, and any 
+			Study Total for the Craft is increased by 50%, as is any experience
+			spent on it at character generation)
+	Flaws: (5)
+		Ability Block (Minor, General) +1
+			(Yuki has an extreme dislike for arts he thinks are 'lady-like', or
+			'prim and proper', and refuses to learn them. These includes Law, 
+			Charm, Music (though he can appreciate it), Philosophiae and 
+			Theology as well as any Craft or Profession that might be 
+			considered feminine)
+		Dark Secret (Major, Story) +3
+			(REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED 
+			REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED 
+			REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED)
+		Small Frame (Minor, General) +1
+			(Yuki is rather small for a guy. His Size is -1 and as such he 
+			takes Wounds in 4 point increments)
+Personality Traits:
+	Reserved	+2
+	Ruthless	+1
+	Loyal		+3
+Reputations:
+	Smith's Apprentice (Japan)			+1
+	Smith's Apprentice (Spain)			+2
+	Quick Learner (Blacksmith's Guild)	+2
+Combat:
+	Katana:			Init +5, Attack +12, Defense +13, Damage +6, Load 1
+	Fist:			Init +5, Attack +3,  Defense +6, Damage -2, Load n/a
+	Yuki wears no armour to speak of.
+Soak: 0
+Protection: 0
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incap. (13-16), Dead (17+)
+Abilities:
+	Ability					Specialty					Sc	Xp
+	Japanese				(Haikus)					5	75
+	Spanish					(Blacksmithing Terms)		4	50
+	
+	Hokkaido Lore			(Hiding Spots)				2	15
+	Blacksmith's Guild Lore	(Japan)						2	20
+	
+	Craft:Swordsmith		(Katanas)					7	143
+	Craft:Jeweller*			(Pendants)					2	25
+	
+	Athletics				(Running)					1	5
+	Awareness				(Spotting Guards)			2	15
+	Bargain					(Metals)					2	20
+	Brawl					(Daggers)					1	10
+	Etiquette				(Judging Station)			3	30
+	Folk Ken				(Nobles)					3	35
+	Great Weapon			(Katana)					4+2	50
+	Guile					(Getting out of Trouble)	3	30
+	Intrigue				(Getting Information)		2	15
+	
+Appearance:
+	Yuki is a short slim boy, with shoulder length jet black hair and equally 
+	charcoal dark eyes. He is unmistakably Asian and unmistakably attractive. 
+	His skin is alabaster white, though with a slight Asian tinge to it, which 
+	contrasts strongly with his eyes and hair. His facial features are soft and
+	almost feminine, though he utterly hates people pointing that out. He is 
+	quiet, and mostly reserved, though he is slightly more relaxed around 
+	people he knows, sometimes cracking dry jokes.
+
+N.B. Yuki is actually a girl who ran away from home. This is a Dark Secret of 
+sorts and would shame her and her master if people were to find out one of the 
+quickest learning apprentices to such a famous smith was a girl.
+Though she doesn't realise it, she is incredibly graceful in everything she 
+does, and people often wonder if she was blessed by the gods.
+She is at a -3 to all social skill rolls while trying to act as a female.
+*Only after being convinced that even men wear jewellery

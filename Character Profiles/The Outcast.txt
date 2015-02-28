@@ -1,0 +1,43 @@
+NAME, The Outcast
+
+
+
+Characteristics:
+	Int:
+	Per:
+	Pre:
+	Com:
+	Str:
+	Sta:
+	Dex:
+	Qik:
+Size: 
+Age:  ()
+Decrepitude:
+Warping Score:  ()
+Confidence Score:  ()
+Virtues and Flaw:
+	Virtues:
+		
+	Flaws:
+		Pagan (Major, Social Status) +3
+			(X is a member of an easily recognizable group, as a worshipper of 
+			Nordic gods, due to his prominent tattoos. He is often persecuted 
+			because of this. There is no real way for him to remove this stain,
+			and he may occassionally be attacked by people for this)
+Personality Traits:
+	
+Reputations:
+	Pagan	(Northern Europe)	+3
+Combat:
+
+Soak:
+Protection:
+Encumbrance:
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+Powers:
+	
+Appearance:

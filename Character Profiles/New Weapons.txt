@@ -1,0 +1,4 @@
+New Weapons (As We Need Them)
+
+The Katana:		Init +1, Attack +3, Defense +1, Damage +8, Load 1, Str 0
+The Sabre:		Init +2, Attack +4, Defense +2, Damage +5, Load 1, Str -1

@@ -1,0 +1,226 @@
+Hannah, The Falcon Girl
+
+"How can I help?"
+
+Magic Might: 10 (8) (Aurum)
+Characteristics:
+	Int: +2
+	Per: +1
+	Pre: -1
+	Com: +1
+	Str: -2
+	Sta:  0
+	Dex: +2
+	Qik: +5
+Size: -1
+Season: Summer
+Confidence Score: 1 (3)
+Age: 50 (22)
+Virtues and Flaws:
+	Virtues: (5)
+		Magic Human (Special) F
+		Homing Instinct (Minor, Supernatural) -1
+			Hannah knows how to get from where she is to a number of locations 
+			equal to her Intelligence. To add a location, she makes a
+			Intelligence + Concentration roll vs EF 6, and the location must be
+			open to the air. She often uses this power to return to specific
+			'safe houses' so to speak, near her current location.
+		Essential Virtue (Major, General) -3
+			Hannah's natural intuition on how to use her body is uncannily good 
+			and allows her a great advantage when manoeuvring, moving quickly,
+			or making sudden shifts in centre of balance or posture.
+			Hannah has the Essential Trait, Inuitive Use of Body at +6, and 
+			this may be applied to any roll regarding movements or adjustments
+			of her body, whether in flight, clinging to an edge, or darting
+			around in combat.
+		Large (Minor, General) -1
+			Hannah is rather large by medieval female standards.
+	Flaws: (5)
+		Compassionate (Major, Personality) +3
+			Hannah cannot stand to see people suffer and as such tries to be as
+			helpful as she can. Despite her best efforts, most people are still
+			deathly afraid of her, so she has learned to stick to the shadows,
+			and to not show her face if it can at all be helped. She often 
+			hides her wings under an expansive cloak, and explains her eyes as
+			a genetic deformity.	
+		Naive (Minor, Personality) +1
+			Hannah believes that helping people is innately the right thing to 
+			do, even if they have evil things in mind. She doesn't understand
+			why you would not help someone who asked for, or needed it. Despite
+			this, she is aware enough of cause and effect to know that helping
+			someone who will hurt multiple others is counter-productive. Even 
+			so, she is reasonably easy to manipulate, and has been caught in
+			a few malicious plans in her time.
+		Infamous (Minor, General) +1
+			There's only ever been once occassion where Hannah's calmness has
+			broken down, and it was when she a young girl being raped in a town 
+			she was flying over. She went into a nose dive and tore the rapists
+			apart. Nobody except her really knows how the fight went; even the
+			girl who was raped seems to have repressed it, but it took 
+			authorities a week and a half to figure out just who the dead man
+			were. Unluckily for Hannah, a guard rounded the corner into the 
+			alley after hearing a scream, and only caught Hannah tearing the 
+			attackers limb from limb. The guard ran, half in fear, and half to
+			get backup, but when he returned, she was gone. He did manage to
+			get a look at Hannah's face, and as such her poster has been
+			circulated around all of England, and there is a 100 Mythic Pound
+			bounty on her head, dead or alive.
+Qualities and Inferiorities:
+	Qualities: (13)
+		Improved Abilities x2 -2
+			(Extra 50xp)
+		Improved Characteristics x3 -3
+			(Extra 3 points to spend)
+		Improved Powers -1
+			(5 mastery points to spend)
+		Lesser Power -1
+			(Prying Eyes)
+		Personal Power x6 -6
+			(Dash like Winds)
+			(Sight Beyond Sight)
+			(Eyes of the Eagle)
+			(Silence of the Hunter)
+			(Talons of Steel)
+			(Zephyr Jaunt)
+	Inferiorities: (10 + 3)
+		Monstrous Appearance F
+			Due to Hannah's large, feathered wings, and her razor sharp claws,
+			people are incredibly afraid of and mistrusting of her and will 
+			often either run away, or attempt to kill her on sight.
+			Hannah is at a -6 penalty in all social situations, and to any 
+			rolls involving the trust or loyalty of others.
+		Miniature +3
+			Hannah's magical body is a lot smaller than it really should be,
+			however, she is a reasonably well built girl to begin with (the 
+			Large virtue), so all in all, she is only slightly smaller than 
+			most.
+Personality Traits:
+	Intuitive Use of Body*	+6
+	Falcon*					+3
+	Compassionate			+3
+	Naive					+2
+	Calm					+2
+Reputations:
+	Monster		+2 (Among Irish Peasants)
+	Psychopath	+4 (All of England)
+Combat:
+	Natural Weapons:
+		Talons: Init -1, Attack +3, Defense +4, Damage +2
+		
+	Talons:		Init +4, Attack +9, Defense +13, Damage 0
+	Gem Talons:	Init +4, Attack +14, Defense +13, Damage +2
+	
+Soak: 
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incap. (13-16), Dead (17+)
+
+Abilities:
+	(0 xp)
+	Ability				Specialty					Sc	Xp
+	Gaelic				Prose						5	75
+	
+	Athletics			Flying						6	105
+	Brawl				Talons						4	50
+	Carouse				Staying Sober				2	15
+	Concentration		Memorizing					3	30
+	Hunt				Tracking					4	50
+	Music				Singing						3	30
+	Penetrataion		Talons Like Gems			1	10
+	Stealth				Shadowing					6	105
+Powers:
+	Dash like Winds
+	R:Personal, D:Diameter, T:Individual
+	Might Cost: 1, Init Qik - 2, Aurum
+	Creates hurricane-force winds immediately next to Hannah's wings, allowing 
+	her to accelerate to up to 80mph, and maintain flight, as well as using the
+	wind to deflect missiles. If Hannah attacks anyone at full speed, they must 
+	make Size stress rolls vs 6, or be knocked away. A botch indicates they 
+	fall over.
+	Cr(Re)Au 20 (Base 5, +1 Diameter, +2 Highly Unnatural): Personal Power 
+	(20 Levels, Might Cost -1)
+	Improved Powers: (Mastery +1: Fast Casting)
+	
+	Zephyr Jaunt
+	R:Personal, D:Momentary, T:Individual
+	Might Cost: 0, Init Qik, Aurum
+	Teleports Hannah up to 5 paces in any direction she pleases, allowing her 
+	to dodge, or move around with greater ease than usual.
+	This power conserves momentum relative to her orientation, and can be used
+	to 'drift', slide around, or quickly change her direction of motion.
+	ReAu 10 (Base 10, transport a target up to 5 paces instantly 
+	(ReCo guideline), +1 unnatural conservation of momentum): Personal Power 
+	(15 Levels, Might Cost -1, Init +1)
+	
+	Sight Beyond Sight
+	R:Personal, D:Concentration, T:Vision
+	Might Cost: 0, Init Qik, Imaginem
+	All of Hannah's senses, except taste and touch, operate at a distance, to 
+	as far as she can see. This allows her to easily eavesdrop on, track, or 
+	find targets.
+	InIm 20 (Base 3, +1 Conc, +4 Vision): Personal Power (20 Levels, 
+	Might Cost -1)
+	Improved Powers: (Might Cost -2, Init +2)
+	
+	Eyes of the Eagle
+	R:Personal, D:Sun, T:Vision
+	Might Cost 2, Init Qik - 3, Imaginem, Constant
+	Hannah can see distant things clearly. No matter how far away something is
+	Hannah can make out details as if it were only a foot away. This does not
+	mean that all objets appear to be a foot away, she can simply make out
+	details as if they were. She can still judge distance accurately, in fact
+	much more accurately than humans; to within an inch or so at a distance of
+	several miles.
+	InIm 30 (Base 3, +2 Sun, +4 Vision, +1 Constant): Personal Power 
+	(25 Levels, 5 Levels, Might Cost -1)
+	
+	Silence of the Hunter
+	R:Personal, D:Sun, T:Part
+	Might Cost 1, Init Qik - 1, Imaginem
+	Makes Hannah's body unable to produce any sound, with the exception of her
+	vocal cords, allowing her to still speak. This power is often used by her
+	when tailing others, or sneaking around.
+	PeIm 15 (Base 3, +2 Sun, +1 Part, +1 changing image): Personal Power 
+	(15 Levels, 10 Levels to Eyes of the Eagle)
+	
+	Talons like Gems
+	R:Personal, D:Sun, T:Part
+	Might Cost 0, Init Qik - 2, Terram, Constant
+	Hannah's claws are made from a strange crystalline material that is 
+	incredibly hard, and can slash through hardened steel like it was butter.
+	This grants her a +5 to Attack, and a +2 to Damage.
+	MuAn(Te) 15 (Base 2, +2 Sun, +1 Part, +2 Highly Unnatural): Personal Power 
+	(15 Levels, Might Cost -2)
+	
+	Prying Eyes
+	R:Touch, D:Concentration, T:Room
+	Might Cost 0, Init Qik -1, Imaginem
+	Hannah can see inside of a room, so long as she touches one of its walls.
+	If the room is unlit, or poorly lit, she can only see as much as she could 
+	if she were within in the room, however magical enchancements to sight 
+	still work. She may change her viewpoint within the room throughout the 
+	duration of the power. Note that if Hannah is touching the roof of a room,
+	she can still use this power.
+	InIm 5 (Base 1, +1 Touch, +1 Conc, +2 Room): Lesser Power (5 Levels, 
+	Might Cost -1, Init +1, 10xp to Penetration)
+	
+Vis: 2 pawns of Aurum, one in each wing.
+	
+Appearance:
+	Hannah is a reasonably tall, if well built girl. She has shoulder-length 
+	burgundy hair and brown eyes.
+	She would honestly be rather unassuming if it wasn't for the two giant 
+	wings protruding from her back and the fact that her eyes were slightly too
+	large. That, combined with her razor sharp talons, that replace her 
+	fingernails, mean she doesn't just stand out, she paints a giant target of
+	herself if she doesn't hide at least the wings. Her total wingspan 
+	(tip to tip) is just over 8 feet, and her wings are powerful enough to 
+	generate large gusts when flapped at ground level.
+	Her talons are near razor sharp, and if used in a swoop, can do horrifying
+	amounts of damage. Her feet are also mildly deformed in that she can bend
+	them as if they were jointed, allowing her to grip on to edges very 
+	securely, even if she shifts her balance. 
+	She is a reasonably calm girl, who has a surprisngly good sense of 
+	intuition, but is often far too naive for her own good. She has been chased
+	out of many communities as they feared she was a devil or witch, trying to
+	tempt them to sin. In actuality, she was simply trying to help them out. 
+	Not that medieval peasants would understand that.

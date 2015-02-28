@@ -1,0 +1,107 @@
+The Little Sprites
+
+"Time for some trouble!"
+
+Magic Might: 6(Ignem)
+Characteristics:
+	Int:  0
+	Per: +1
+	Pre:  0
+	Com:  0
+	Str: -9
+	Sta: -2
+	Dex: +2
+	Qik: +6
+Size: -7
+Confidence Score: 2 (5)
+Qualities and Inferiorities:
+	Qualities: (15)
+		Improved Recovery -1
+			(The Sprites completely recover their Might in 12 hours)
+		Improved Confidence -1
+		Improved Abilities x2 -2
+			(Extra 50xp to spend)
+		Improved Powers -1
+			(5 mastery points to spend)
+		Improved Might x3 -3
+		Focus Power x2 -6
+			(Crafter of Bodies)
+		Personal Power -1
+			(Warmth of the Forge)
+	Inferiorities: (3 + 12)
+		Acclimation Prone +3
+			(Treat the Sprite's Might as if it were double when calculating 
+			Acclimation)
+		Miniature +3
+			(Size from -1 to -4)
+		Miniature +3
+			(Size from -4 to -7)
+			(Final size is approx 1 Litre, or a flame contained in a 10cm cube)
+		Minor Flaw x3 +3
+			(Small Frame)
+			(Slow Power: Crafter of Bodies)
+			(Warped Senses)
+Virtues and Flaw:
+	Virtues: (0)
+		
+	Flaws: (0)
+		Small Frame (Minor, General) I
+		Slow Power (Minor, Supernatural) I
+			(Crafter of Bodies)
+		Warped Senses (Minor, Personality) I
+			Sensitive to Cold
+			The Sprites can handle temperatures much higher than most things,
+			and this feature is mirrored in any bodies it creates. It's 
+			respones to heat are reduced in intensity by two. However, it loses
+			1 Fatigue level for every hour it spends in an environs two steps or
+			more below its accustomed conditions (Colder than a cold day in 
+			autumn).
+Personality Traits:
+	Sprite*			+3
+	Mischievious 	+3
+	Energetic		+2
+	Mutable			+2
+	
+Reputations:
+
+Combat:
+
+Soak: -2
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1), -3 (2), -5 (3), Incap. (4), Dead (5+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+	Latin				Describing Fires			4	50
+	
+	Athletics			Created Bodies				3	30
+	Brawl				Created Bodies				3	30
+	Hunt				Humans						3	45
+	Stealth				Created Bodies				5	75
+	
+Powers:
+	Crafter of Bodies
+	R:Varies, D:Varies, T:Varies
+	Might Cost: Varies, Init Qik - 6, Animal or Corpus
+	Creates any of a number of bodies that the sprite can animate and control,
+	at a cost of 1 Might Point per magnitude of effect.
+	All the bodies contain some similarity to the flame, such as red hair, or
+	eyes that look like glowing coals. The final level of this effect cannot be
+	greater than 30. This power is slow to activate as the Sprite must trace 
+	the outline of the body it wishes to create.
+	Cr(Re)An or Cr(Re)Co 25: Focus Power x2 (30 Levels, +4 Level Magnitudes),
+	Slow Power, Improved Powers (+2 Level Magnitudes)
+	
+	Warmth of the Forge
+	R:Personal, D:Diameter, T:Individual
+	Might Cost: 0, Init Qik - 3, Ignem
+	The Sprite can heat its created body to a temperature hot enough to melt
+	lead, without causing it any undue damage. Attacks from natural weapons of
+	the created body gain +5 damage, and objects touched are quickly heated to
+	red heat. Touching bare skin or hide causes a Light Wound, regardless of 
+	other damage caused by weapons, and contact with wood will ignite it 
+	instantly.
+	Cr(Re)Ig 20 (Base 10, +1 Diameter, +1 Requisite): Personal Power 
+	(20 Levels, Might Cost -1), Improved Powers (Might Cost -2)
+Vis: 1 pawn of Ignem, in the flames
+	
+Appearance:

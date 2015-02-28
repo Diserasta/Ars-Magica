@@ -1,0 +1,309 @@
+Formulae Reminder Sheet
+
+Chapter Seven: Hermetic Magic
+
+	Form Bonus:
+		Form Score /5 (rounded up)
+	
+	Casting Score:
+		Technique + Form + Stamina + Aura Modifier
+	
+	Formulaic Casting Total:
+		Casting Score + Die Roll
+		
+	Ritual Casting Total:
+		Casting Score + Artes Liberales + Philosophiae + Die Roll
+		
+	Fatiguing Spontaneous Magic Casting Total:
+		(Casting Score + Stress Die)/2
+	
+	Non-Fatiguing Spontaneous Magic Casting Total:
+		Casting Score/5
+		
+	Penetration Total:
+		Casting Score + Penetration Bonus - Spell Level
+	
+	Concentration Roll:
+		Stamina + Concentration + Stress Die
+		
+	Limit on Vis Use in Spellcasting:
+		The maga's score in the Art of the vis
+		
+	Vis Boost to Casting Score:
+		+2 casting score per pawn
+		
+	Vis Botch Dice:
+		+1 botch die per pawn of vis used
+		
+	Fast Casting Speed:
+		See Action Priority Total
+		
+	Fast Cast Penalty:
+		-10 to Casting Score
+		
+	Fast Cast Botch Dice:
+		+2 Botch Dice
+		
+	Determining Form of Magical Effect:
+		Perception + Awareness vs 15 - effect magnitude
+		
+	Ceremonial Casting Bonus:
+		Add Artes Liberales and Philosophiae to Casting Score
+		
+	Aiming Roll:
+		Perception + Finesse + Die
+	
+	Mastery Ability:
+		Adds to Casting Score and subtracts from number of botch dice
+		
+	Targeting:
+		-1 for each discrete target, including the first
+		
+	Twilight Avoidance:
+			Stamina + Concentration + Vim Form Bonus + stress die 
+									vs
+		Warping Score + Number of Warping Points gained + Enigmatic Wisdom
+					+ local aura + stress die (no botch)
+	
+	Twilight Comprehension:
+		Intelligence + Enigmatic Wisdom + stress die
+							vs
+				Warping Score + stress die
+	
+	Botch Dice:
+		1 + 1 per Warping Point gained to trigger the Twilight
+		
+	Twilight Time:
+		Intelligence + stress die
+					vs
+		Warping Score + stress die
+		
+	(The following totals are for certamen only)
+	
+	Initiative Total:
+		Quickness + Finesse + stress die
+		
+	Attack Total:
+		Presence + Technique or Form + stress die
+		
+	Defense Total:
+		Perception + Form or Technique + stress die
+		
+	Attack Advantage:
+		Attack Total - Defense Total (if Attack Total is higher)
+		
+	Weakening Total:
+		Intelligence + Penetration + Attack Advantage
+		
+	Resistance Total:
+		Stamina + Parma Magica
+		
+	
+Chapter Eight: Laboratory
+
+	Lab Total:
+		Technique + Form + Intelligence + Magic Theory + Aura Modifier
+		
+	Vis Extraction:
+		One tenth (rounded up) of Creo Vim Lab Total pawns of Vim vis
+		
+	Vis Limit:
+		Magic Theory x2 pawns per season
+		
+	Maximum Total Levels:
+		Teachers's highest applicable Lab Total
+		
+	Maximum Levels in One Technique and Form:
+		Teacher's Lab Total in that Technique and Form
+		
+	Highest Level of an Individual Spell:
+		Student's Lab Total in the Technique and Form of the Spell
+		
+	Similar Spell Bonus:
+		Magnitude of highest-level similar spell known
+		
+	Longevity Ritual:
+		+1 bonus for every five points or fraction therof of Creo Corupus Lab Total
+		
+	Longevity Ritual Vis Cost:
+		1 pawn for every five years of age (rounded up)
+		
+	Writing Laboratory Texts:
+		Latin x 20 levels per season
+		
+	Copying Laboratory Texts:
+		Profession: Scribe x 60 levels per season
+		
+	Familiar Bonding Lab Total:
+		Any Technique + any Form + Intelligence + Magic Theory + Aura Modifier
+		
+	Familiar Bonding Level:
+		Familiar's Magic Might + 25 + (5 x Size)
+		
+	Familiar Bonding Cost:
+		1 pawn of vis per five levels of fraction therof of Bonding Level.
+		The vis must match the Technique or Form chosen for the Lab Total.
+		
+	
+Chapter Nine: Spells
+	
+	Spell Magnitude:
+		Level/5 (rounded up)
+		
+	Spell Guidelines:
+		Range: Personal
+		Duration: Momentary
+		Target: Individual
+		
+	Intellego Spells:
+		Not affected by Target Size
+		
+	Base Individual and Part:
+		Determined by Form
+		
+	Base Group:
+		Mass of ten standard Individuals
+		
+	Base Room:
+		Large enough for 100 standard Individuals
+		
+	Base Structure:
+		Ten base Rooms
+		
+	Base Boundary:
+		An area 100 paces in diameter
+		
+	Increasing Size:
+		Multiply by ten for each magnitude added to the spell
+		
+	Requisite Necessary for Spell's Effect:
+		+0 magnitudes
+		
+	Requiste Enhances Spell's Effect:
+		+1 magnitudes
+		
+	Added Effect is Purely Cosmetic:
+		No requisite
+		
+	
+Chapter Ten: Long-Term Events
+
+	Increase an Ability by One:
+		(Ability +1) x5 experience points
+		
+	Increase an Art by One:
+		Art + 1 experience points
+		
+	Advancement Total:
+		Source Quality + Bonus from Virtues - Penalty from Flaws
+		
+	Exposure Source Quality:
+		Two
+		
+	Adventure Source Quality: 
+		5 - 10
+		
+	Practice Source Quality:
+		3-8, usually 4
+		
+	Training Source Quality:
+		Master's Score in Ability being taught + 3
+		
+	Training Gain Limit:
+		Master's Score in Ability being taught
+		
+	Teaching Source Quality:
+		Teacher's Communication + Teaching + 3 + bonus
+		
+	Teaching Gain Limit:
+		Teacher's Score in the Art of Ability
+		
+	Summae Source Quality:
+		Quality of Summae
+		
+	Summa Study Limit:
+		Summa Level
+		
+	Tractatus Source Quality:
+		Quality of Tractatus
+	
+	Vis Source Quality:
+		Stress Die + Aura Bonus
+		
+	Summa Source Quality:
+		Author's Communication + 6 + bonus
+		
+	Tractatus Source Quality:
+		Author's Communication + 6
+		
+	Copying Carefully:
+		1 tractatus per season, or 
+		6 + Profession: Scribe points towards a summa
+	
+	Copying Quickly:
+		Three times as fast as copying carefully, copy Source Quality is 
+		one lower than copied book.
+		
+	Supernatural Ability Source Quality:
+		Normal Source Quality - Total Score in all Supernatural Abilites
+		
+	Aging Total:
+			Stress die (no botch) + age/10 (rounded up) 
+		- Living Conditions Modifier - Longevity Ritual Modifier
+		
+	Crisis Total:
+		Simple die + age/10 (rounded up) + Decrepitude Points
+		
+	
+Chapter Eleven: Obstacles
+	
+	Initiative Total:
+		Quickness + Weapon Initiative Modifier - Encumbrance + stress die
+		
+	Attack Total:
+		Dexterity + Combat Ability + Weapon Attack Modifier + stress die
+		
+	Defense Total:
+		Quickness + Combat Ability + Weapon Defense Modifier + stress die
+		
+	Damage Total:
+		Strength + Weapon Damage Modifier + Attack Advantage
+		
+	Soak Total:
+		Stamina + Armour Soak Bonus
+		
+	Attack Advantage:
+		Attacker's Attack Total - Defender's Defense Total
+		
+	Recovery Total:
+		Stamina + Medic's Chirurgy or Medicine Score + Magical Aid + stress die
+		
+		
+	
+	
+	Non-Combat Damage Total:
+		Damage Bonus + stress die
+		
+	Non-Combat Soak Total:
+		Soak Total + stress die
+		
+		
+Chapter Twelve: Realms
+
+	Creature's Magic Resistance:
+		Might Score
+		
+	Creature Penetration:
+		Might Score - (5 x Might Points spent on power) + Penetration Bonus
+		
+	Character Penetration:
+		Effect Roll - Ease Factor + Penetration Bonus
+		
+	Regio Sight Roll:
+		Perception + Appropriate Ability + stress die
+		(Appropriate Abilities are Second Sight, Magic Sensitivity and Sense
+		Holiness and Unholiness. Others may also apply at the storyguide's 
+		discretion)
+	
+	Ease Factor for Regio Sight:
+		5 + (2 x the difference between the current level's aura and the sought level's aura)

@@ -1,0 +1,51 @@
+Name, TITLE
+
+Characteristics:
+	Int:  0
+	Per:  0
+	Pre:  0
+	Com:  0
+	Str:  0
+	Sta:  0
+	Dex:  0
+	Qik:  0
+	
+Size: 0
+Age: N (A)
+Decrepitude: 0
+Warping Score: 0 (0)
+Confidence Score: 1 (3)
+Virtues and Flaws:
+	Virtues:
+		The Gift (Special, Free)
+		Hermetic Magus (Social Status, Free)
+	Flaws:
+	
+Personality Traits:
+	
+Reputations:
+
+Combat:
+	Dodging:	Init Qik, Attack n/a, Defense Qik + Brawl, Damage n/a
+Soak: 0
+Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+Arts:
+		Techniques							  Forms
+	Art		Score	Xp		Art		Score	Xp		Art		Score	Xp
+	Cr		0		0		An		0		0		Ig		0		0
+	In		0		0		Aq		0		0		Im		0		0
+	Mu		0		0		Au		0		0		Me		0		0
+	Pe		0		0		Co		0		0		Te		0		0
+	Re		0		0		He		0		0		Vi		0		0
+Twilight Scars:
+Twilight Scars:
+	None
+
+Equipment:
+Encumbrance: 0 (0)
+Spells Known:
+	
+Appearance:

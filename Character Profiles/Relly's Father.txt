@@ -1,0 +1,111 @@
+St¨ªgandr, The Valhallan
+
+"Well, what is it?"
+
+Characteristics:
+	Int: +1
+	Per:  0
+	Pre: +2
+	Com: -3
+	Str: +2
+	Sta: +3
+	Dex:  0
+	Qik:  0
+Size: 
+Age: ___ (___)
+Decrepitude: __ (___)
+Warping Score: __ (___)
+Confidence Score: __ (__)
+Virtues and Flaw:
+	Virtues: (9)
+		The Gift (Special)
+			(St¨ªngandr has The Gift, and is trained in the use of Viktir Runes)
+		Fast Caster (Minor, Supernatural) -1
+			(St¨ªgandr can write rune scripts much more quickly than other 
+			vitkir, and can accurately inscribe the runes in half the normal 
+			time. He can also fast-cast rune spells, much the same way Hermetic 
+			Magi can fast-cast spontaneous spells, though he must always leave 
+			off his name and the description of the effect, as there isn't time
+			to inscribe them)
+		Major Rune Focus (Major, Supernatural) -3
+			(Pain Runes)
+			(St¨ªgandr has a magical focus for all runes and effects that cause
+			pain or injury (including stripping Might from Magical Creatures),
+			or prolong it. Whenever he carves these runes into bone (human or 
+			animal), he may double his score in the rune used for the script)
+		Affinity with Kauno (Minor, Supernatural) -1
+			(St¨ªgandr has a way with the Kauno rune. Increase any Study Totals
+			for it by half, as well as any experience put into it during 
+			character creation)
+		Affinity with Othila (Minor, Supernatural) -1
+			(St¨ªgandr learns to use the Othila rune quite quickly. Increase any
+			Study Totals for it by half, as well as any experience put into it
+			during character creation)
+		Affinity with Tiwaz (Minor, Supernatural) -1
+			(St¨ªgandr has skill with Tiwaz rune. Increase any Study Totals for
+			it by half, as well as any experience put into it at character 
+			creation)
+		Secret Runes (Minor, Supernatural) x2 -2
+			(St¨ªgandr may hide the runes that describe the effect of his rune
+			scripts, or may omit the inscription entirely without suffering a 
+			penalty to his Casting Total. He gains no benefit from inscribing
+			them normally (though he does prefer to do so when time permits as
+			he thinks it looks nicer))
+		Nameless Runes (Minor, Supernatural) -1
+			(St¨ªgandr may cast rune spells without inscribing his name at no 
+			penalty, though he receives no benefit if he does. The runes 
+			still act as a magical connection to him that can be used to 
+			identify him, but the rune's caster is not immediately obvious to
+			those who can read the runes)
+	Flaws: (10)
+		Blatant Gift (Major, Hermetic) +3
+			(St¨ªgandr's Gift is especially strong, and exudes out of him like 
+			an aura. Animals near him are disturbed, frightened, and may even
+			be enraged by his presence. He is at -6 to all interactions with
+			normal people and animals. This causes him no end of annoyance and
+			trouble, and probably lead to his rather jaded outlook on life)
+		Weird Magic (Minor, Hermetic) +1
+			(St¨ªgandr's control over magic is a little loose. He rolls on extra
+			botch die when he rolls a zero on a stressed spell, apart from his
+			other botch dice. Botches on this die should be strange or bizarre
+			rather than dangerous, and if a Weird Magic botch occurs along with
+			a regular botch, the results could be truly spectacular)
+		Fury (Major, Story) +3
+			(St¨ªgandr is sometimes overwhelmed by a violent temper, sending him
+			into a destructive, uncontrollable rage. This most often happens 
+			when someone attacks or insults his family and loved ones. Roll 9 
+			or higher on a stress die (modified by appropriate Personality 
+			Traits) to avoid flying into a rage when such an event occurs, with
+			another roll every round to try to calm yourself should you fail 
+			the first. On a botch, he tries to kill everyone around him. While
+			enraged, he gets a +3 to Damage, but a -1 to all other scores and
+			rolls)
+		Minor Magical Deficiency (Minor, Supernatural) +1
+			(St¨ªgandr has a grave deficiency with the Wunjo rune, and cannot 
+			use it in any of his scripts)
+		Warped Magic (Minor, Supernatural) +1
+			(Whenever St¨ªgandr scribes a script, his pores leak some blood, 
+			with more blood being emitted with stronger scripts. This does not
+			harm him significantly, but can intimidate or frighten others)
+		Weird Magic (Minor, Supernatural) +1
+Personality Traits:
+	Jaded			+3
+	Cynical			+3
+	Well-Meaning	+2
+Wizard's Sigil:
+Arts:
+Letter	Name		Sc	Xp | Letter	Name	Sc	Xp  | Letter	Name		Sc	Xp
+-----------------------------------------------------------------------------------
+	F	Fehu		__	___| 	H	Hagalaz	__	___ |	T		Tiwaz		__	___ 
+	U	Uruz		__	___| 	N	Naudiz	__	___ |	B		Berkanan	__	___ 
+	Th	Thurisaz	__	___| 	I	Isa		__	___ |	E		Ehwaz		__	___ 
+	A	Ansuz		__	___| 	J	Jera	__	___ |	M		Mannaz		__	___ 
+	R	Raido		__	___| 	Y	Ihwaz	__	___ |	L		Laguz		__	___ 
+	K	Kauno		__	___| 	P	Perth	__	___ |	Ng		Ingwaz		__	___ 
+	G	Gebo		__	___| 	Z	Algiz	__	___ |	D		Dagaz		__	___ 
+	W	Wunjo		--	---| 	S	Sowilo	__	___ |	O		Othila		__	___ 
+
+Rune Scripts:
+	See St¨ªgandr's Grimoire
+
+Appearance:

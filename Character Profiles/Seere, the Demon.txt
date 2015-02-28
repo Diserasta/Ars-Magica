@@ -1,0 +1,76 @@
+Seere, Prince of Hell
+Infernal Might: 35 (Vim)
+Characteristics:
+	(-3)
+	Int: +3
+	Per: -2
+	Pre: +2
+	Com: +2
+	Str: +3
+	Sta: +6
+	Dex: +3
+	Qik: +1
+Size: 
+Age:  ()
+Decrepitude:
+Confidence Score: 1 (3)
+Hierarchy Score: 9
+Virtues and Flaw:
+	Virtues:
+		
+	Flaws:
+		
+Personality Traits:
+	Proud		+6
+	Wrathful	+5 (Over those who interrupt his attempts to aid others)
+	Wise		+4
+Reputations:
+	Prince of the Choir of False Gods	+9
+	Wise and Prudent (Among the Demons)	+5
+Combat:
+
+Soak:
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	
+	Ability				Specialty					Sc	Xp
+	Athletics			(Grace)						3	30
+	Artes Liberales		(Geometry)					3	30
+	Awareness			(Alertness)					4	50
+	Brawl				(Dodging)					3	30
+	Charm				(First Impressions)			5	75
+	Etiquette			(Nobility)					6	105
+	Folk Ken			(Nobles)					4	50
+	Infernal Lore		(Demons)					6	105
+	Philosophiae		(The Nature of Evil)		5	75
+	
+Powers:
+	Coagulation
+	4 points, Init -1, Corpus
+	Allows Seere to condense into his physical form. This takes 35 rounds
+	(just under 2 Diameters), and may be cancelled at any time. He may also
+	return to his spiritual form at any time with a round of Concentration.
+	
+	Obsession
+	1-3 points, Init -5, Vim
+	(Obsession to Wrath)
+	
+Weakness:
+	
+	
+Vis:
+	7 pawns of Vim vis, in the wings of the horse.
+Appearance:
+	Seere appears as a beautiful man riding upon a winged horse. He has sea 
+	blue eyes, and a mop of unruly hazel hair. His body is perfectly chiseled
+	as if he were worked from tan stone. He usually appears wearing simple 
+	peasants' clothes.
+	
+Despite his simple clothing choice, Seere is an incredibly wise, and often 
+helpful demon. He is good-natured and will help those who summon him, unless
+the summoning interrupts him helping someone else. He speaks in a smooth, 
+kindly voice, and can answer questions about hidden treasures and robberies and
+bring abundance. He can also go to any place on Hell and Earth to accomplish
+what is wished of him by the summoner.
+Seere commands 26 legions of demons in Hell.

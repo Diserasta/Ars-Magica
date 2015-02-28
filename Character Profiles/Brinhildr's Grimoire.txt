@@ -1,0 +1,145 @@
+Rignhildr's Grimoire
+
+	Rignhildr ensures a healthy recovery for (target)
+	Berkanan(Mannaz) 10, Method II
+	This script is usually carved on a wooden amulet, or woven into a wound
+	dressing, and gives the target a +6 bonus to all recovery rolls for 
+	physical injuries, but not from diseases or poisons.
+	
+	Rignhildr ensures the infertility of (target)
+	Berkanan(Mannaz) 15, Method II
+	This script, usually carved on the wall of a house, or near the target's
+	bed, ensures that they will not impregnate others or become pregnant for 
+	as long as the runes last. Traditionally, this rune script was used to
+	avoid pregnancies when crops were bad, or during wars.
+	
+	Rignhildr guarantees the continuation of the legacy of (target)
+	Berkanan(Mannaz) 15, Method II
+	These runes, traditionally carved on the side of the target's bed, ensures
+	that they are potent or fertile for as long as the runes last. These runes
+	were often used to ensure pregnancy when a family wanted a child.
+	
+	Rignhildr provides aid to the injured (target)
+	Berkanan(Mannaz) 15, Method II
+	These runes, traditionally carved into a small piece of bone, and worn 
+	around the target's neck, give them a +3 bonus to all Ability rolls while
+	injured, partially offsetting their Wound Penalties. This script was often
+	used to allow lightly injured soldiers to continue fighting, often in 
+	combination with a script to decrease the severity of the warrior's Wounds.
+	
+	I, Rignhildr, am thrice blessed
+	Gebo 15, Method I
+	Rignhildr receives a +3 bonus to all rolls involving meeting and 
+	influencing others. This script is very common, as it offsets some of the 
+	negative effects of The Gift, however since Rignhildr has the Gentle Gift,
+	she uses the script as a way boost her ability to work with others, as well
+	as being able to teach it anyone who *does* need it. The script itself is
+	often cast simply by inscribing the Gebo rune thrice on a small stick or 
+	stone before an important event, as despite the -14 to Casting Total, the
+	script itself is discreet and easy to hide.
+	
+	I, Rignhildr, make hands sure and nimble
+	Mannaz 15, Method I
+	For the duration of the effect, the target receives a +3 bonus to all 
+	natural Ability rolls involving Dexterity (but not Attack rolls).
+	
+	Rignhildr blesses the labours of the smiths
+	Mannaz 15, Method II
+	This script, often carved above the doorway of a smith, with an Arcane
+	Connection to him worked into the runes (most often a coin made for the 
+	purposes of this script), gives him a +3 bonus to any Ability rolls that 
+	involve working with others. Most often this applies to his apprentices and
+	aides, but it can also apply when fighting in a group.
+	
+	I, Rignhildr, give the sight of the huldra
+	Laguz 5, Method I
+	For the duration of the effect, the target can see clearly through water as
+	if it were clean air.
+	
+	Rignhildr summons the drinkable water
+	Laguz 10, Method II
+	These runes summon an amount of water that could fill an area about 10 
+	paces across and 10 paces deep, though the caster must include some 
+	Arcane Connection to the water being summoned. This is often done by using
+	water from a specific place to dissolve a dye and using it colour in the 
+	Laguz rune (which co-incidentally provides a +1 bonus to the Casting 
+	Total). This script is often used to summon potable water during 
+	expiditions, or, with repeated use, to displace water in a useful way.
+	
+	I, Rignhildr, prepare for the upcoming battle
+	Perth 10, Method I
+	For as long as the runes endure, Rignhildr rolls two less botch die 
+	whenever she must roll for a magical botch. Rignhildr is especially fond of
+	this script as she is very Natt-thel prone, and magical botches can end
+	terribly for her. She often carves this script onto a small stone, or stick
+	before casting major spells or going into battle as it is both easy to pull
+	off, and unlikely to botch.
+	
+	I, Rignhildr, grant the vision of the Aesir
+	Perth 10, Method I
+	For as longs as the runes endure, the target can sense Magic or Faerie 
+	auras within about 10 paces, and identify their strength.
+	
+	I, Rignhildr, carve the runes of life
+	Dagaz 25, Method I
+	If the runes last the whole year, the target (usually Rignhildr herself)
+	gains a -5 Bonus to her Aging rolls.
+	
+	I, Rignhildr, prepare the runes of healing
+	Naudiz (Berkanan) 25, Method I
+	This script binds another Berkanan rune to the target, delaying its 
+	resolution until it is triggered. The caster describes what sort of 
+	conditions cause the effect to activate (usually being wounded), and then
+	inscribes the rune spell for the bound effect next to to the Naudiz runes.
+	
+	I, Rignhildr, carve the runes to knit the flesh
+	Berkanan 25, Method I
+	This script is usually carved onto amulet and placed inside a target's 
+	clothing and heals a target's Medium Wound, and as long as the runes last
+	for at least a month (the recovery period for a Medium Wound), the effect 
+	is permanant. If the amulet is removed or damaged during this time, before
+	the wound would have healed naturally, the character must make an immediate
+	recovery roll for that injury. If this exceeds the Improvement Ease Factor,
+	then the wound remains healed. If this exceeds the Stable Ease Factor, then
+	the Medium Wound re-opens. Otherwise, it worsens to a Heavy Wound.
+	
+	Rignhildr binds the runes of healing
+	Naudiz (Berkanan, Mannaz) 25, Method II
+	This spells binds another Berkanan (Mannaz) spell, so that its duration 
+	lasts as long as the runes used in this spell. This script is often used
+	to ensure that a rune used to heal (or prevent healing) lasts as long as
+	necessary, even if the original runes are found and destroyed.
+	
+	Rignhildr alleviates the wounds of (target)
+	Berkanan (Mannaz) 25, Method II
+	This script reduces the severity of one of a target's wounds by two steps.
+	So long as the runes last until the reduced severity wound is healed, the 
+	effect is permanent. This script is often cast with an Arcane Connection to
+	the target worked into the runes, so that the target does not have to carry
+	the rune script with them, however versions written on amulets, and 
+	reinforced with Naudiz bindings are also common.
+	
+	I, Rignhildr, heal the grave wound
+	Berkanan 30, Method I
+	This script is usually carved into an amulet made from metal that is worn 
+	by the target and heals a target's Heavy Wound, and as long as the runes 
+	last for at least a reason (the recovery period for a Heavy Wound), the 
+	effect is permanent. See the conditions for "I, Rignhildr carve the runes 
+	to knit the flesh" for situations where the amulet is removed or damaged.
+	
+	I, Rignhildr, prepare the runes of pain
+	Naudiz (Kauno) 20, Method I
+	This spell binds another Kauno spell to a target, delaying its resolution 
+	until it is triggered. The caster describes what sort of conditions cause
+	the effect to activate, then inscribes the rune spell for the bound effect
+	next to the Naudiz runes. Brunhildr developed this script as a self-defense
+	method, as she can bind a rune to heat the knife or axe it's carved on, and
+	set the trigger to be if it bites into flesh.
+	
+	I, Rignhildr, carve the runes for searing heat
+	Kauno 20, Method I
+	This script heats an object hot enough to boil water, causing +5 Damage to
+	the target, or anything that's touching it each round. This script is often
+	used by Rignhildr as a convenient way to boil water if fire would be too
+	conspicuous or if fuel is unavailable. It can also be used to disarm or 
+	distract guards, though casting it in combat is still troublesome for her.

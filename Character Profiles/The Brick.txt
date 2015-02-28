@@ -1,0 +1,86 @@
+Klaus, The Brick
+
+
+
+Characteristics:
+	Int:  0
+	Per:  0
+	Pre: +2
+	Com: +1
+	Str: +5
+	Sta: +4
+	Dex: -2
+	Qik: -3
+Size: +2
+Age: 20 (20)
+Decrepitude: 0
+Warping Score: 0 (0)
+Confidence Score: 1 (3)
+Virtues and Flaw:
+	Virtues: (6)
+		Warrior (Minor, Social Status) -1
+			(Allows Martial Abilities, +50xp for them)
+		Giant Blood (Major, General) -3
+			(Klaus' Size is +2. His Wound Penalties increase in 7 point. He 
+			gets +1 to Str and Sta, and this can raise them up to +6)
+			increments)
+		Great Strength (Minor, General) -1
+			(Klaus is a hulk of a man, and his strength is almost unhuman)
+		Enduring Constitution (Minor, General) -1
+			(Klaus has an almost unending amount of energy and vigour. His 
+			Fatigue Level penalties are decreased by one point, and his total 
+			Wound Penalty is also reduced by one point. He also gets +3 to all
+			rolls to resist pain)
+	Flaws: (6)
+		Pack Mentality (Minor, Personality) +1
+			(Klaus is a follower, not a leader. He rarely takes the
+			initiative, but is usually happy to follow the direction of a 
+			decisive person. If he finds a leader, he tends to stick with them)
+		Carefree (Minor, Personality) +1
+			(Klaus is unshakably cheerful and happy in all circumstances)
+		Clumsy (Minor, General) +1
+			(Klaus is incredibly clumsy and tends to drop things. He is at -3
+			for all related rolls. He also rolls an extra botch dice when 
+			rolling actions related to Dexterity. Roleplay his clumsiness)
+		Indiscreet (Major, Story) +3
+			(Klaus is unable to keep a secret. He tells all to the first 
+			interested party in an effort to be helpful, unless she makes 
+			Intelligence-based stress roll vs. 9. If he botches, he may have to
+			be physically restrained (though that might be difficult) from 
+			answering any questions put to him for the remainder of the 
+			encounter)
+Personality Traits:
+	Carefree				+3
+	Loyal to his Friends	+3
+	Clumsy					+2
+Reputations:
+	
+Combat:
+	Pole Axe:	Init -6, Attack +8, Defense +2, Damage +16, Load 2
+	Fist:		Init -7, Attack +2, Defense +1, Damage  +3, Load n/a
+	
+	His armour consists of a hauberk of thick, leather lamellar (+3.5
+	Protection, +3.5 Load), boiled leather greaves (+1 Protection, +1 Load)
+	and dragonscale vambraces (+0.5 Protection, +0.5 Load)
+Protection: 3.5 + 1 + 0.5 = 5
+Soak: 4 (+5)
+Load: 2 + 3.5 + 1 + 0.5 = 7
+Encumbrance: 4
+Fatigue Levels: OK, 0, 0, -2, -4, Unc.
+Wound Penalties: -1 (1-7), -3 (8-14), -5 (15-21), Incap. (22-27), Dead (28+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+	Bavarian German		Rhyming Insults				5	75
+	Latin				Hermetic Use				4	50
+	
+	Athletics			Climb						3	30
+	Brawl				Wrestling					4	50
+	Carouse				Merrymaking					4	50
+	Great Weapon		Poleaxe						5	75
+	Ride				Trotting					2	15
+
+Appearance:
+	Klaus is big. Very big. He's built like a brick outhouse with a melon 
+	nailed to the top. He has brilliant blue eyes, golden blonde hair, and is a
+	prime specimen of manhood. He really is the sort of person who could get 
+	clubbed over the back of the head and not even notice it.

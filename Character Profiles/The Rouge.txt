@@ -1,0 +1,189 @@
+Sasha, The Rouge (Sniper)
+
+"Call me when you need to win."
+
+Characteristics:
+	Int: -1
+	Per: +3
+	Pre: +1
+	Com: -3
+	Str: +2
+	Sta:  0
+	Dex: +2
+	Qik:  0
+Size: -1
+Age: 16 (13)
+Decrepitude: 0
+Warping Score: 0 (0)
+Confidence Score: 0 (0)
+Virtues and Flaw:
+	Virtues: (10)
+		Puissant Bows (Minor, General) -1
+			(Treat any use of Bows as 2 higher than it actually is)
+		Affinity with Bows (Minor, General) -1
+			(All Study Totals for Bows are increased by half, as are Experience
+			Points put in to Bows during character creation)
+		Affinity with Leadership (Minor, General) -1
+			(Sasha is quick to grasp strategy and tactics, and can exert her 
+			will with great proficiency for someone her age.
+			All Study Totals for Leadership are increased by half, as are 
+			Experience Points put into Leadership during character creation)
+		Warrior (Minor, General) -1
+			(Sasha's skill with a bow did not go unnoticed for long, and she 
+			was accepted in to the army, however it wasn't long until her quick
+			grasp of battefield tactics (and constant disobedience of orders 
+			she thought were 'stupid'), and excellent perception was noticed
+			by a visiting general, who quickly took her on as his apprentice.
+			This generally made a lot of officers in the army incredibly angry,
+			as a child, no less a female child had stolen what they saw as the
+			position they were fighting for. In point of fact, many find it 
+			incredibly hard to believe that a female can accomplish anything,
+			let alone be a skilled tactician.
+			She may learn Martial Abilities at character generation, and has 50
+			extra xp for them)
+		Apt Student (Minor, General) -1
+			(Sasha is especially good at learning from others, and adds 5 to 
+			her Advancement Total any time someone else teaches her)
+		Book Learner (Minor, General) -1
+			(When learning from a book, treat the Quality of the book as 3 
+			higher than it actually is)
+		Greater Power (Major, Supernatural) -3
+			(Because Sasha is so close to the Platonic ideal for a bow-hunter,
+			the Magic Realm tries its best to make her 'the' ideal hunter. She 
+			has a Power that can be activated at will, designed as a Hermetic
+			Spell of a maximum Level of 50, and a Initiative of Qik - (Mag/2).
+			The Spell costs Mag/2 Might Points, and as Sasha has no Might, 
+			costs a Fatigue Level for each 5 Might Point cost, or fraction
+			therof)
+		Variable Power (Minor, Supernatural) -1
+			(As Sasha gets closer and closer to a perfect hunter, her powers
+			grow stronger and stronger. She may add 5 levels to her Greater 
+			Power for each point in her Bows Score, or add a similar effect of 
+			equal level (For example a shapeshifting power gains a new shape))
+	Flaws: (10)
+		Ability Block (Minor, General) +1
+			(Sasha has never had any skill with formal logic, and has no real
+			desire to learn it. As such she can't learn Artes Liberales, any 
+			Law, Medicine or Theology)
+		Small Frame (Minor, General) +1
+			(Sasha's Size is -1, and she takes Wounds in 4 point increments)
+		Enemies (Major, Story) +3
+			(Sasha has made herself many enemies in the army due to her quick
+			ascension through the ranks, and her great skill with strategy and 
+			tactics. More so, most army members think women shouldn't be in the
+			army, and are butt-furious that she has even a minor spot in the 
+			army, let alone apprenticed to a general. She will occassionally 
+			get attacked by mobs of army-men and anyone associating with her 
+			will probably end up in the Russian military's bad books. Often 
+			only her wits and tactical sense get her out of these situations
+			alive, and often barely so, with many injuries, or casualties)
+		Essential Flaw (Major, General) +3
+			(Sasha is a psychopath, through and through. She cannot feel 
+			emotion as most people would describe it, and this makes her come
+			across as incredibly cold. She has no problems with manipulating 
+			people for personal or strategic gain, and can be ice cold in all
+			but the most dire straits. This doesn't mean she doesn't have goals
+			or ambitions; just that nothing is off the table when it comes to 
+			achieving a particular goal. This does not mean she is cruel 
+			either (cruelty would be a foreign concept to a primary 
+			psychopath), simply that she would choose the most efficient or 
+			effective way forward. It should also be noted that a psychopath is
+			not someone who would necessarily throw away the lives of their 
+			comrades; in fact, most psychopaths put extremely high priorities 
+			on their comrades, and try to keep them alive. It's simply that if
+			losing a comrade is the only possible way to survive, they will 
+			have no scruples about doing so.
+			Sasha has the Essential Flaw Psychopath at -6, and must apply it to
+			any rolls involving showing or conveying emotion, or attempting to
+			sway someone through emotive means (as opposed to logic, or 
+			intimidation) 
+			Roleplay her lack of emotion. If you're having trouble imagining a
+			character who is a primary psychopath, think Nao from Aldnoah/Zero,
+			or Reki from Hidan no Aria, or Yin from Darker than Black)
+		Environmental Sensitivity(Minor, General) +1
+			(Sasha is unnaturally intolerant to salt water, and gets a -3 
+			penalty to Debilitation checks in salt water)
+		Unlucky (Minor, General) +1
+			(Sasha doesn't have much in the way of luck. She gets a -1 to -3 
+			penalty on rolls in situations where luck is the main factor rather
+			than skill or talent)
+Personality Traits:
+	Psychopath*	-6
+	Cold		+2
+	Ruthless	+2
+Reputations:
+	Sound Tactician (Moscow)				+1
+	Prodigal with a Bow (Slavic Countries)	+1
+Combat:
+
+	Fist:			Init -2, Attack + 5, Defense +3, Damage +2, Load n/a
+	Throwing Knife:	Init  0, Attack + 8, Defense +5, Damage +6, Range  5, Load 0
+	Composite Bow:	Init -4, Attack +16, Defense +10, Damage +9, Range 30, Load 2
+	
+	Sasha wears no armour to speak of.
+Powers:
+	(50 + 5*Bows for the Power)
+	A Hunter Is Never Without Her Arrows
+	R:Touch, D:Sun, T:Group
+	Might Cost 1, Init Qik - 6, Terram
+	This spell conjures a bolt, arrow, or other type of ammunition (assuming
+	Sasha knows what the ammunition looks like) made from a hardened shaft of
+	steel and a tip of Sasha's choice. 
+	The arrow lasts for a while to allow for travel time, as well as so it can 
+	be used later if need be. The Rego requisite allows the arrow to be 
+	propelled by the bow/ballista/arbalest used as if it weighed the same as a
+	feather.
+	The Base is the sum of the base for create base metal (Base 5 for iron),
+	and create precious gemstone (+5 Magnitudes). The Group target allows for a
+	greater amount of material (as well as several materials) to be generated 
+	so that a bolt for a seige weapon could be created.
+	Each additional magnitude can add an aditional type of arrow or material of
+	arrow and/or tip.
+	The arrows themselves provide Attack +2, Damage +2 due to their high speed.
+	Tip Options:
+		Broadhead Tips 	(Attack -2, Damage +2) 
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+	Material Options:
+		Diamond 		(Attack +2, Damage +4)
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+		______________	(Attack __, Damage __)
+	Cr(Re)Te 60 (Base 30, +1 Touch, +2 Sun, +2 Group, +1 Requisite): 
+	Personal Power (50 Levels, +10 Levels, Might Cost -5)
+Soak: 0
+Protection: 0
+Encumbrance: 0
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-4), -3 (5-8), -5 (9-12), Incap. (13-16), Dead (17+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+	Russian				(Military Terms)			5	75
+	
+	Athletics			(Movely Silently)			4	50
+	Awareness			(Spotting Guards)			3	30
+	Bows				(Composite Bows)			7+2	150
+	Brawl				(Daggers)					3	30
+	Leadership			(Tactics)					4	68
+	Hunt				(Tracking)					3	30
+	Stealth				(Hiding)					4	50
+	Survival			(Forests)					2	15
+	Thrown Weapon		(Knives)					5	75
+Appearance:
+	Sasha is a short, slim girl, who looks even younger than she is. She has
+	stunning blue eyes, and pitch black hair, which falls loosely around her
+	shoulders. Her features are reasonably androgynous, and with a name like
+	Sasha, it's hard to tell at first glance whether she's a male or a female.
+	This causes Sasha no end of trouble, as she is neither good at 
+	communicating, nor does she enjoy the attention that comes with being 
+	beautiful. 
+	Sasha has a reasonably cold demeanour, and has a shoot-first-ask-questions-
+	never sort of outlook on her jobs. She usually prefers to let the delegates
+	and other officials do the bargaining, and simply for them to call on her
+	if her combat skills are needed.
+	When otherwise engaged in conversation, 
+	she is quiet and curt, only talking when it is absolutely necessary.
+	

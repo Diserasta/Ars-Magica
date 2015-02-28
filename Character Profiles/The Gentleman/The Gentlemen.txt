@@ -1,0 +1,136 @@
+Marth, The 'Gentleman'
+
+"Marth Delarius, Baccalaureus Artium, Fourth in Line to 
+the Duchy of Cambridge. Pleasure to meet you."
+
+Characteristics:
+	Int: +2
+	Per: +2
+	Pre: +1
+	Com: +2
+	Str:  0
+	Sta:  0
+	Dex: +2
+	Qik: -2
+Size: 0
+Age: 22 (20)
+Decrepitude: 0
+Warping Score: __ (___)
+Confidence Score: 1 (3)
+Virtues and Flaw:
+	Virtues: (7)
+		Baccalaureus (Social Status, Minor) -1
+			(Marth has completed a three-year program at the university of 
+			Cambridge, and has 90xp to spend between Latin and Artes Liberales.
+			He may continue his university career to work towards his magister
+			in arbitus degree, but currently only teaches extra-ordinary 
+			lectures on debating, logic and rhetoric, as well as gleaning 
+			information. He is unavailable for one season due to teaching, but 
+			his other lessons are spread between September and July, so his 
+			Summer is truly free)	
+		Minor Enchantments (Minor, Supernatural) x2 -2
+			(Marth has used his status as a baccalaureus and a noble to buy and
+			acquire several magical items. He has 50 levels worth of effects, 
+			designed as Hermetic enchantments, including uses-per-day, but no 
+			single effect should be greater than Level 30)
+		Improved Characteristics (Minor, General) -1
+			(Marth has 3 extra points to spend on his Characteristics)	
+		Good Teacher (Minor, General) -1
+			(Add 5 to the Advancement Total of anyone Marth teaches, and 3 to
+			the Quality of any books he writes)	
+		Mild Aging (Minor, General) -1
+			(Marth's mother often fussed over him and insisted he eat healthy 
+			and keep a good regiment of exercise, and this has slowly rubbed 
+			off on him. He gets a +1 to his Living Conditions modifier, as well
+			as a +3 bonus on rolls to survive an aging crisis)	
+		Unaffected by the Gift (Minor, General) -1
+			(Marth is strangely unaffected by the social penalties of the Gift,
+			or even the Blatant Gift. He finds it quite confusing why people 
+			are so distrusting of mages when they are such boons to anyone who
+			can befriend them)
+	Flaws: (7)
+		Ambitious (Minor, Personality) +1
+			(Marth wants to be both a great debater, and an even greater spy,
+			and does not like doing things that do not move towards either 
+			goal)
+		Fish Out of Water (Cities) (Minor, General) +1
+			(Marth feels out of place when outside of major city, town or 
+			castle. He is at a -1 at all stress rolls, and suffers one more 
+			botch die than normal in these situations)	
+		Divine Stigmatic (Minor, Supernatural) +1
+			(Whenever Marth enters a Divine aura of strength 4 or greater, or is
+			affected by a power greater than 4th magnitude from that realm, he 
+			suffers from stigmata. Specifically, thin, angular lines cut their 
+			way into his skin (think circuits) from his hands, up to his elbows
+			This inflicts a Long-Term Fatigue Level on him until he leaves or 
+			the effect wears off. If he ever recieves a Warping Point from a 
+			Divine source, his stigmata erupt so violently he also takes a 
+			Light Wound)
+		Heir (Minor, Story) +1
+			(Marth, being fourth in line to the Duchy of Cambridge may in fact
+			inherit the Duchy as his brothers and sister are awfully prone to 
+			danger (one brother takes offense easily and challenges too many
+			people to duels, while the other enjoys combat and served in the
+			Crusades, and is kind of disappointed that they are now done). Due
+			to this, his siblings, or other conspirators might attempt to 
+			remove him for the succession on occassion.)	
+		Hunger for Corpus Magic (Major, Supernatural) +3
+			(Ever since he was a boy, Marth has always needed to consume Corpus
+			vis, at least once a season, or he felt exhausted and lethargic (he
+			loses a Long-Term Fatigue Level until he does consume some Corpus
+			vis). This was often achieved by his family giving him some violet 
+			jam (which coincidentally contained Corpus vis due to lovers' 
+			trysts in the field where it was grown) made from a nearby field.
+			Once Marth figured out the source of his exhaustion, he became very
+			interested in Magic and why he had such a strange ailment)
+Personality Traits:
+	Amitious			+2
+	Cocky				+3
+	Self-Interested		+1
+Reputations:
+	Sound Debater (Cambridge University)	+1
+Combat:
+	
+	The Sabre:	Init -1, Attack +11, Defense +5, Damage +5, Load 1
+	Fists:		Init -2, Attack + 4, Defense  0, Damage  0, Load n/a
+	
+	Marth wears no armour to speak of.
+Soak: 0
+Protection: 0
+Encumbrance: 1
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	
+	Ability				Specialty					Sc	Xp
+	English				(Debating)					5	75
+	Latin				(Debating)					4	50
+	
+	Animal Handling		(Horses)					2	15
+	Artes Liberales		(Rhetoric)					4	50
+	Athletics			(Contortions)				3	30
+	Awareness			(Searching)					3	30
+	Bows				(Short Bows)				3	30
+	Brawl				(Disarming)					2	15
+	Carouse				(Staying Sober)				2	15
+	Charm				(Being Witty)				3	30
+	Etiquette			(Nobility)					4	50
+	Folk Ken			(Nobles)					3	40
+	Guile				(Commoners)					4	50
+	Intrigue			(Plotting)					3	40
+	Legerdemain			(Picking Locks)				3	30
+	Leadership			(Inspiration)				2	15
+	Hunt				(Tracking)					2	15
+	Ride				(Speed)						3	30
+	Single Weapon		(Sabre)						4	50
+	Stealth				(Urban Areas)				3	30
+	Swim				(Underwater Maneuvering)	2	15
+	Teaching			(Artes Liberales)			2	15
+Appearance:
+	Marth is a slim, if well-toned man. He has unkempt, short brown hair and 
+	bright green eyes. He often has a small, self-confident smirk on his face.
+	He is the third son of the Duke of Cambridge, making him a direct heir of
+	the Duchy, however he does not have much interest in the position. He 
+	actually desires to become a man of intrigue; a spy, or a diplomat.
+	When he engages in his more... dubious activities, he wears a blue 
+	butterfly mask.

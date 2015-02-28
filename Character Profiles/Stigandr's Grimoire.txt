@@ -1,0 +1,227 @@
+St¨ªgandr's Grimoire
+
+	I, St¨ªgandr gift the sight of the huldrae
+	Laguz 5, Method I
+	This script, often carved into a ring, or an amulet, allows whoever is
+	wearing it to see through water as it were air. This script is often used
+	by viktir accompanying sailors or raiding parties as it's low cost allows
+	for quick scribing.
+	
+	St¨ªgandr gives the gift of water sight
+	Laguz(Mannaz) 5, Method II
+	This script allows its target to see through water as if it were air. This
+	variant on the usual water-sight script was designed for use in storms, 
+	where a man might get thrown overboard, in which case, the viktir would 
+	cast or even quick cast a suite of spells, this being one of the first one
+	both so a rescue can be attemped and so the poor soul now trapped 
+	underwater can orient himself.
+	
+	I, St¨ªgandr sense the magical air
+	Perth 10, Method I
+	This script, often carved into a small amulet allows its wearer to sense
+	Magical or Faerie auras with 10 paces of them, as well as their strength.
+	
+	St¨ªgandr readies the demon-slaying sword
+	Thurisaz 12, Method II
+	These runes, usually carved onto a piece of bone attached to a sword, or
+	spear, reduce the Might Scores of any supernatural creatures (if it 
+	penetrates) within about 10 paces by 2.
+	
+	I, St¨ªgandr, am thrice blessed
+	Gebo 15, Method I
+	St¨ªgandr receives a +3 bonus to all rolls involving meeting and influencing
+	others. This script is very common, as it offsets some of the negative 
+	effects of The Gift, however since St¨ªgandr has the Blatant Gift, it only
+	allows him the pleasure of being treated with universal dislike and 
+	distrust, instead of blind hatred, fear and murder attempts.
+	
+	St¨ªgandr curses his enemies with weeping wounds
+	Berkanan(Mannaz) 20, Method II
+	For as long as this script lasts, none of the target's Light Wounds will
+	heal naturally (N.B. All wounds must become Light Wounds to heal 
+	naturally), though they can still be healed magically.
+	
+	I, St¨ªgandr bring about Ragnarok
+	Hagalaz 25, Method I
+	These runes, often carved into a tablet, or the wall of a building, summon
+	a blizzard in the area around the runes, even if a blizzard would not 
+	normally be possible in that climate. The blizzard is not under the 
+	caster's control, and will continue until it has snowed itself out, and 
+	then dissipate. The snow and ice left behind will melt quickly in warmer
+	climates.
+	
+	I, St¨ªgandr incite the heat of the forge
+	Kauno 30, Method I
+	This script, often quick cast by St¨ªgandr, causes an object to become hot
+	enough to melt lead, causing it to do +15 Damage to the target, or anyone
+	touching it each round.
+	
+	I, St¨ªgandr, dedicate helmet-destroying hail
+	Hagalaz 30, Method I
+	This rune gives the weapon on which it is inscribed a +6 bonus to Damage.
+	
+	St¨ªgandr curses (target) with Hel's sickness
+	Kauno(Mannaz) 30, Method II
+	This script, often carved near the target, and immediately removed or 
+	destroyed; or far far away, with an Arcane Connection to the target, 
+	inflicts a Serious (with a Severity of no greater than 15) disease, as 
+	described below, that will not heal naturally so long as the runes last. 
+	Often simply casting the script is enough to cripple the target, and so 
+	St¨ªgandr will immediately destroy the runes.
+	
+	I, St¨ªgandr prepare the deadly curse
+	Naudiz(Kauno, Mannaz) 30, Method I
+	This script delays the resolution of another Kauno or Kauno Mannaz effect
+	until this spell is broken. When carving the script, the caster describes 
+	what conditions cause the spell to trigger, and then carves the bound 
+	effect next to this script.
+	
+	St¨ªgandr carves the runes for (target's) health
+	Dagaz(Mannaz) 25, Method II
+	This script gives the target a +5 to Aging rolls so longs as the runes last
+	the whole year.
+	
+	St¨ªgandr ensures a disease-ridden death for (target)
+	Kauno(Mannaz) 30, Method II
+	The target receives a -18 penalty to recovery rolls due to sickness or 
+	disease, often sealing their fate to a gruesome death. This does not 
+	include recovery rolls for physical injuries. It is also worth noting
+	that this script will inflict a Warping Point when cast, and an additional
+	one each season it lasts, essentially condemning the target to succumbing to
+	Warping, or to disease eventually. This script is often combined with one 
+	to inflict a relatively minor disease with a long recovery interval, which 
+	when combined with this script, ensures nearly no chance of improvement 
+	unless the target has magical aid.
+	
+	I, St¨ªgandr bring the heat of Nidhoggr's flames
+	Kauno 45, Method I
+	This script ingites its target, or causes it to become unnaturally hot (if
+	it does not burn). This does +30 Damage to the target, or anything touching
+	it each round. St¨ªgandr uses this script often on the weapons of his 
+	enemies, or even fast-cast and carved into their flesh (on a successful 
+	attack with Attack Advantage > 6), as it essentially guarantees a kill.
+	
+	I, St¨ªgandr see surely through the night
+	Sowilo 10, Method I
+	This script allows the target to see in the dark as if it were daylight. It
+	is traditionally carved into a small twig carried with the viktir during 
+	the night, and then burned on a campfire at daybreak.
+	
+	I, St¨ªgandr sense the pure and corrupted air
+	Sowilo 10, Method I
+	This script, often scribed into an amulet, allows its wearer to sense 
+	Divine or Infernal auras within about 10 paces, as well as identify their
+	strength.
+	
+	St¨ªgandr has need of his weapons
+	Othila 20, Method II
+	This spell summons a weapon to which the viktir has an Arcane Connection, 
+	causing it to appear nearby, usually in the viktir's hand. A clever viktir 
+	might use Method III to acheive this.
+	
+	St¨ªgandr sharpens this weapon for (target)
+	Othila(Mannaz) 25, Method II
+	This script gives the target a +5 bonus to his Initiative, Attack and 
+	Damage score so long as he wields the weapon this script was cast on.
+	
+	I, St¨ªgandr learn of my precious family
+	Ingwaz 20, Method I
+	This script, often scribed quickly on a coin the target is holding, or
+	any hard piece of clothing (or even skin if chalk or dye is available) 
+	gives the target an instinctive understanding of where his or her family 
+	is, including distance, direction and their current emotional state. 
+	St¨ªgandr will often cast this at the beginning of each day, and during his
+	meals when his family members are away from home (he's a bit of a 
+	worry-wart), and cancels it if he thinks they are reasonably safe. If he
+	knows, or detects that they are going into trouble, he will often keep the
+	spell going for days on end so he can keep tabs on them and help them if 
+	need be.
+	
+	St¨ªgandr protects his precious family
+	Tiwaz(Mannaz) 25, Method II
+	This script, learnt by St¨ªgandr so he can aid Runa and Rignhildr even when
+	they are away, gives the target a +5 to Defense rolls, so long as the runes
+	last. 
+	
+	St¨ªgandr strengthens his precious family
+	Tiwaz(Mannaz) 25, Method II
+	This script, learnt by St¨ªgandr so he could aid Runa and Rignhildr while 
+	they were away, gives the target a +5 to their Attack rolls, so long as the 
+	runes last.
+	
+	St¨ªgandr reassures his precious family
+	Tiwaz(Ingwaz) 20, Method II
+	This script, often carved before St¨ªgandr, or any of his family go on a 
+	long or treacherous trip, increases the target's Confidence Score by 1, so
+	long as their current Confidence Score is no greater than 1.
+	
+	I, St¨ªgandr ready a boon for the coming conflict
+	Naudiz(Tiwaz, Mannaz) 20, Method I
+	This script delays the resolution of another Tiwaz or Tiwaz Mannaz effect
+	until this spell is broken. When carving the script, the caster describes 
+	what conditions cause the spell to trigger, and then carves the bound 
+	effect next to this script.
+	
+	I, St¨ªgandr steel my spells
+	Perth 10, Method I
+	This script decreases the amount of botch dice the target rolls for a 
+	magical botch by two. Not really a spell in St¨ªgandr's normal repoitre,
+	he learnt it from his wife after a particularly bad botch that left him
+	without his magic for half a year.
+	
+	I, St¨ªgandr carve the runes of quality
+	Othila 15, Method I
+	These runes, when carved on an object, make it better at its function. A
+	sword becomes light and sharp, a pick more able to dig into the earth. The
+	object functions as if it were of Exceptional Quality, and reduces the 
+	potential botch dice when used by two.
+	
+	St¨ªgandr calms the raging storm
+	Hagalaz 20, Method II
+	This script lessens the severity of any storm or harsh weather nearby, or 
+	that has had an Arcane Connection to it worked into the runes. The 
+	decreases in severity are as per the Creo Aurum Hermetic Guidelines. 
+	(very severe -> severe -> normal -> minor -> calm)
+	
+	St¨ªgandr empowers nature's fury
+	Hagalaz 20, Method II
+	This scripts increases the severity of any weather phenomenon nearby, or 
+	that has had an Arcane Connection to it worked into the runes. The 
+	increases in severity are as per the Creo Aurum Hermetic Guidelines.
+	(minor -> normal -> severe -> very severe)
+	
+	I, St¨ªgandr ready the runes of suffering
+	Naudiz(Hagalaz) 25, Method I
+	This script delays the resolution of another Hagalaz effect until this 
+	spell is broken. When carving the script, the caster describes what 
+	conditions cause the spell to trigger, and then carves the bound effect 
+	next to this script.
+	
+	St¨ªgandr brings hail to crush his enemies
+	Hagalaz(Mannaz) 30, Method II
+	This script, after being carved on a surface, pummels a human target within
+	ten paces of it (or to which an Arcane Connection has been inscribed) with 
+	solid pieces of ice, doing +15 Damage each round.
+	
+	St¨ªgandr brings the chill of Hel to (target)
+	Isa(Mannaz) 10, Method II
+	This script, when cast, causes the target to lose a Fatigue Level, and 
+	become cold to the touch.
+	
+	Notes:
+	
+	Hel's Sickness
+	Serious Sanguine Disease, Severity 15
+	Stable: 12, Improve: 18, Interval: Week
+	Caused by a curse, this disease is difficult to resist even by those of
+	strong constitution, and even harder to shake off. It is rumoured the 
+	disease will not go away until the curse is lifted.
+	Symptoms: Chills, fever, nausea, mild muscular spasms and pains. If the 
+	disease worsens to a Major disease, muscle and bone rot sets in and the 
+	patient is inflicted by the Enfeebled Flaw, and will find it incredibly 
+	difficult to move with the constant pain, and any action requiring a 
+	Fatigue roll also requires an immediate Disease Recovery roll (before the 
+	Fatigue roll), with no chance of improvement.
+	If this roll is above the Stable Ease Factor, then nothing happens. If it 
+	is below the Stable Ease Factor, the patient suffers an immediate Medium
+	Wound as he has torn a muscle group during the strenuous period.

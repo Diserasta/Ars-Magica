@@ -1,0 +1,118 @@
+Iizak, the Hitman
+
+"Well that's curious."
+
+Characteristics:
+	Int:  0
+	Per:  0
+	Pre:  0
+	Com: +1
+	Str: -1
+	Sta:  0
+	Dex: +1
+	Qik: +3
+Size: 0
+Age: ___ (___)
+Decrepitude: __ (__)
+Warping Score: __ (____)
+Confidence Score: __ (__)
+Virtues and Flaw:
+	Virtues: (5)
+		Affinity with Single Weapon (Minor, General) -1
+			All Study Totals for Single Weapon are increased by half, rounded 
+			up, as is any experience spent on it at character creation. 
+		Essential Virtue (Major, General) -1
+			Iizak has the Essential Virtue Surprise Attacks at +3, and this can
+			not be influenced by magic. This Trait applies to any time Iizak 
+			attacks someone while they are unaware of him.
+		Spring Regio Network (Minor, Supernatural) -1
+			As reward for copmleting a task for a magical spirit that 
+			inhabited a lake that a man had been murdered in (Iizak was to find
+			the killer and bring him to her), Iizak was allowed access to a 
+			network of regiones located at the bottom of lakes and springs. He 
+			may move from any regio to any other regio in the network in one 
+			Diameter, regardless of geographic distance.
+			Iizak may attempt to figure where a networked regio is located in a
+			particular area with a Intelligence + (Area) Lore roll against an 
+			Ease Factor of 9.
+		Puissant Stealth (Minor, General) -1
+			Treat any use of Stealth as two higher than it actually is.
+		Magical Blood (Minor, General) -1
+			Iizak has a -1 bonus to all Aging rolls.
+			
+	Flaws: (5)
+		Weak Taste (Personality, Minor) +1
+			Iizak's sense of taste is so weak that only highly flavoured food 
+			is palatable, and as such he often piles spice onto his food.
+		Weakness (Personality, Minor) +1
+			Iizak has a soft spot for a pretty face and a nice voice, and this 
+			has caused him no end of trouble. It has however, gotten him to 
+			work with Magical creatures, that he would've otherwise never met
+			or worked with due to most people's fear of them. Curiously, his
+			Spring Regio Network was granted by a Huldra.
+		Outlaw (Social Status, Major) +3
+			Iizak has been outlawed from most of Italy for his occassional
+			hired murder where he was seen, and has a reputation to match.
+Personality Traits:
+	Surprise Attacks*	+3
+	Curious				+2
+	Sociable			+2
+Reputations:
+	Assassin	+1	(Buda/Pest)
+	Magical Problem Solver +2 (Magical Creatures of Eastern Europe)
+	Outlaw		+2	(Italy)
+Combat:
+	________:		Init ___, Attack ___, Defense ___, Damage ___
+	________:		Init ___, Attack ___, Defense ___, Damage ___
+	________:		Init ___, Attack ___, Defense ___, Damage ___
+	
+
+Soak: 0
+
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	Ability				Specialty					Sc		Xp
+	Russian				(Being Polite)				__		___
+	Athletics			(Running)					__		___
+	Awareness			(Spotting Guards)			__		___
+	Bows				(Short Bows)				__		___
+	Brawl				(Punches)					__		___
+	Budapest Lore		(Heathland)					__		___
+	Charm				(Women)						__		___
+	Folk Ken			(Nobles)					__		___
+	Great Weapon		(Claymore)					__		___
+	Guile				(Caught Red-Handed)			__		___
+	Hungary Lore		(Cities)					__		___
+	Intrigue			(Alliances)					__		___
+	Legerdemain			(Picking Pockets)			__		___
+	Magic Lore			(Magical Creatures			__		___
+	Ride				(Battle)					__		___
+	Russia Lore			(Cities)					__		___
+	Single Weapon		(Swords)					__		___
+	Stealth				(Hiding)					__+2	___
+	Survival			(Forests)					__		___
+	Swim				(Long Distances)			__		___
+	Teaching			(Martial Abilites)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+	______________		(_________________)			__		___
+Powers:
+	
+Appearance:
+Iizak is an average height guy, with incredibly pale skin, and deep blue eyes.
+He was shaggy neck-length white hair, though it seems to shine slightly blue in
+sunlight. He usually wears peasant's clothing, though he dows own more 
+expensive clothing for when the situation calls for it.
+
+Iizak is a rather curious and often helpful guy, and has made a bit of a 
+reputation for himself as a general problem solver. Most people just assume 
+that this means he's a hitman, but that's hardly the case. He's willing to do
+most anything for a decent price, and has even been contracted by magical 
+creatures and the fae on occassion. It's from these jobs that he acquired his
+magical blood and regio network, as most magical creatures have no use for 
+money and pay for his services in other ways.

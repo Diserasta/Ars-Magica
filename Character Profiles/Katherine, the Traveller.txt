@@ -1,0 +1,64 @@
+Katherine, the Traveller
+
+Characteristics:
+	Int:
+	Per:
+	Pre:
+	Com:
+	Str:
+	Sta:
+	Dex:
+	Qik:
+Size: +1
+Age: 23 (23)
+Decrepitude: __ (___)
+Warping Score: __ (___)
+Confidence Score:  ()
+Virtues and Flaw:
+	Virtues:
+		Persona (Minor, Supernatural) -1
+			(Katherine is able to take on multiple personas. These personae are
+			all physically distinct, and have different personalities. It takes
+			one round to change between personas, and the changes are total. To
+			all mundane and magical investigation, the personas are separate 
+			people. This grants the Ability Persona, which begins at 1 and 
+			allows for an extra persona whenever it is raised. The new persona
+			must be created immediately when the Ability is raised)
+		
+	Flaws:
+		
+Personality Traits:
+	Katherine:
+		Determined		+3
+		Friendly		+2
+		
+	Fritz:
+		Carefreee		+3
+		Jovial			+2
+Reputations:
+
+Combat:
+
+Soak:
+Protection:
+Encumbrance:
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	Ability				Specialty					Sc	Xp
+	Breton				(Poetry)					5	75
+	Latin				(____________)				5	75
+	
+	Music				(Singing)					4	50
+	Persona				(N/A)						3	30
+Powers:
+	
+Appearance:
+	Katherine:
+		Katherine is quite tall for a woman, coming in at just over 174cm. She has
+		long, copper hair which reaches halfway down her back, and pale skin, 
+		dotted with a few freckles here and there.
+	Fritz:
+		Fritz is pretty much what you'd expect when you hear the name Fritz. 
+		He's tall, well-built and tanned. He has short, cropped black hair, 
+		and brilliant blue eyes.

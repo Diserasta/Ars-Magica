@@ -1,0 +1,125 @@
+Dantalion, Great Duke of Hell
+Infernal Might: 25 (19) (Mentem)
+Characteristics:
+	(-5)
+	Int: +5
+	Per: -2
+	Pre: -2
+	Com: +2
+	Str: +4
+	Sta: +3
+	Dex: +3
+	Qik: +2
+Size: 
+Age:  ()
+Confidence Score: 1 (3)
+Hierarchy Score: 7
+Virtues and Flaw:
+	Virtues:
+		Good Teacher (Minor, General) -1
+			Add 3 to the Quality of books Dantalion writes, and 5 to the 
+			Advancement Total of anyone who studies with him.
+	Flaws:
+		
+Personality Traits:
+	Proud		+6
+	Clever		+6
+	Gluttonous	+4 (Desire to gain knowledge)
+	
+Reputations:
+	Great Duke of the Southern Hells +7
+Combat:
+
+Soak:
+Fatigue Levels: OK, 0, -1, -3, -5, Unc.
+Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
+Abilities:
+	
+	Ability				Specialty					Sc	Xp
+	Artes Liberales		(Logic)						10	275
+	Athletics			(Running)					2	15
+	Bargain				(Hard Sell)					4	50
+	Charm				(First Impressions)			4	50
+	Chirurgy			(Diagnosis)					10	275
+	Dominion Lore		(Divine Creatures)			1	5
+	Etiquette			(Nobles)					5	75
+	Infernal Lore		(Demons)					11	330
+	Intrigue			(Formal Conduct)			6	105
+	Leadership			(In Combat)					5	75
+	Magic Lore			(Creatures)					1	10
+	Medicine			(Physician)					10	275
+	Music				(Composition)				10	275
+	Philosophiae		(Moral Philosophy)			10	275
+	Teaching			(Artes Liberales)			10	275
+	Theology			(History)					10	275
+	
+	
+	
+Powers:
+
+	
+	N.B. Boundary +5 is roughly the diamater of the Earth. As such it should
+	pick up all humans on Earth. Also worth noting is that his constant Gather
+	the Thoughts power means that he can sense all the humans by virtue of his
+	constant telepathic connection with them, however this would seem to break
+	Hermetic Limits, as the spell must have begun at some point.
+	
+	Coagulation
+	3 points, Init -1, Corpus
+	Allows Dantalion to condense into his physical form. This takes 25 rounds
+	(just over 1 Diameter), and may be cancelled at any time. He may also
+	return to his spiritual form at any time with a round of Concentration.
+	
+	Obsession
+	1-3 points, Init -5, Vim
+	(Obsession to Gluttony)
+
+	Gather the Thoughts of Man and Woman
+	Incantation, Psychomania, Level 60
+	Might Cost 6, Init -4, Mentem (Constant)
+	R:Touch, D:Sun, T:Boundary +5 (An area 10,000,000 paces in diameter)
+	Dantalion learns the thoughts of any human, or group of humans that he
+	wants whenever he concentrates.
+	(Base 4, +1 Touch , +2 Sun, +4 Boundary, +5 Size)
+	
+	Mold the Minds of Man and Woman
+	Debauchery, Psychomania, Level 25
+	R:Arcane Connection, D:Concentration, T:Individual
+	Might Cost 2, Init -4, Mentem
+	Allows Dantalion to change the emotional state of a human he has an
+	Arcane Connection to.
+	(Base 4, +4 Arcane Connection, +1 Concentration)
+	
+	Mold the Thoughts of Man and Woman
+	Debauchery, Psychomania, Level 40
+	R:Arcane Connection, D:Concentration, T:Individual
+	Might Cost 4, Init -4, Mentem
+	Allows Dantalion to change the Personality traits (one step per round, up 
+	to ¡À6) of a human whom he has an Arcane Conncetion to.
+	(Base 15, +4 Arcane Connection, +1 Concentration)
+	
+	Touch the Mind of The Human
+	Debauchery, Diablerie, Level 55
+	R:Touch, D:Diameter, T:Boundary +5 (An area 10,000,000 paces in diameter)
+	Might Cost 5, Init -4, Mentem
+	Dantalion causes an object (usually his tome) to become a temporary Arcane
+	Connection to any human.
+	(Base 4, +1 Touch, +1 Diameter, +4 Boundary, +5 Size)
+Weakness:
+	Protected Group: The Uneducated
+	
+Vis:
+	5 pawns of Mentem vis, in the tome he carries.
+Appearance:
+	Dantalion is man with many appearances, having the countanance of every
+	man and woman. He is of medium height and build, and carries a large tome
+	in his right hand. He is often seen wearing the clothes of a scholar, but
+	more often simply appears with the same clothes as the summoner.
+	
+Dantalion is a Great Duke of Hell, having command of 36 legions of demons. He 
+is not particularly good-natured, but will perform what is asked of him if an
+offering of equal value is given to him. He often seeks knowledge of other
+realms as they interest him greatly.
+He knows all arts and sciences, and can teach them to anyone. He also knows the
+thoughts of every man and woman, and can tell the summoner of any secret known
+by a human.

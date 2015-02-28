@@ -1,0 +1,44 @@
+General Demon Powers
+
+Coagulation
+	1 point per 10 Might or fraction therof, Init -1, Corpus
+	This Power allows demons to manufacture a solid body from the ambient, 
+	unformed matter of the universe. They may only take a single specific
+	form with this Power (the one described under Appearance) unless they have
+	another Power that allows them to alter it. Manifesting a physical form 
+	takes a round for each point of Infernal Might the demon has. The demon can
+	end this effect at any time, returning to it's rarefied form. Dissolution
+	of the solid form is almost instantaneous, taking only a round of 
+	Concentration from the demon.
+	
+Obsession
+	1-3 points, Init -5, Vim
+	Every demon possesses a particular sin - called its Obsession Trait - which
+	it may attempt to impose upon a mortal whenever a mortal indulges a venial 
+	sin. A demon can only use this Power when there is chink in the armour of 
+	virtue; that is, when a person is indulging in sinful thoughts or deeds. At
+	such moments, the demon can impose its Obsession Trait, if it penetrates 
+	Magic Resistance. The victim is assailed with sinful thoughts, and acquires
+	a Personality Trait to represent these thoughts, with a score equal to the 
+	number of Might Points spent by the demon (maximum of 3). When the victim
+	is next presented with the opportunity to act on the Obsession Trait, the
+	victim's player must make a simple roll + any other suitably opposed 
+	Personality Trait to successfully resist the impulses. If the Obsession 
+	roll fails, then the demon's Power has failed and the Obsession Trait is 
+	lost. If the Obsession roll is higher, the victim gives in to sin, 
+	permanently acquiring the Obsession Trait at +1. Any further succumbing to
+	this trait counts as sinful, rather than as an action forced by the demon.
+	
+Envisioning 
+	1 or 5 points, Init +0, Mentem
+	This power allows a demon to appear in the dreams of a sleeping target (in 
+	which case it costs 1 point), or make the target experience a waking dream 
+	or vision (in which case it costs 5 points). A demon cannot instantly make
+	substantial changes to a dream, but instead gradually twists it to take on 
+	a darker and frightening tone, and can speak through any figure from the 
+	subject's subconscious. A waking dream is more obvious; the victim suffers
+	an immediate and powerful hallucination of whatever the demon desires. This
+	may be so frightening the victim is stunned for a round, and must make a 
+	Brave Personality roll against an Ease Factor of 9 or have an extreme 
+	reaction, such as retching, convulsions or abject terror. This is the only
+	way a spiritual demon can communicate with mortals.

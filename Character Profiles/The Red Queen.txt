@@ -1,0 +1,195 @@
+Relly, The Red Queen
+
+
+
+Characteristics:
+	Int: +2
+	Per:  0
+	Pre: +1
+	Com: -2
+	Str: +1
+	Sta:  0
+	Dex: +2
+	Qik: +2
+Size: -1
+Age: ___ (___)
+Decrepitude: __ (___)
+Warping Score: __ (___)
+Confidence Score: 1 (3)
+Virtues and Flaw:
+	Virtues: (10)
+		The Gift (Special)
+			(Relly has The Gift, and knows how to use it)
+		Faerie Blood (Minor, Supernatural) -1
+			(Relly has the blood of the Sidhe in her, and receives a +1 to 
+			Presence, as well as a -1 to all aging rolls. Her strange 
+			appearance is probably due to this lineage)
+		Gentle Gift (Major, Hermetic) -3
+			(Relly's gift is gentle, and doesn't disturb others the way a 
+			normal Gift would. She suffers no social penalties due to her 
+			magical nature)
+		Fast Caster (Minor, Supernatural) F
+			(Relly can write rune scripts much more quickly than other vitkir,
+			and can accurately inscribe the runes in half the normal time. She 
+			can also fast-cast rune spells, much the same way Hermetic Magi can
+			fast-cast spontaneous spells, though she must always leave off her
+			name and the description of the effect, as there isn't time to 
+			inscribe them)
+		Secret Runes (Minor, Supernatural) x2 -2
+			(Relly may hide the runes that describe the effect of her rune 
+			scripts, or omit the description entirely, without suffering a 
+			penalty to her Casting Total. She gains no benefit from inscribing
+			runes normally but does receive the normal benefit for exaggerating 
+			the runes)
+		Nameless Runes (Minor, Supernatural) -1
+			(Relly may cast rune spells without inscribing her name at no 
+			penalty, though she receives no benefit if she does. The runes 
+			still act as a magical connection to her that can be used to 
+			identify her, but the rune's caster is not immediately obvious to
+			those who can read the runes)
+		Mythic Alchemy (Major, Supernatural) -3
+			(See Notes)
+	Flaws: (10)
+		Small Frame (Minor, General) -1
+			(Relly is quite tiny. Her Size is -1 and she takes Wounds in 4 
+			point increments)
+		Dark Secret (Major, Story) -3
+			(Relly is a Vikti, and might be hunted down by the Order of Hermes
+			if anyone found out. Additionally, many people in the Order would
+			resent her even if she did swear the Oath, and might continue to 
+			hunt her even then)
+		Close Family Ties (Minor, Story) -1
+			(Runa's family is incredibly close, considering they're one of the 
+			few rune mages left alive. Even without that, they love each other
+			and would do anything for one another. They will always come to 
+			each other's aid, and will often cross immense distances to do so)
+		Irritable (Major, Personality) -3
+			(Relly is incredibly irritable, and often gets loud and boisterous,
+			shouting and cursing at those who annoy her. It doesn't take much 
+			to annoy her either, so she is often shouting at people. Even so, 
+			her friends, or those who she would call friends anyway, know she 
+			means well, even if she does tend to be fiery)
+		Warped Magic (Minor, Supernatural) -1
+			(Whenever Relly scribes a script, whispers are heard near the runes
+			for a short while, relating to the effect of the spell. These 
+			whispers are also heard when she uses her Muspelli powers)
+		Weird Magic (Minor, Supernatural) -1
+		Low Self-Esteem (Minor, General) S
+			(Runa has sworn to give up her personal destiny to serve Urdur, so
+			she has a Confidence Score of 0. Note that since this is a General
+			Flaw, she loses it while in etin-mod, and as such can use 
+			Confidence while in etin-mod. Thus, she is allowed to gain 
+			Confidence, but starts with none)
+Personality Traits:
+	Irritable 	+5
+	Boisterous	+2
+	Reliable	+2
+
+Wizard's Sigil: Thin threads of gold wrap around the target, glow and then fade
+a few moments later.
+Arts:
+Letter	Name		Sc	Xp | Letter	Name	Sc	Xp  | Letter	Name		Sc	Xp
+-----------------------------------------------------------------------------------
+	F	Fehu		__	___| 	H	Hagalaz	__	___ |	T		Tiwaz		__	___ 
+	U	Uruz		__	___| 	N	Naudiz	__	___ |	B		Berkanan	__	___ 
+	Th	Thurisaz	__	___| 	I	Isa		__	___ |	E		Ehwaz		__	___ 
+	A	Ansuz		__	___| 	J	Jera	__	___ |	M		Mannaz		__	___ 
+	R	Raido		__	___| 	Y	Ihwaz	__	___ |	L		Laguz		__	___ 
+	K	Kauno		__	___| 	P	Perth	__	___ |	Ng		Ingwaz		__	___ 
+	G	Gebo		__	___| 	Z	Algiz	__	___ |	D		Dagaz		__	___ 
+	W	Wunjo		__	___| 	S	Sowilo	__	___ |	O		Othila		__	___ 
+
+Muspelli Abilities:
+	Ability					Specialty				Sc	Xp
+	Entrancement			(Talking)				__	___
+	Spadomur				(Deaths)				__	___
+	Threads of Fate			(Rescue)				__	___
+	Premonitions			(Threats to Her Family)	__	___
+	Sjonverfing				(Natural Features)		__	___
+	Storm's Eye				(At Night)				__	___
+	
+	
+	
+Rune Scripts:
+	See Relly's Grimoire 
+Appearance:
+	Relly is a rather small girl, coming in at just over 150cm and 44kg, she is
+	the sort of person you could pick up and throw without too much exertion.
+	Not that she'd let you, mind. She has fair skin; short, cropped, rusty red 
+	hair, and bright crimson eyes. This unnatural appearance makes her stick 
+	out like a sore thumb in most locales, and people are often suspicious of 
+	her strange appearance despite her Gentle Gift.
+Reference:
+							Freya's Aett
+	Letter	Rune	Name		Meaning			Effects
+		F			Fehu		"Wealth"		wealth, domesticated animals
+		U			Uruz		"Auroch"		endurance, the wild
+		Th			Thurisaz	"Ogre"			malice, shapeshifting
+		A			Ansuz		"Mouth"			communication, teaching
+		R			Raido		"Riding"		travel, knowledge
+		K			Kauno		"Pain"			fire, sores
+		G			Gebo		"Gift"			debt, sacrifice
+		W			Wunjo		"Joy"			emotion, intoxication
+		
+							Heimdall's Aett
+	Letter	Rune	Name		Meaning			Effects
+		H			Hagalaz		"Hail"			weather, illness
+		N			Naudiz		"Need"			trouble, hardship
+		I			Isa			"Ice"			cold, stasis
+		J			Jera		"Year"			harvest, bounty
+		Y			Ihwaz		"Yew"			patience, the dead
+		P			Perth		"Cup"			chance, secrets
+		Z			Algiz		"Elk"			protection, the hunt
+		S			Sowilo		"Sun"			triumph, virtue
+		
+								Tyr's Aett
+	Letter	Rune	Name		Meaning			Effects
+		T			Tiwas		"Tyr"			justice, battle
+		B			Berkanan	"Birch"			health, youth
+		E			Ehwaz		"Horse"			speed, relationships
+		M			Mannaz		"Man"			cooperation, duty
+		L			Laguz		"Water"			ocean, ships
+		Ng			Ingwaz		"Lord"			family, security
+		D			Dagaz		"Day"			time, growth
+		O			Othila		"Inheritance"	lands, possessions
+		
+						Etin-Mod
+	Characteristics:
+		Int: +2
+		Per:  0
+		Pre: +2
+		Com: -2
+		Str: +2
+		Sta: +1
+		Dex: +3
+		Qik: +2
+	Size: +2
+	Virtues and Flaws:
+		Giant Blood (Major, General)
+			(Runa's Etin-Mod is Size +2, and so it takes Wounds in 7 point 
+			increments. Additionally, both her Strength and Stamina are 
+			increased by one when she takes on the etin-mod)
+		Greater Immunity to Sleep (Major, General)
+			(Runa still gets tired in etin-mod, but does not need to (and 
+			indeed cannot) actually fall asleep while the form is maintained.
+			She is also immune to spells that would put her to sleep, or would
+			force her into unconsciousness. If she should tire herself to the
+			Unconscious Fatigue Level, then she reverts to human form 
+			immediately)
+		Greater Magical Defenses (Minor, Supernatural)
+			(Runa's Magical Defenses are double when she in etin-mod)
+	Qualities:
+		Tireless
+			(While in etin-mod, Runa has two extra Fatigue Levels)
+		Imposing Appearance
+			(While in etin-mod, Runa has golden wings made from tiny golden
+			threads, and her body is held by coils of interweaving golden 
+			threads that terminate in the air around her. This awe-inspiring 
+			appearance gives her a +1 to Presence while in etin-mod)
+	Appearance:
+		While in etin-mod, Runa takes the form of an extremely beautiful and 
+		tall woman, with flowing crimson hair and alabaster skin. Her body also
+		looks to be held by impossibly thin golden threads, as if she were a 
+		marionette caught up in its own strings. These threads also loop around
+		behind her and form 2m golden wireframe wings.
+	Soak: +3
