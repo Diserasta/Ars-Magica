@@ -19,15 +19,15 @@ Virtues and Flaws:
 		Merchant Adventurer (Minor, Social Status) -1
 			(Lawrence has a cart, and sufficient capital for cargo to haul in 
 			it)
-	Flaws: (0)
-		
+	Flaws: (+1)
+	    Compassionate (Minor, Personality) +1	
 Personality Traits:
 	Compassionate		+3
 Reputations:
-
+    Good Trader (Constantinople)    +1
 Combat:
 
-Soak:
+Soak: 0
 Protection:
 Encumbrance:
 Fatigue Levels: OK, 0, -1, -3, -5, Unc.
