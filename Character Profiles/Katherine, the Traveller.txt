@@ -17,9 +17,9 @@ Faerie Rank: __ (___)
 Confidence Score: 1 (3)
 Virtues and Flaw:
 	Virtues: (-8)
-        The Gift (Special) S
-        Faerie Background (Free, Supernatural) F
-        The Gentle Gift (Major, Hermetic) -3
+		The Gift (Special) S
+		Faerie Background (Free, Supernatural) F
+		The Gentle Gift (Major, Hermetic) -3
 		Persona (Minor, Supernatural) -1
 			(Katherine is able to take on multiple personas. These personae are
 			all physically distinct, and have different personalities. It takes
@@ -29,40 +29,41 @@ Virtues and Flaw:
 			allows for an extra persona whenever it is raised. The new persona
 			must be created immediately when the Ability is raised)
 		Strong Faerie Blood (Major, Supernatural) -3
-            (Katherine has the blood of a Faerie God, specifically a lesser 
-            harvest god known to the Celts. She gains 1 point worth of Sympathy
-            Traits for Traits characteristic to the god whose blood she shares.
-            She begins Aging at age 50 and has an intrinsic -3 to all Aging Rolls
-            All her Personae look rather striking due to this. Additionally, she
-            can increase her Sympathy Traits to 3 higher than the usual max)
-        Faerie Legacy (Minor, Supernatural) -1
-            (Katherine's Faerie Blood is particularly strong, and she gets an
-            additional point of Sympathy Traits)
-	Flaws: (+4)
+			(Katherine has the blood of a Faerie God, specifically a lesser 
+			harvest god known to the Celts. She gains 1 point worth of Sympathy
+			Traits for Traits characteristic to the god whose blood she shares.
+			She begins Aging at age 50 and has an intrinsic -3 to all Aging Rolls
+			All her Personae look rather striking due to this. Additionally, she
+			can increase her Sympathy Traits to 3 higher than the usual max)
+		Faerie Legacy (Minor, Supernatural) -1
+			(Katherine's Faerie Blood is particularly strong, and she gets an
+			additional point of Sympathy Traits)
+	Flaws: (+7)
 		Faerie Upbringing (Minor, Personality) +1
-            (Katherine is an orphan who was abandoned by her parents due to her
-            unnatural looks, and was taken in by a group of fae who tought her a
-            incarnation of one of the harvest gods. She has an enchanced 
-            understanding of the fair folk and magic)
-        Enemies (Major, Story) +3
-            (The Church has suspicions that Katherine might be one of the Fae, and
-            several people who have grudges against Lawrence have reported her to
-            the Church as a pagan god. As such, there are a few chapters who are
-            out to get her, and are trying to spread the news that she's a
-            heretic)
-        Pagan (Major, Story) +3
-            (Katherine is a devout pagan, which is pretty obvious considering that
-            she is essentially an incarnation of a pagan god. She avoids and
-            dislikes churchmen, and cannot pass as a Christian, though she will
-            stay quiet if need be. 
+			(Katherine is an orphan who was abandoned by her parents due to her
+			unnatural looks, and was taken in by a group of fae who tought her a
+			incarnation of one of the harvest gods. She has an enchanced 
+			understanding of the fair folk and magic)
+		Enemies (Major, Story) +3
+			(The Church has suspicions that Katherine might be one of the Fae, and
+			several people who have grudges against Lawrence have reported her to
+			the Church as a pagan god. As such, there are a few chapters who are
+			out to get her, and are trying to spread the news that she's a
+			heretic)
+		Pagan (Major, Story) +3
+			(Katherine is a devout pagan, which is pretty obvious considering that
+			she is essentially an incarnation of a pagan god. She avoids and
+			dislikes churchmen, and cannot pass as a Christian, though she will
+			stay quiet if need be. 
+		
 Personality Traits:
-    Sympathy Traits:
-        Wise             __ (___)
-        Harvests         __ (___)
-        _________        __ (___)
-        _________        __ (___)
-        _________        __ (___)         
-        _________        __ (___)
+	Sympathy Traits:
+		Wise			__ (___)
+		Harvests		__ (___)
+		_________		__ (___)
+		_________		__ (___)
+		_________		__ (___)		 
+		_________		__ (___)
 	Katherine:
 		Determined		+3
 		Friendly		+2
@@ -92,7 +93,8 @@ Appearance:
 	Katherine:
 		Katherine is quite tall for a woman, coming in at just over 174cm. She has
 		long, copper hair which reaches halfway down her back, and pale skin, 
-		dotted with a few freckles here and there.
+		dotted with a few freckles here and there. She has striking green eyes
+		that almost seem to draw you in.
 	Fritz:
 		Fritz is pretty much what you'd expect when you hear the name Fritz. 
 		He's tall, well-built and tanned. He has short, cropped black hair, 
