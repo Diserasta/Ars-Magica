@@ -2,12 +2,12 @@ Katherine, the Traveller
 
 Characteristics:
 	Int: +3
-	Per:
-	Pre: +3
-	Com:
+	Per:  0
+	Pre: +4
+	Com:  0
 	Str: -2
 	Sta: -1
-	Dex:
+	Dex:  0
 	Qik: -1
 Size: +1
 Age: 23 (23)
@@ -16,7 +16,7 @@ Warping Score: __ (___)
 Faerie Rank: __ (___)
 Confidence Score: 1 (3)
 Virtues and Flaw:
-	Virtues: (-8)
+	Virtues: (-9)
 		The Gift (Special) S
 		Faerie Background (Free, Supernatural) F
 		The Gentle Gift (Major, Hermetic) -3
@@ -38,6 +38,10 @@ Virtues and Flaw:
 		Faerie Legacy (Minor, Supernatural) -1
 			(Katherine's Faerie Blood is particularly strong, and she gets an
 			additional point of Sympathy Traits)
+        Great Presence (Minor, General) -1
+            (No matter which persona she takes, Katherine always draws eyes;
+            whether by sheer awe-inspiring beauty or by overbearing stature)
+
 	Flaws: (+7)
 		Faerie Upbringing (Minor, Personality) +1
 			(Katherine is an orphan who was abandoned by her parents due to her
@@ -58,7 +62,7 @@ Virtues and Flaw:
 		
 Personality Traits:
 	Sympathy Traits:
-		Wise			__ (___)
+		Wisdom			__ (___)
 		Harvests		__ (___)
 		_________		__ (___)
 		_________		__ (___)
@@ -72,7 +76,7 @@ Personality Traits:
 		Carefreee		+3
 		Jovial			+2
 Reputations:
-
+    God of Harvests     (Celts)     +1
 Combat:
 
 Soak:
