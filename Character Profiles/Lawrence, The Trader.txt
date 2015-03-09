@@ -1,13 +1,13 @@
 Lawrence, The Trader
 
 Characteristics:
-	Int:  0
+	Int:	0
 	Per: +2
 	Pre: +1
 	Com: +2
-	Str:  0
+	Str:	0
 	Sta: +1
-	Dex:  0
+	Dex:	0
 	Qik: -1
 Size: 0
 Age: 38 (35)
@@ -19,18 +19,18 @@ Virtues and Flaws:
 		Merchant Adventurer (Minor, Social Status) -1
 			(Lawrence has a cart, and sufficient capital for cargo to haul in
 			it)
-        Affinity with Area Lore (Minor, General) -1
-            (Lawrence finds no difficulty in learning his way around cities
-            or plains, and easily memorises features and people he's met before.
-            Increase any Study Total for any Area Lore by 50%, including
-            experience granted at character creation)
+		Affinity with Area Lore (Minor, General) -1
+				(Lawrence finds no difficulty in learning his way around cities
+				or plains, and easily memorises features and people he's met before.
+				Increase any Study Total for any Area Lore by 50%, including
+				experience granted at character creation)
 	Flaws: (+1)
-        Compassionate (Minor, Personality) +1
+				Compassionate (Minor, Personality) +1
 Personality Traits:
 	Compassionate		+3
 Reputations:
-    Good Trader (Constantinople)    +1
-    Reliable    (England)           +1
+	Good Trader (Constantinople)		+1
+	Reliable		(England)					 +1
 Combat:
 
 Soak: 0
@@ -41,8 +41,8 @@ Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
 Abilities:
 	Ability				Specialty					Sc	Xp
 	Breton				(Bargaining)				5	75
-	Latin				(Bargaining)				4	50
-	
+	Latin					(Bargaining)				4	50
+
 Appearance:
 Lawrence is of rather average height and build. He has grey-brown eyes, and
 strikingly, completely grey hair. This makes him seem a lot older than he is,
