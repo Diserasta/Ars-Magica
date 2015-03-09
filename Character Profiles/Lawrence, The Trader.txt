@@ -39,9 +39,16 @@ Encumbrance:
 Fatigue Levels: OK, 0, -1, -3, -5, Unc.
 Wound Penalties: -1 (1-5), -3 (5-10), -5 (11-15), Incap. (16-20), Dead (21+)
 Abilities:
-	Ability				Specialty					Sc	Xp
-	Breton				(Bargaining)				5	75
-	Latin					(Bargaining)				4	50
+	Ability				Specialty					Sc  Xp
+	Breton				(Bargaining)			5	  75
+	Latin					(Bargaining)			4	  50
+
+  Bargain       (Hard Sell)       __  ___
+  Carouse       (Staying Sober)   __  ___
+  Folk Ken      (Merchants)       __  ___
+  Etiquette     (Merchants)       __  ___
+  Intrigue      (Alliances)       __  ___
+  Faerie Lore   (Faerie Gods)     __  ___
 
 Appearance:
 Lawrence is of rather average height and build. He has grey-brown eyes, and
