@@ -42,7 +42,7 @@ Virtues and Flaw:
       (No matter which persona she takes, Katherine always draws eyes;
        whether by sheer awe-inspiring beauty or by overbearing stature)
 
-  Flaws: (+7)
+  Flaws: (+10)
     Faerie Upbringing (Minor, Personality) +1
       (Katherine is an orphan who was abandoned by her parents due to her
       unnatural looks, and was taken in by a group of fae who thought her a
@@ -58,12 +58,16 @@ Virtues and Flaw:
       (Katherine is a devout pagan, which is pretty obvious considering that
       she is essentially an incarnation of a pagan god. She avoids and
       dislikes churchmen, and cannot pass as a Christian, though she will
-      stay quiet if need be.
-
+      stay quiet if need be)
+    Faerie Antipathy (Major, Supernatural) +3
+      (Katherine has a negative link associated with the Faerie Realm, and
+      must apply it to any roll where it is relevant. It begins at -3, but
+      can be raised or lowered as per usual)
 Personality Traits:
   Sympathy Traits:
     Wisdom      __ (___)
     Harvests    __ (___)
+    //What's a negative Sympathy for her? Snow?
     _________   __ (___)
     _________   __ (___)
     _________   __ (___)
