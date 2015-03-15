@@ -1,25 +1,89 @@
 module Money
-( poundsToPence
-, penceToPounds
-, simplifyMoney
-, LbP
+( p2lb
+, lb2p
+, simplifyLbP
+, Money
+, simplifyNomisma
+, nm2fl
+, nm2mlr
+, fl2nm
 ) where
 --I really shouldn't be doing so much work with Pennies...
-data LbP = LbP  {lb :: Int
-                ,pn :: Int} deriving (Show,Eq)
+data Money  = LbP  {lb :: Int
+                ,pn :: Int}
+            | Nomisma {nm :: Int
+                ,mlr :: Int
+                ,fl :: Int}
+            | Dinar {dn :: Int
+                ,hadn :: Int
+                ,thrdn :: Int} deriving (Show, Ord, Eq)
 
-lbn :: LbP -> Int
+get1st :: (a, a, a) -> a
+get1st (x,_, _) = x
+
+get2nd :: (a, a, a) -> a
+get2nd (_,x,_) = x
+
+get3rd :: (a, a, a) -> a
+get3rd (_,_,x) = x
+
+lbn :: Money -> Int
 lbn (LbP x _) = x
 
-pnn :: LbP -> Int
+pnn :: Money -> Int
 pnn (LbP _ x) = x
 
-poundsToPence :: Int -> Int
-poundsToPence pounds = pounds * (240)
+nmn :: Money -> Int
+nmn (Nomisma x _ _) = x
 
-penceToPounds :: Int -> (Int, Int)
-penceToPounds pence = (div pence 240, mod pence 240)
+mlrn :: Money -> Int
+mlrn (Nomisma _ x _) = x
 
-simplifyMoney :: LbP -> Int -> Int -> LbP
-simplifyMoney z a b = z{lb = a + (div b 240), pn = mod b 240}
+fln :: Money -> Int
+fln (Nomisma _ _ x) = x
 
+dnn :: Money -> Int
+dnn (Dinar x _ _) = x
+
+hdnn :: Money -> Int
+hdnn (Dinar _ x _) = x
+
+thdnn :: Money -> Int
+thdnn (Dinar _ _ x) = x
+--pounds to pennies--
+lb2p :: Int -> Int
+lb2p pounds = pounds * (240)
+--pennies to pounds--
+p2lb :: Int -> (Int, Int)
+p2lb pence = (div pence 240, mod pence 240)
+
+simplifyLbP :: Money -> Money
+simplifyLbP (LbP a b) =
+  (LbP {lb = a + (fst pn), pn = (snd pn)}) where pn = p2lb b
+
+--nomisma to folles--
+nm2fl :: Int -> Int
+nm2fl nomismae = nomismae * 288
+--nomisma to miliaresia--
+nm2mlr :: Int -> Int
+nm2mlr nomismae = nomismae * 12
+
+fl2mlr :: Int -> Int
+fl2mlr fl = (div fl 24)
+
+mlr2fl :: Int -> Int
+mlr2fl mlr = mlr * 24
+
+mlr2nm :: Int -> (Int,Int)
+mlr2nm mlr = (div mlr 12, mod mlr 12)
+
+fl2nm :: (Int, Int) -> (Int, Int, Int)
+fl2nm (mlr, fl)
+    | fl <= 0 && mlr <=0 = (0,0,0)
+    | (fl < 288 && mlr <24) = (0, mlr + (div fl 24), mod fl 24)
+    | (fl >= 288 || mlr >=24) = ((fst ml) + div fl 288, (snd ml) + div (mod fl 288) 24, mod (mod fl 288) 24)
+    | otherwise = (0,0,0)
+    where ml = mlr2nm mlr
+
+simplifyNomisma :: Money -> Money
+simplifyNomisma (Nomisma a b c) = (Nomisma {nm = a + (get1st fmr),mlr = (get2nd fmr),fl = (get3rd fmr)}) where fmr = fl2nm (b,c)
