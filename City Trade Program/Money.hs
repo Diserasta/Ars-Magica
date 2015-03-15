@@ -18,13 +18,13 @@ data Money  = LbP  {lb :: Int
                 ,hadn :: Int
                 ,thrdn :: Int} deriving (Show, Ord, Eq)
 
-get1st :: (a, a, a) -> a
+get1st :: (a, b, c) -> a
 get1st (x,_, _) = x
 
-get2nd :: (a, a, a) -> a
+get2nd :: (a, b, c) -> b
 get2nd (_,x,_) = x
 
-get3rd :: (a, a, a) -> a
+get3rd :: (a, b, c) -> c
 get3rd (_,_,x) = x
 
 lbn :: Money -> Int
@@ -80,8 +80,8 @@ mlr2nm mlr = (div mlr 12, mod mlr 12)
 fl2nm :: (Int, Int) -> (Int, Int, Int)
 fl2nm (mlr, fl)
     | fl <= 0 && mlr <=0 = (0,0,0)
-    | (fl < 288 && mlr <24) = (0, mlr + (div fl 24), mod fl 24)
-    | (fl >= 288 || mlr >=24) = ((fst ml) + div fl 288, (snd ml) + div (mod fl 288) 24, mod (mod fl 288) 24)
+    | (fl < 288 && mlr <12) = (0, mlr + (div fl 24), mod fl 24)
+    | (fl >= 288 || mlr >=12) = ((fst ml) + div fl 288, (snd ml) + div (mod fl 288) 24, mod (mod fl 288) 24)
     | otherwise = (0,0,0)
     where ml = mlr2nm mlr
 
