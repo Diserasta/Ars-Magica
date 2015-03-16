@@ -11,21 +11,31 @@ Characteristics:
 	Qik: -1
 Size: 0
 Age: 38 (35)
-Decrepitude:
-Warping Score: 0 ()
+Decrepitude: __ (___)
+Warping Score: __ (___)
 Confidence Score: 1 (3)
 Virtues and Flaws:
-	Virtues: (-2)
+	Virtues: (-3)
 		Merchant Adventurer (Minor, Social Status) -1
 			(Lawrence has a cart, and sufficient capital for cargo to haul in
 			it)
 		Affinity with Area Lore (Minor, General) -1
-				(Lawrence finds no difficulty in learning his way around cities
-				or plains, and easily memorises features and people he's met before.
-				Increase any Study Total for any Area Lore by 50%, including
-				experience granted at character creation)
-	Flaws: (+1)
-				Compassionate (Minor, Personality) +1
+      (Lawrence finds no difficulty in learning his way around cities
+      or plains, and easily memorises features and people he's met before.
+      Increase any Study Total for any Area Lore by 50%, including
+      experience granted at character creation)
+    Well-Travelled (Minor, General) -1
+      (Lawrence has spent a good deal of his life travelling, and as such has
+      50 extra xp to spend on any Living Languages, Area Lores, Bargain, Carouse
+      , Charm, Etiquette, Folk Ken, or Guile)
+	Flaws: (+4)
+		Compassionate (Minor, Personality) +1
+    Enemies (Major, Story) +3
+      (A bishop with a lot of political power thinks that Katherine is a pagan,
+      and is attempting to make a lot of trouble for Lawrence and Katherine.
+      Other members of the Church also think that Katherine may actually be a
+      Faerie, and as such are trying to vilify her. News is slowly spreading
+      of this)
 Personality Traits:
 	Compassionate		+3
 Reputations:
