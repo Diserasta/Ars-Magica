@@ -9,6 +9,9 @@ module Money
 , fl2nm
 ) where
 --I really shouldn't be doing so much work with Pennies...
+
+import Helpers
+
 data Money  = LbP  {lb :: Int
                 ,pn :: Int}
             | Nomisma {nm :: Int
@@ -17,15 +20,6 @@ data Money  = LbP  {lb :: Int
             | Dinar {dn :: Int
                 ,hdn :: Int
                 ,thdn :: Int} deriving (Show, Ord, Eq)
-
-get1st :: (a, b, c) -> a
-get1st (x,_, _) = x
-
-get2nd :: (a, b, c) -> b
-get2nd (_,x,_) = x
-
-get3rd :: (a, b, c) -> c
-get3rd (_,_,x) = x
 
 lbn :: Money -> Int
 lbn (LbP x _) = x

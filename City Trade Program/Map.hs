@@ -7,7 +7,7 @@ module Map
 ) where
 
 import Data.List
-
+import qualified Helpers as H
 data Node = Node  { x :: Double
                   , y :: Double
                   } deriving (Show, Ord, Eq)
@@ -24,10 +24,11 @@ distN a b = sqrt((pointx a - pointx b)^2 + (pointy a - pointy b)^2)
 --A node is two floats representing a position--
 
 data Path = Path  { id :: String
-                  , cost :: Int
+                  , cost :: Double
                   , endpoints :: (Place, Place)
                   } deriving (Show, Ord, Eq)
---A path has an identifier (which can be a name), a list of intersecting paths, and two or more endpoints
+--A path has an identifier (which can be a name), a list of intersecting paths,
+--and two or more endpoints
 --aka Places
 
 endpts :: Path -> (Place, Place)
@@ -44,14 +45,20 @@ placePos (Place _ pos _) = pos
 
 placePaths :: Place -> [Path]
 placePaths (Place _ _ paths) = paths
-
-pathfImpl :: Eq a => [a] -> a -> a -> [(a,a)] -> [[a]]
-pathfImpl trail src dest clauses
-  | src == dest = [src:trail]
+--Technical implementation of a path-follower
+pathfImpl :: Eq a => ([a],Double) -> a -> a -> [(a,a,Double)] -> [([a], Double)]
+pathfImpl (trail, cost) src dest clauses
+  | src == dest = [(src:trail, cost)]
   | otherwise = do
-    let (nexts, rest) = partition ((==src) . fst) clauses
+    let (nexts, rest) = partition ((==src) . H.get1st) clauses
     next <- nexts
-    pathfImpl (src:trail) (snd next) dest rest
+    pathfImpl ((src:trail), cost + H.get3rd next) (H.get2nd next) dest rest
+--Reverse all the directions as the path-follwer prepends to the trail so it can run in constant time
+sanPath :: ([a], Double) -> ([a], Double)
+sanPath (list, cost) = (reverse list, cost)
 
-followPath :: Eq a => a -> a -> [(a,a)] -> [[a]]
-followPath src dest clauses = map reverse (pathfImpl [] src dest clauses)
+--Taking a source and destination point, as well as a list of links (and their costs)
+--return a list of all acyclic paths from src to dest and their costs
+followPath :: Eq a => a -> a -> [(a,a,Double)] -> [([a], Double)]
+followPath src dest clauses = map sanPath (pathfImpl ([],0.0) src dest clauses)
+
