@@ -7,10 +7,10 @@ import Money
 
 data Item = Item  {name :: String
                   ,qty :: Double
-                  ,quality :: Int} deriving (Show)
+                  ,quality :: Int} deriving (Show, Eq)
 --Name, Quality and Quantity--
 data Good = Good  {good :: Item
-                  ,cost :: LbP} deriving (Show)
+                  ,cost :: Money} deriving (Show, Eq)
 --Item, Cost
 
 
