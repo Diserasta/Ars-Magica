@@ -28,6 +28,10 @@ Virtues and Flaws:
       (Lawrence has spent a good deal of his life travelling, and as such has
       50 extra xp to spend on any Living Languages, Area Lores, Bargain, Carouse
       , Charm, Etiquette, Folk Ken, or Guile)
+    Puissant Bargain (Minor, General) -1
+      (Lawrence has a knack for trading that he just can't explain. He gains a
+      +2 to all rolls involving Bargain and to all checks against it. Note that
+      this does not apply to Study Totals)
 	Flaws: (+4)
 		Compassionate (Minor, Personality) +1
     Enemies (Major, Story) +3
@@ -53,7 +57,7 @@ Abilities:
 	Breton				(Bargaining)			5	  75
 	Latin					(Bargaining)			4	  50
 
-  Bargain       (Hard Sell)       __  ___
+  Bargain       (Hard Sell)       __+2___
   Carouse       (Staying Sober)   __  ___
   Folk Ken      (Merchants)       __  ___
   Etiquette     (Merchants)       __  ___
