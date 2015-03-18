@@ -49,7 +49,7 @@ lb2p :: Int -> Int
 lb2p pounds = pounds * (240)
 --pennies to pounds--
 p2lb :: Int -> (Int, Int)
-p2lb pence = (div pence 240, mod pence 240)
+p2lb pence = (quot pence 240, rem pence 240)
 
 simplifyLbP :: Money -> Money
 simplifyLbP (LbP a b) =
@@ -69,13 +69,13 @@ mlr2fl :: Int -> Int
 mlr2fl mlr = mlr * 24
 
 mlr2nm :: Int -> (Int,Int)
-mlr2nm mlr = (div mlr 12, mod mlr 12)
+mlr2nm mlr = (quot mlr 12, rem mlr 12)
 --folles and miliaresia to nomismae
 fl2nm :: (Int, Int) -> (Int, Int, Int)
 fl2nm (mlr, fl)
     | fl <= 0 && mlr <=0 = (0,0,0)
-    | (fl < 288 && mlr <12) = (0, mlr + (div fl 24), mod fl 24)
-    | (fl >= 288 || mlr >=12) = ((fst ml) + div fl 288, (snd ml) + div (mod fl 288) 24, mod (mod fl 288) 24)
+    | (fl < 288 && mlr <12) = (0, mlr + (quot fl 24), rem fl 24)
+    | (fl >= 288 || mlr >=12) = ((fst ml) + quot fl 288, (snd ml) + quot (rem fl 288) 24, rem (rem fl 288) 24)
     where ml = mlr2nm mlr
 
 simplifyNomisma :: Money -> Money
@@ -89,13 +89,13 @@ dn2thdn :: Int -> Int
 dn2thdn dn = dn * 3
 
 hdn2dn :: Int -> (Int, Int)
-hdn2dn a = (div a 2, mod a 2)
+hdn2dn a = (quot a 2, rem a 2)
 
 thdn2dn :: (Int, Int) -> (Int, Int, Int)
 thdn2dn (hdn, thdn)
   | hdn <= 0 && thdn <= 0 = (0,0,0)
-  | hdn < 2 && thdn < 3 = (0, hdn + (div thdn 3), mod thdn 3)
-  | hdn >= 2 || thdn >=3 = ((fst dn) + div thdn 3, (snd dn) + div (mod thdn 3) 2, mod (mod thdn 3) 2)
+  | hdn < 2 && thdn < 3 = (0, hdn + (quot thdn 3), rem thdn 3)
+  | hdn >= 2 || thdn >=3 = ((fst dn) + quot thdn 3, (snd dn) + quot (rem thdn 3) 2, rem (rem thdn 3) 2)
   where dn = hdn2dn hdn
 
 simplifyDinar :: Money -> Money
