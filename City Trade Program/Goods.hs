@@ -8,7 +8,7 @@ import Money
 data Amount = Weight  {ton :: Int
                       ,oz :: Int}
             | Length  {len :: Int
-                      ,wid :: Int} deriving (Show, Eq)
+                      ,wid :: Int} deriving (Read, Show, Eq)
 
 len2wgt :: Amount -> Int -> Amount
 len2wgt (Length x y) r = (Weight {ton = res, oz = modu})

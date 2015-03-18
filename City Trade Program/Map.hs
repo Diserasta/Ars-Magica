@@ -10,7 +10,7 @@ import Data.List
 import qualified Helpers as H
 data Node = Node  { x :: Double
                   , y :: Double
-                  } deriving (Show, Ord, Eq)
+                  } deriving (Read, Show, Ord, Eq)
 
 pointx :: Node -> Double
 pointx (Node x _) = x
@@ -26,7 +26,7 @@ distN a b = sqrt((pointx a - pointx b)^2 + (pointy a - pointy b)^2)
 data Path = Path  { id :: String
                   , cost :: Double
                   , endpoints :: (Place, Place)
-                  } deriving (Show, Ord, Eq)
+                  } deriving (Read, Show, Ord, Eq)
 --A path has an identifier (which can be a name), a list of intersecting paths,
 --and two or more endpoints
 --aka Places
@@ -37,7 +37,7 @@ endpts (Path _ _ pl) = pl
 data Place = Place  { name :: String
                     , pos :: Node
                     , paths :: [Path]
-                    } deriving (Show, Ord, Eq)
+                    } deriving (Read, Show, Ord, Eq)
 --A place has a name, a position, and a list of paths that connect to it
 
 placePos :: Place -> Node

@@ -8,4 +8,4 @@ import Goods
 data Person = Person  { name :: String
                       , age :: Int
                       , home :: Place
-                      , rel :: [(Person, String)]} deriving (Show, Eq)
+                      , rel :: [(Person, String)]} deriving (Read, Show, Eq)
