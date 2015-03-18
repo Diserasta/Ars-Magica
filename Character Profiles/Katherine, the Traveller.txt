@@ -93,17 +93,17 @@ Personality Traits:
   Fritz:
     Carefree    +3
     Jovial      +2
-	
+
 	Persephone:
 		Stoic				+3
 		Sarcastic		+2
-		
+
 Reputations:
   Katherine:
     God of Harvests       (Celts)           +1
     Lawrence's Companion  (Central Europe)  +1
   Fritz:
-    
+
 	Persephone:
 Combat:
 
@@ -137,8 +137,8 @@ Appearance:
 	Persephone:
 		Persephone looks strikingly similar to Katherine, except that her hair is
 		the colour of autumn leaves (as opposed to the bright copper of Katherine),
-		and her eyes are leaf green. She is slightly taller than Katherine and 
+		and her eyes are leaf green. She is slightly taller than Katherine and
 		holds herself with a majesty appropriate for a god. Persephone is the only
 		persona aware of their powers, and she is loathe to let the others into her
-		secrets, as she has been burned by it before. That was why she moved 
+		secrets, as she has been burned by it before. That was why she moved
 		Katherine to be front-most persona and wiped the memory of the rest.
