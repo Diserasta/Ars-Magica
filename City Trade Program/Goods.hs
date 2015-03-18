@@ -23,10 +23,10 @@ wgt2len (Weight x y) ratio w = (Length {len = res, wid = w})
 
 data Item = Item  {name :: String
                   ,qty :: Amount
-                  ,quality :: Int} deriving (Show, Eq)
+                  ,quality :: Int} deriving (Read, Show, Eq)
 --Name, Quality and Quantity--
 data Good = Good  {good :: Item
-                  ,cost :: Money} deriving (Show, Eq)
+                  ,cost :: Money} deriving (Read, Show, Eq)
 --Item, Cost
 
 
