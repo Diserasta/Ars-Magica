@@ -7,5 +7,6 @@ import Map
 import Goods
 data Person = Person  { name :: String
                       , age :: Int
+                      , gender :: String
                       , home :: Place
                       , rel :: [(Person, String)]} deriving (Read, Show, Eq)
