@@ -1,5 +1,7 @@
 Lawrence, The Trader
 
+"Did you forget I am a merchant? I'm on top of it"
+
 Characteristics:
 	Int:	0
 	Per: +2
@@ -15,7 +17,7 @@ Decrepitude: __ (___)
 Warping Score: __ (___)
 Confidence Score: 1 (3)
 Virtues and Flaws:
-	Virtues: (-3)
+	Virtues: (-4)
 		Merchant Adventurer (Minor, Social Status) -1
 			(Lawrence has a cart, and sufficient capital for cargo to haul in
 			it)
@@ -26,8 +28,8 @@ Virtues and Flaws:
       experience granted at character creation)
     Well-Travelled (Minor, General) -1
       (Lawrence has spent a good deal of his life travelling, and as such has
-      50 extra xp to spend on any Living Languages, Area Lores, Bargain, Carouse
-      , Charm, Etiquette, Folk Ken, or Guile)
+      50 extra xp to spend on any Living Languages, Area Lores, Bargain, 
+			Carouse, Charm, Etiquette, Folk Ken, or Guile)
     Puissant Bargain (Minor, General) -1
       (Lawrence has a knack for trading that he just can't explain. He gains a
       +2 to all rolls involving Bargain and to all checks against it. Note that
