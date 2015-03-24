@@ -19,7 +19,7 @@ data Money  = LbP  {lb :: Int
                 ,fl :: Int}
             | Dinar {dn :: Int
                 ,hdn :: Int
-                ,thdn :: Int} deriving (Show, Ord, Eq)
+                ,thdn :: Int} deriving (Read, Show, Ord, Eq)
 
 lbn :: Money -> Int
 lbn (LbP x _) = x
