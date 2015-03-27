@@ -4,37 +4,38 @@ import Control.Monad
 import Control.Concurrent
 import System.Environment
 import qualified Data.ByteString as Str
-import qualified Data.ByeString.Lazy as LStr
+import qualified Data.ByteString.Lazy as LStr
+import Data.Time.Clock
 import Goods
 import Generator
 import Money
 import Map
+import Prompts
 import qualified Helpers as H
 
 genLoop = do
   --Redo this with ByteString
   putStrLn "Opening People Data in Append"
-  peopleList <- openFile "People.dat" AppendMode
+  peopleList <- Str.readFile "People.dat"
   putStrLn "People Data Loaded"
   putStrLn "What Nationality do you wish to generate?"
-  nat <- getLine
   putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+  nat <- getLine
+  putStrLn "What Gender person would you like?"
+  putStrLn"Options are Male and Female"
   gen <- getLine
-  nameList <- openFile (nat ++ gen ++ ".dat") ReadMode
-  namec <- hGetContents nameList
-  let names = lines namec
+  nameList <- Str.readFile ("/Names/" ++ nat ++ gen ++ ".dat")
   --Test hPutStr
-  hPutStr peopleList (pickFromFile namec)
+  newName <- (pickFromFile nameList)
+  Str.appendFile "People.dat" newName
 
-
-main = do
+init = do
   putStrLn "Agent Started..."
   [s] <- getArgs
   putStrLn "Initialising World"
   --Let's try reading in the map first
   putStrLn "Opening the Map"
-  nodeMap <- openFile "Map.txt" ReadWriteMode
-  mapc <- hGetContents nodeMap
+  nodeMap <- Str.readFile "Map.txt"
   putStrLn "Map Acquired"
   putStrLn "Constructing Map in Memory..."
   --Move Everything From the File into Memory
@@ -43,7 +44,11 @@ main = do
   --Read from some more files
   putStrLn "World Initialised"
   putStrLn "Checking World Time"
-  let time = "TEST"
-  putStrLn "World Time is:" ++ time
+  let time = "12:00"
+  putStrLn ("World Time is:" ++ time)
   putStrLn "World is Synchronised"
   putStrLn "Agent Awaiting Input..."
+
+main = do
+  init
+  cmd <- mainPrompt  

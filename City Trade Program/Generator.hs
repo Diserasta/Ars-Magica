@@ -8,6 +8,7 @@ import Control.Monad.State
 import Control.Monad.Random
 import System.Random
 import System.Environment
+import qualified Data.ByteString.Char8 as Str
 import qualified Helpers as H
 
 rndSelectN :: (MonadRandom m, Eq a) => [a] -> Int -> m [a]
@@ -26,5 +27,12 @@ rndSelect ys = do
   let (x, xs) = H.removeAt rndIndex ys
   return x
 
-pickFromFile :: (MonadRandom m) => String -> m String
-pickFromFile h = rndSelect (lines h)
+rndSelectBS :: (MonadRandom m) => [Str.ByteString] -> m Str.ByteString
+rndSelectBS [] = fail "rndSelectBS: empty list"
+rndSelectBS ys = do
+  rndIndex <- getRandomR(1, length ys)
+  let (x, xs) = H.removeAt rndIndex ys
+  return x
+
+pickFromFile :: (MonadRandom m) => Str.ByteString -> m Str.ByteString
+pickFromFile h = rndSelectBS (Str.lines h)
