@@ -1,12 +1,31 @@
-import Goods
-import Money
-import Map
-import qualified Helpers as H
 import Data.Char
 import Data.List
 import Control.Monad
 import Control.Concurrent
 import System.Environment
+import qualified Data.ByteString as Str
+import qualified Data.ByeString.Lazy as LStr
+import Goods
+import Generator
+import Money
+import Map
+import qualified Helpers as H
+
+genLoop = do
+  --Redo this with ByteString
+  putStrLn "Opening People Data in Append"
+  peopleList <- openFile "People.dat" AppendMode
+  putStrLn "People Data Loaded"
+  putStrLn "What Nationality do you wish to generate?"
+  nat <- getLine
+  putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+  gen <- getLine
+  nameList <- openFile (nat ++ gen ++ ".dat") ReadMode
+  namec <- hGetContents nameList
+  let names = lines namec
+  --Test hPutStr
+  hPutStr peopleList (pickFromFile namec)
+
 
 main = do
   putStrLn "Agent Started..."
