@@ -45,6 +45,7 @@ placePos (Place _ pos _) = pos
 
 placePaths :: Place -> [Path]
 placePaths (Place _ _ paths) = paths
+
 --Technical implementation of a path-follower
 pathfImpl :: Eq a => ([a],Double) -> a -> a -> [(a,a,Double)] -> [([a], Double)]
 pathfImpl (trail, cost) src dest clauses
@@ -53,6 +54,7 @@ pathfImpl (trail, cost) src dest clauses
     let (nexts, rest) = partition ((==src) . H.get1st) clauses
     next <- nexts
     pathfImpl ((src:trail), cost + H.get3rd next) (H.get2nd next) dest rest
+
 --Reverse all the directions as the path-follwer prepends to the trail so it can run in constant time
 sanPath :: ([a], Double) -> ([a], Double)
 sanPath (list, cost) = (reverse list, cost)

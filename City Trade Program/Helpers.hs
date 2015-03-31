@@ -90,7 +90,7 @@ cons x xs = (1, Leaf x):xs
 
 --Return a list's tail
 tail :: RAList a ->RAList a
---tail [] = error "tail: empty list"
+tail [] = error "tail: empty list"
 tail ((_, Leaf _):rest) = rest
 tail ((s, Node _ t1 t2):rest) = (s',t1):(s',t2):rest
   where s' = (s-1) `div` 2
