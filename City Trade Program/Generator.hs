@@ -1,7 +1,8 @@
 module Generator (
 pickFromFile,
 rndSelectN,
-rndSelect
+rndSelect,
+genNameN
 ) where
 
 import Control.Monad.State
@@ -36,3 +37,26 @@ rndSelectBS ys = do
 
 pickFromFile :: (MonadRandom m) => Str.ByteString -> m Str.ByteString
 pickFromFile h = rndSelectBS (Str.lines h)
+
+pickNFromFile :: (MonadRandom m) => Str.ByteString -> Int -> m [Str.ByteString]
+pickNFromFile h n = rndSelectN (Str.lines h) n
+
+genNameN :: String -> String -> Int -> IO [Str.ByteString]
+genNameN nat gen n = do
+  nameList <- H.chkData ("Names/" ++ nat ++ gen ++ ".dat") "Names loaded" "Names not found"
+  (pickNFromFile nameList n)
+  --Need to figure actual nationality, but that comes later
+
+
+genNameOnce = do
+  putStrLn "Opening People Data in Append"
+  chk <- H.chkData "Data/People.dat" "People Data Loaded" "People Data not found"
+  putStrLn "What Nationality do you wish to generate?"
+  putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+  nat <- getLine
+  putStrLn "What Gender person would you like?"
+  putStrLn"Options are Male and Female"
+  gen <- getLine
+  nameList <- H.chkData ("/Names/" ++ nat ++ gen ++ ".dat") "Names loaded" "Names not found"
+  newName <- (pickFromFile nameList)
+  Str.appendFile "People.dat" newName
