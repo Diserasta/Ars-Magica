@@ -7,8 +7,8 @@ chkData,
 Tree,
 RAList,
 empty,
-toList,
-fromList,
+toRAList,
+fromRAList,
 index,
 update,
 cons,
@@ -47,6 +47,7 @@ chkData path succm failm = do
     putStrLn succm
     (Str.readFile path)
   else do
+    putStr "Would you like to create it? "
     chk <- yesno failm
     if chk then do
       writeFile path ""
@@ -80,13 +81,13 @@ empty :: RAList a
 empty = []
 
 --Construct a Random Access List from a normal List (O(n))
-fromList :: [a] -> RAList a
-fromList l = fst $ mapAccumL (\l e -> (cons e l,l)) empty (reverse l)
+fromRAList :: [a] -> RAList a
+fromRAList l = fst $ mapAccumL (\l e -> (cons e l,l)) empty (reverse l)
 
 --Convert an RAList into a normal list (O(n))
-toList :: RAList a -> [a]
-toList [] = []
-toList xs = head xs : toList (tail xs)
+toRAList :: RAList a -> [a]
+toRAList [] = []
+toRAList xs = head xs : toRAList (tail xs)
 
 --Take an RAList and an index and return the item at that index (O(logn))
 index :: RAList a -> Int -> a
