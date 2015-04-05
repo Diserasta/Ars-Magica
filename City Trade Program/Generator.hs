@@ -16,6 +16,8 @@ import Data.Random
 import Data.RVar
 import System.Random
 import System.Environment
+import People
+import Map
 import qualified Data.ByteString.Char8 as Str
 import qualified Helpers as H
 
@@ -94,7 +96,6 @@ genNameOnce = do
 --Age Generator
 --This one should be easier. Smaller range.
 
-
 genAgeN :: (CMR.MonadRandom m) => Double -> Int -> m [Double]
 genAgeN _ 0 = return []
 genAgeN x n = replicateM n (genWeightedAge x)
@@ -111,6 +112,26 @@ genWeightedAge x = do
   r <- genLogNormal 0 0.125
   return (r * x)
 
---Now we need to figure out how to generate the [(Int, Rational)]
---Joy
---genWeightedList :: [Int] -> [(Int, Rational)]
+--Hometown Generator
+--Take the list of all places?
+--Then choose one?
+genPlace :: (CMR.MonadRandom m) => [Place] -> m Place
+genPlace x = do
+  r <- rndSelect x
+  return r
+genPlaceN :: (CMR.MonadRandom m) => [Place] -> Int -> m [Place]
+genPlaceN x n = do
+  r <- rndSelectN x n
+  return r
+
+--Now for the Person Generator
+--Takes in a Gender and NameType, as well as expected age, and hometown
+genPerson :: String -> String -> Int -> [Place] -> [(Person, String)] -> IO Person
+genPerson nameloc gen expAge home rels = do
+  n <- (genNameN nameloc gen 1)
+  let k = Str.unpack (head n)
+  a <- (genWeightedAge (fromIntegral expAge))
+  let b = floor a
+  h <- genPlace home
+  return (Person k b gen h rels)
+

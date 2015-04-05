@@ -1,5 +1,5 @@
 module People (
-Person
+Person(..)
 ) where
 
 import qualified Helpers as H
