@@ -1,7 +1,7 @@
 module Map
-( Node
-, Path
-, Place
+( Node(..)
+, Path(..)
+, Place(..)
 , distN
 , followPath
 ) where
@@ -25,7 +25,7 @@ distN a b = sqrt((pointx a - pointx b)^2 + (pointy a - pointy b)^2)
 
 data Path = Path  { id :: String
                   , cost :: Double
-                  , endpoints :: (Place, Place)
+                  , endpoints :: (String, String)
                   } deriving (Read, Show, Ord, Eq)
 --A path has an identifier (which can be a name), a list of intersecting paths,
 --and two or more endpoints

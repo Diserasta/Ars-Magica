@@ -6,7 +6,8 @@ rndSelectN,
 rndSelect,
 genNameN,
 genUniform,
-genNormal
+genNormal,
+genWeightedAge
 ) where
 
 import Control.Monad.State
@@ -135,3 +136,17 @@ genPerson nameloc gen expAge home rels = do
   h <- genPlace home
   return (Person k b gen h rels)
 
+genPersonImpl :: String -> String -> Int -> Place -> [(Person, String)] -> Person
+genPersonImpl name gen age home rels = (Person name age gen home rels)
+
+genPersonNImpl :: [String] -> [String] -> [Int] -> [Place] -> [[(Person, String)]] -> [Person] -> [Person]
+genPersonNImpl (n:ns) (g:gs) (a:as) (h:hs) (r:rs) list
+  | ns == [] = list
+  | otherwise = do
+    let person = genPersonImpl n g a h r
+    let trail = person:list
+    genPersonNImpl ns gs as hs rs trail
+  --return l
+
+genPersonN :: [String] -> [String] -> [Int] -> [Place] -> [[(Person, String)]] -> [Person]
+genPersonN n g a h r = (genPersonNImpl n g a h r [])

@@ -34,6 +34,9 @@ genPrompt = do
     "n"   -> genNameCmd
     "p"   -> return ""--genPerCmd
     "q"   -> return ""
+    _     -> do
+      putStrLn "Invalid Input."
+      genPrompt
 --Gen Person command goes here. It should call Generator's Functions
 --But that's work for tomorrow - It's like 1AM
 mainPrompt :: IO String
@@ -76,7 +79,7 @@ genNameCmd = do
   putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
   nat <- getLine
   putStrLn "What Gender person would you like?"
-  putStrLn"Options are Male and Female"
+  putStrLn "Options are Male and Female"
   gen <- getLine
   nameList <- genNameN nat gen n
   mapM_ Str.putStrLn nameList
@@ -84,4 +87,17 @@ genNameCmd = do
 
 genNameLoop :: Int  -> String -> String -> IO [Str.ByteString]
 genNameLoop n nat gen = (genNameN nat gen n)
+
+
+--genPersonCmd :: IO String
+--genPersonCmd = do
+  --putStrLn "How many people would you like to generate?"
+  --num <- getLine
+  --let n = read (num) :: Int
+  --putStrLn "What Nationality do you wish to generate?"
+  --putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+  --nat <- getLine
+  --putStrLn "What Gender would you like to generate?"
+  --putStrLn "Options are Male and Female"
+  --gen <-getLine
 
