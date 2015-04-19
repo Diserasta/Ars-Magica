@@ -1,0 +1,36 @@
+﻿[NAME]'s Laboratory
+
+Base Statistics:
+	Size: 						0 (0)
+	Refinement: 			0
+	Base Safety: 			0
+	General Quality: 	0
+	Upkeep: 					0
+	Safety:						0
+	Warping:					0
+		[TYPE1]				0
+		[TYPE2]				0
+		[TYPE3]				0
+	Health:						0
+	Aesthetics:				0
+	Specialisations:
+		[TYPE1]				0
+		[TYPE2]				0
+		[YOUGETTHEPOINT]
+	
+	Virtues and Flaws:
+	(F for free, or S for special if cost doesn't apply)
+		Virtues:
+			NAME (TYPE [Structure/Environs etc])	[COST]	([EFFECT])
+			(Description goes between these brackets. Explain why the virtue exists or
+			just what it does. Be flavourful.)
+		Flaws:
+			NAME (TYPE [Structure/Environs etc])	[COST] ([EFFECT])
+			(Description goes between these brackets. Explain why the virtue exists or
+			just what it does. Be flavourful.)
+	Description:
+	(Describe what the lab is (is it held in a cart? is it a room? a tree?), how it
+	got to be there (and if the character knows). Any questions can be answered via
+	a quick PM or FB message. Describe how it looks. Print it out and draw the lab
+	if you want. Have fun with this. It's something that should reflect your
+	characters. And as always, feel free to ask me any questions.)
