@@ -3,11 +3,12 @@ get1st,
 get2nd,
 get3rd,
 removeAt,
+chkData,
 Tree,
 RAList,
 empty,
-toList,
-fromList,
+toRAList,
+fromRAList,
 index,
 update,
 cons,
@@ -17,6 +18,42 @@ head
 
 import Prelude hiding (head, tail)
 import Data.List (mapAccumL)
+import System.IO
+import System.Directory
+import qualified Data.ByteString as Str
+
+yesno :: String -> IO Bool
+yesno prompt = do
+  putStr $ prompt ++ " y/n: "
+  hFlush stdout
+  str <- getLine
+  case str of
+    "y" -> return True
+    "n" -> return False
+    _   -> do
+      putStrLn "Invalid Input."
+      yesno prompt
+
+
+noData :: FilePath -> IO Bool
+noData path = do
+  x <- doesFileExist path
+  return x
+
+chkData :: String -> String -> String -> IO Str.ByteString
+chkData path succm failm = do
+  chk <- noData path
+  if chk then do
+    putStrLn succm
+    (Str.readFile path)
+  else do
+    putStr "Would you like to create it? "
+    chk <- yesno failm
+    if chk then do
+      writeFile path ""
+      (Str.readFile path)
+    else do
+      fail (path ++ " Not found or created.")
 
 get1st :: (a, b, c) -> a
 get1st (x,_, _) = x
@@ -44,13 +81,13 @@ empty :: RAList a
 empty = []
 
 --Construct a Random Access List from a normal List (O(n))
-fromList :: [a] -> RAList a
-fromList l = fst $ mapAccumL (\l e -> (cons e l,l)) empty (reverse l)
+fromRAList :: [a] -> RAList a
+fromRAList l = fst $ mapAccumL (\l e -> (cons e l,l)) empty (reverse l)
 
 --Convert an RAList into a normal list (O(n))
-toList :: RAList a -> [a]
-toList [] = []
-toList xs = head xs : toList (tail xs)
+toRAList :: RAList a -> [a]
+toRAList [] = []
+toRAList xs = head xs : toRAList (tail xs)
 
 --Take an RAList and an index and return the item at that index (O(logn))
 index :: RAList a -> Int -> a
@@ -90,7 +127,7 @@ cons x xs = (1, Leaf x):xs
 
 --Return a list's tail
 tail :: RAList a ->RAList a
---tail [] = error "tail: empty list"
+tail [] = error "tail: empty list"
 tail ((_, Leaf _):rest) = rest
 tail ((s, Node _ t1 t2):rest) = (s',t1):(s',t2):rest
   where s' = (s-1) `div` 2
