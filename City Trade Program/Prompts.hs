@@ -89,15 +89,15 @@ genNameLoop :: Int  -> String -> String -> IO [Str.ByteString]
 genNameLoop n nat gen = (genNameN nat gen n)
 
 
---genPersonCmd :: IO String
---genPersonCmd = do
-  --putStrLn "How many people would you like to generate?"
-  --num <- getLine
-  --let n = read (num) :: Int
-  --putStrLn "What Nationality do you wish to generate?"
-  --putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
-  --nat <- getLine
-  --putStrLn "What Gender would you like to generate?"
-  --putStrLn "Options are Male and Female"
-  --gen <-getLine
+genPersonCmd :: IO String
+genPersonCmd = do
+  putStrLn "How many people would you like to generate?"
+  num <- getLine
+  let n = read (num) :: Int
+  putStrLn "What Nationality do you wish to generate?"
+  putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+  nat <- getLine
+  putStrLn "What Gender would you like to generate?"
+  putStrLn "Options are Male and Female"
+  gen <-getLine
 

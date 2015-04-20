@@ -25,7 +25,7 @@ distN a b = sqrt((pointx a - pointx b)^2 + (pointy a - pointy b)^2)
 
 data Path = Path  { id :: String
                   , cost :: Double
-                  , endpoints :: (String, String)
+                  , endpoints :: (Place, Place)
                   } deriving (Read, Show, Ord, Eq)
 --A path has an identifier (which can be a name), a list of intersecting paths,
 --and two or more endpoints

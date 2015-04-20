@@ -7,6 +7,7 @@ rndSelect,
 genNameN,
 genUniform,
 genNormal,
+genLogNormal,
 genWeightedAge
 ) where
 
@@ -37,7 +38,7 @@ genNormal m s = do
 --Generate a log-normally distributed number with mean m and stddev s^2
 genLogNormal :: forall m. (CMR.MonadRandom m) => Double -> Double -> m Double
 genLogNormal mu sigmaSq = do
-  r <- runRVar (normal mu sigmaSq) (CMR.getRandom :: m Word32)
+  r <- runRVar (normal mu sigmaSq) (CMR.getRandom :: m Double)
   return (exp r)
 
 --Pick N random members from a list of type a
@@ -78,7 +79,6 @@ genNameN :: String -> String -> Int -> IO [Str.ByteString]
 genNameN nat gen n = do
   nameList <- H.chkData ("Names/" ++ nat ++ gen ++ ".dat") "Names loaded" "Names not found"
   (pickNFromFile nameList n)
-  --Need to figure actual nationality, but that comes later
 
 
 genNameOnce = do
@@ -100,6 +100,12 @@ genNameOnce = do
 genAgeN :: (CMR.MonadRandom m) => Double -> Int -> m [Double]
 genAgeN _ 0 = return []
 genAgeN x n = replicateM n (genWeightedAge x)
+
+genRandAgeN ::forall m. (CMR.MonadRandom m) => [Double] -> [m Double]
+genRandAgeN l = do
+  let s = 0.125 : s
+  g <- mapM genNormal l 0.125
+  return g
 
 --This one is trickier
 --We want to generate an age that's weighted around a certain value
