@@ -105,4 +105,5 @@ Base Statistics:
 	frost powder, that cools and insulates anything it touches.
 	
 	The Desk:
-	This desk is made from what seems to be single slab of granite, 
+	This desk is made from what seems to be single slab of granite which floats about one
+  pace above the ground.
