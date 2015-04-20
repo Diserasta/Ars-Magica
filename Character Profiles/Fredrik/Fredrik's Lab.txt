@@ -1,36 +1,108 @@
-﻿[NAME]'s Laboratory
+﻿Fredrik's Laboratory
 
 Base Statistics:
-	Size: 						0 (0)
-	Refinement: 			0
-	Base Safety: 			0
-	General Quality: 	0
-	Upkeep: 					0
-	Safety:						0
-	Warping:					0
-		[TYPE1]				0
-		[TYPE2]				0
-		[TYPE3]				0
-	Health:						0
-	Aesthetics:				0
+	Size: 						+2 (1)
+	Refinement: 			+2
+	Base Safety: 			 0
+	General Quality: 	-3
+	Upkeep: 					+3
+	Safety:						 0
+	Warping:					 0
+	Health:						-1
+	Aesthetics:				+4
 	Specialisations:
-		[TYPE1]				0
-		[TYPE2]				0
-		[YOUGETTHEPOINT]
-	
+		Items						+6
+		Terram					+3
+		Creo						+2
+		Ignem						+2
+		Aurum						+1
+		Experimentation	+1
+
 	Virtues and Flaws:
-	(F for free, or S for special if cost doesn't apply)
 		Virtues:
-			NAME (TYPE [Structure/Environs etc])	[COST]	([EFFECT])
-			(Description goes between these brackets. Explain why the virtue exists or
-			just what it does. Be flavourful.)
+			Greater Feature (Major Structure Virtue) -3 (+2 Ae, +3 pts to Spec.)
+				(The main feature of Fredrik's distinct Lab is a giant magical forge.
+				It stands almost ten feet tall and is six paces in diameter. It burns
+				with an unending flame (due to enchantments), and takes up a sizable
+				amount of the space that forms the Lab. This forge also serves as a
+				Greater Focus.)
+			Natural Environment (Major Structure Virtue) -3 (+2 Ae, 3 pts among Cr, An,
+			Au, He, Ig or Te spec, depending on terrain type)
+				(Since Fredrik's Lab is mostly set up outdoors, and is quite portable,
+				it is often set up near major landscape features, both to allow Fredrik
+				the boni that sympathetic connections to the surroundings provide, and
+				the boundless space that nature provides.)
+			Lesser Feature (Minor Structure Virtue) -1 (+1 Ae, +1 Items/Co/Spells)
+				(Fredrik's Lab also contains a dummy to one side that can be used to test
+				spells or magical items. It will re-assemble itself when destroyed, due to
+				an enchantment on it.)
+			Extensive Stores (Minor Structure Virtue)	-1 (+2 Sa)
+				(Fredrik keeps an extensive store of raw materials and vis in his Lab-cart
+				as he is often travelling and prefers not to spend time find materials
+				wherever he finds himself working. His Lab can withstand a shortage of
+				funds for six seasons before requiring a Flaw that decreases Upkeep.)
+			Spacious (Minor Structure Virtue) -1 (+2 Sa, +1 Ae)
+				(Due to being outdoors, Fredrik has as much space as he needs to spread
+				his work out.)
+			Specimens (Minor Outfittings Virtue) -1 (+1 Up., +1 Ae, +1pt for Fo. Spec.)
+				(The area around Fredrik's Lab contains many samples of metal, alloys, and
+				crystals, with notes on their construction and sympathies.)
+			Mobile (Free Structure Virtue) F (+1 Exp. Spec.)
+				(Fredrik's Lab can be packed neatly into a normal size cart and carried
+				around due to the various enchantments on each of it's constituents.
+				This was more done out of necessity than convenience when Fredrik found
+				himself a fugitive.)
+			Superior Heating (Minor Outfittings Virtue) S (-1 Sa, +1 Hea, +1 Ae, +2 Ig)
+				(Fredrik's forge runs hot enough to melt any steel that contacts its
+				surface, and as such leaves the entire area of the Lab warm and insulated
+				from the heat of the outdoors. It does however also make working a little
+				more hazardous, as anything placed close to the forge and not immediately
+				warded against heat may spontaneously ignite.)
+			
 		Flaws:
-			NAME (TYPE [Structure/Environs etc])	[COST] ([EFFECT])
-			(Description goes between these brackets. Explain why the virtue exists or
-			just what it does. Be flavourful.)
+			Greater Focus (Major Structure Flaw) -3 (-2 Gen. Q, +4 pts on Spec provided by 
+			the feature)
+				(Fredrik's magical forge is dangerous to work around and puts out so much heat
+				that it makes work not involving forging or enchanting incredibly difficult)
+			Outdoors (Major Structure Flaw) -3 (-1 Gen. Qual., +2 Up, -1 Sa, -2 Hea, -3 Ae)
+				(Due to the need for Fredrik's Lab to be extemely portable, it often finds
+				itself outdoors and exposed to the elements. The heat from the forge helps
+				mitigate this, but it is not a fool-proof solution. As such however, he can
+				use as much space as he needs (usually). The Size of this Lab can be increased
+				freely and at will, requiring only a few day's work to re-arrange.)
+			Missing Sanctum Marker (Free Outfitting Flaw) F (-1 Ae)
+				(Due to the Lab being open to the air, and visible from quite the distance,
+				(and Fredrik's general kind-heartedness), Fredrik does not mark his Lab with
+				a Sanctum Marker.)
 	Description:
-	(Describe what the lab is (is it held in a cart? is it a room? a tree?), how it
-	got to be there (and if the character knows). Any questions can be answered via
-	a quick PM or FB message. Describe how it looks. Print it out and draw the lab
-	if you want. Have fun with this. It's something that should reflect your
-	characters. And as always, feel free to ask me any questions.)
+	Fredrik's Lab isn't a Lab in the traditional sense. It is more a set of equipment and
+	expendables he carries around in a cart when he travels. Many of the tools
+	traditionally used in a Lab are present, but are shrunk down for easy transportation.
+	When expanded and laid out in it's full capacity, the Lab, such that it is, takes up
+	approximately 800 square feet, in a circle approximately 11 paces across.
+	
+	At the centre of this circle sits a giant forge and smithy, taking up six paces of the
+	perimeter. At one end of the circle sits a stone desk, dusted with a strange, icy blue
+	powder. There are evenly spaced waist-high stone cupboards around the room with indicitive
+	specimens sitting on top of each.
+	
+	Around the perimeter of the Lab's area sit a circle of marble slabs, marking the safe
+	area. Two paces in from them stand a circle of wooden posts, which constantly smoke
+	slightly. Fredrik warns visitors that venturing any closer than that is foolish, and
+	has more than once had to explain to Ashe why she was treating *another* person with
+	90% body burns.
+	
+	The Forge:
+	The forge is powered by magic and emits an unearthly heat, being able to
+	melt steel on contact with it's surface, and boil lead when it is placed in the heart
+	of the forge. The heat is unbearable and legitimately dangerous when one works at the
+	forge itself, as metal within a pace or two will soften, the person's clothing will
+	ignite, and fabric in the lab will char over time. 
+	The enchantment does however have an effect that will protect certain people from the
+	effects of the heat if an Arcane Connection to them is placed in a small holder at the
+	back of the forge (a vial of blood is commonly used). This does not prevent Lab damage
+	however, and as such, Fredrik keeps ample supply of a charged item in the form of
+	frost powder, that cools and insulates anything it touches.
+	
+	The Desk:
+	This desk is made from what seems to be single slab of granite, 
