@@ -1,7 +1,7 @@
 ﻿Aelita's Laboratory
 
 Base Statistics:
-	Size: 						0 (-4)
+	Size: 						0 (-1)
 	Refinement: 			+3
 	Base Safety: 			+3
 	General Quality: 	-2
@@ -12,10 +12,10 @@ Base Statistics:
 		[TYPE2]				0
 		[TYPE3]				0
 	Health:						0 (0-2+2)
-	Aesthetics:				-2 (-2+2+2+1)
+	Aesthetics:				-2 (-2+2+2+2+1)
 	Specialisations:
-		Mentem				+3
-		[TYPE2]				0
+		Mentem				+5
+		Intellègo			+1
 		[YOUGETTHEPOINT]
 
 	Virtues and Flaws:
@@ -27,6 +27,11 @@ Base Statistics:
       amount of the floor space. It is decorated with mystical symbols and runes. A
       circle of candles and useful specimens sit around the circle to act as a focus.
       This makes it somewhat awkward to work around and a Greater Focus for this Lab.)
+      Greater Feature (Major Structure Virtue) -3 (+2 Ae, 3 pts among In, Im, Me)
+      (A large, ceiling to floor mirror, decorated with gems that throw light around
+      the Lab, stands to one side of the summoning circle. Aelita usually uses it
+      to contemplate, or focus her mind when dealing with magic involving herself,
+      or knowledge.)
       Auspicious Shape (Minor Structure Virtue) -1 (+1 Ae, +1 Vi)
       (Aelita's ice cavern is laid out as a central rounded hexagonal chamber, with small
       dedicated rooms coming off each point. This form is beneficial to channelling and
