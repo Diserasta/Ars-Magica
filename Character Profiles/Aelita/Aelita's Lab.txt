@@ -1,0 +1,64 @@
+﻿Aelita's Laboratory
+
+Base Statistics:
+	Size: 						0 (-4)
+	Refinement: 			+3
+	Base Safety: 			+3
+	General Quality: 	-2
+	Upkeep: 					-5 (-5)
+	Safety:						0
+	Warping:					+2+1
+		[TYPE1]				0
+		[TYPE2]				0
+		[TYPE3]				0
+	Health:						0 (0-2+2)
+	Aesthetics:				-2 (-2+2+2+1)
+	Specialisations:
+		Mentem				+3
+		[TYPE2]				0
+		[YOUGETTHEPOINT]
+
+	Virtues and Flaws:
+
+		Virtues:
+			Greater Feature (Major Structure Virtue) -3	(+2 Ae, 3 pts among Exp, Spells,
+      Cr, Re, An, Vi)
+			(A giant summoning circle sits in the centre of Aelita's lab, dominating a large
+      amount of the floor space. It is decorated with mystical symbols and runes. A
+      circle of candles and useful specimens sit around the circle to act as a focus.
+      This makes it somewhat awkward to work around and a Greater Focus for this Lab.)
+      Auspicious Shape (Minor Structure Virtue) -1 (+1 Ae, +1 Vi)
+      (Aelita's ice cavern is laid out as a central rounded hexagonal chamber, with small
+      dedicated rooms coming off each point. This form is beneficial to channelling and
+      directing magic.)
+      Spacious (Minor Structure Virtue) -1 (+2 Sa, +1 Ae)
+      (There is enough spare room in the cavern to allow Aelita to spread her tools and
+      equipment out so that it's less precarious to work inside the Lab.)
+      Ice Cavern (Free Supernatural Virtue) F (+1 Up, +1 Wa, -2 Hea(Unless immune to cold),
+      +2 Ae, +2 Re or Te)
+      (Aelita's Lab is actually carved into an cavern of ice.)
+      Idyllic Surroundings (Free Structure Virtue) F (+2 Hea, +1 Ae, 1 pt among Cr, An,
+      He or Te)
+      (Aelita's mental Lab actually contains more than just the Lab itself. It also
+      contains a small glade outside the cavern, which is home to many fantastical
+      plants that Aelita has imagined, as well as a small stream.)
+		Flaws:
+      Greater Focus (Major Structure Flaw) +3 (-2 Gen Q., 4 pts among Feature Specs)
+      (Aelita's summoning circle is ornamented extremely heavily, and also saps some of
+      magical power of its user to power itself, making Lab Projects that don't use it
+      harder to complete.)
+			Mental Construct (Major Structure Flaw)	+3 (-5 Up, +2 Wa, -2 Ae, +3 Me)
+			(Aelita's Lab is contained entirely in her mind. This was achieved with an
+      extremely powerful Creo Mentem ritual that cost her a sizable amount of her
+      life savings. The Lab's imaginary portion can only be of Size Aelita's Intelligence
+      or less, and the Lab may be improved as per usual. However, disregard any changes
+      to Upkeep, Health, or Aesthetics. Without incredibly sophisticated magic, Aelita
+      is unable to use this Lab to bond with a familiar, enchant items or Longevity
+      Rituals, or teach. She can still invent spells, work with Lab Texts and study Arts
+      "normally".)
+	Description:
+	(Describe what the lab is (is it held in a cart? is it a room? a tree?), how it
+	got to be there (and if the character knows). Any questions can be answered via
+	a quick PM or FB message. Describe how it looks. Print it out and draw the lab
+	if you want. Have fun with this. It's something that should reflect your
+	characters. And as always, feel free to ask me any questions.)
