@@ -6,64 +6,97 @@ Base Statistics:
 	Base Safety: 			+3
 	General Quality: 	-2
 	Upkeep: 					-5 (-5)
-	Safety:						0
-	Warping:					+2+1
-		[TYPE1]				0
-		[TYPE2]				0
-		[TYPE3]				0
-	Health:						0 (0-2+2)
-	Aesthetics:				-2 (-2+2+2+2+1)
+	Safety:						+6
+	Warping:					+3
+		Inquisitive   +2
+		Collected     +1
+	Health:						0 (+2 if immune to cold, 0 otherwise)
+	Aesthetics:				-2 (+5)
 	Specialisations:
-		Mentem				+5
-		Intellègo			+1
-		[YOUGETTHEPOINT]
-
+    Spells            +4
+		Mentem				    +4
+    Experimentation   +3
+		Intellègo			    +2
+    Rego              +2
+    Vim               +1
 	Virtues and Flaws:
 
 		Virtues:
 			Greater Feature (Major Structure Virtue) -3	(+2 Ae, 3 pts among Exp, Spells,
       Cr, Re, An, Vi)
-			(A giant summoning circle sits in the centre of Aelita's lab, dominating a large
-      amount of the floor space. It is decorated with mystical symbols and runes. A
-      circle of candles and useful specimens sit around the circle to act as a focus.
-      This makes it somewhat awkward to work around and a Greater Focus for this Lab.)
+        (A giant summoning circle sits in the centre of Aelita's lab, dominating a large
+        amount of the floor space. It is decorated with mystical symbols and runes. A
+        circle of candles and useful specimens sit around the circle to act as a focus.
+        This makes it somewhat awkward to work around and a Greater Focus for this Lab.)
       Greater Feature (Major Structure Virtue) -3 (+2 Ae, 3 pts among In, Im, Me)
-      (A large, ceiling to floor mirror, decorated with gems that throw light around
-      the Lab, stands to one side of the summoning circle. Aelita usually uses it
-      to contemplate, or focus her mind when dealing with magic involving herself,
-      or knowledge.)
+        (A large, ceiling to floor mirror, decorated with gems that throw light around
+        the Lab, stands to one side of the summoning circle. Aelita usually uses it
+        to contemplate, or focus her mind when dealing with magic involving herself,
+        or knowledge.)
       Auspicious Shape (Minor Structure Virtue) -1 (+1 Ae, +1 Vi)
-      (Aelita's ice cavern is laid out as a central rounded hexagonal chamber, with small
-      dedicated rooms coming off each point. This form is beneficial to channelling and
-      directing magic.)
+        (Aelita's ice cavern is laid out as a central rounded hexagonal chamber, with small
+        dedicated rooms coming off each point. This form is beneficial to channelling and
+        directing magic.)
       Spacious (Minor Structure Virtue) -1 (+2 Sa, +1 Ae)
-      (There is enough spare room in the cavern to allow Aelita to spread her tools and
-      equipment out so that it's less precarious to work inside the Lab.)
+        (There is enough spare room in the cavern to allow Aelita to spread her tools and
+        equipment out so that it's less precarious to work inside the Lab.)
       Ice Cavern (Free Supernatural Virtue) F (+1 Up, +1 Wa, -2 Hea(Unless immune to cold),
       +2 Ae, +2 Re or Te)
-      (Aelita's Lab is actually carved into an cavern of ice.)
+        (Aelita's Lab is actually carved into a cavern of ice.)
       Idyllic Surroundings (Free Structure Virtue) F (+2 Hea, +1 Ae, 1 pt among Cr, An,
       He or Te)
-      (Aelita's mental Lab actually contains more than just the Lab itself. It also
-      contains a small glade outside the cavern, which is home to many fantastical
-      plants that Aelita has imagined, as well as a small stream.)
+        (Aelita's mental Lab actually contains more than just the Lab itself. It also
+        contains a small glade outside the cavern, which is home to many fantastical
+        plants that Aelita has imagined, as well as a small stream.)
 		Flaws:
       Greater Focus (Major Structure Flaw) +3 (-2 Gen Q., 4 pts among Feature Specs)
-      (Aelita's summoning circle is ornamented extremely heavily, and also saps some of
-      magical power of its user to power itself, making Lab Projects that don't use it
-      harder to complete.)
+        (Aelita's summoning circle is ornamented extremely heavily, and also saps some of
+        magical power of its user to power itself, making Lab Projects that don't use it
+        harder to complete.)
 			Mental Construct (Major Structure Flaw)	+3 (-5 Up, +2 Wa, -2 Ae, +3 Me)
-			(Aelita's Lab is contained entirely in her mind. This was achieved with an
-      extremely powerful Creo Mentem ritual that cost her a sizable amount of her
-      life savings. The Lab's imaginary portion can only be of Size Aelita's Intelligence
-      or less, and the Lab may be improved as per usual. However, disregard any changes
-      to Upkeep, Health, or Aesthetics. Without incredibly sophisticated magic, Aelita
-      is unable to use this Lab to bond with a familiar, enchant items or Longevity
-      Rituals, or teach. She can still invent spells, work with Lab Texts and study Arts
-      "normally".)
+        (Aelita's Lab is contained entirely in her mind. This was achieved with an
+        extremely powerful Creo Mentem ritual that cost her a sizable amount of her
+        life savings. The Lab's imaginary portion can only be of Size Aelita's Intelligence
+        or less, and the Lab may be improved as per usual. However, disregard any changes
+        to Upkeep, Health, or Aesthetics. Without incredibly sophisticated magic, Aelita
+        is unable to use this Lab to bond with a familiar, enchant items or Longevity
+        Rituals, or teach. She can still invent spells, work with Lab Texts and study Arts
+        "normally".)
 	Description:
-	(Describe what the lab is (is it held in a cart? is it a room? a tree?), how it
-	got to be there (and if the character knows). Any questions can be answered via
-	a quick PM or FB message. Describe how it looks. Print it out and draw the lab
-	if you want. Have fun with this. It's something that should reflect your
-	characters. And as always, feel free to ask me any questions.)
+	Aelita's lab, despite being a product of her mind, is laid out logically and is quite
+  aesthetically pleasing, not that anyone can verify that claim.
+  The lab itself is a rather large ice cavern, consisting of a central hexagonal chamber,
+  with smaller rooms coming off each vertex of the hexagon. In the central chamber sits
+  a massive summoning circle adorned with mystical symbols and decorated with candles and
+  crystals. A soft glow emanates from the circle as it saps the energy of those who
+  use it. To the west of the central chamber stands a large floor to ceiling mirror,
+  decorated with gems. The mirror does not actually reflect the room, but seems to
+  peer into a starry void. Despite this, it will reflect anyone who stands in front of
+  it.
+  Also in the room is a small alcove, carved into the ice wall, containing a
+  desk, chair, and small bookcase; all of which are also carved from ice. An inkwell
+  sits, or more accurately *is* a part of the table. A crystal quill hovers above the
+  inkwell, awaiting use.
+  Each of the smaller chambers holds materials for specific activities. Clockwise from
+  north, they are:
+    ∙ A small alchemical lab, containing a cauldron, an alembic, distillation equipment,
+      a set of scales, and small containers for temporary storage.
+    ∙ A storeroom containing catalysts, reagents, and general consumables used by
+      the lab.
+    ∙ A small study containing Aelita's Lab Texts, as well as any books or missives she
+      has memorised using her Art of Memory skill.
+    ∙ A larger room containing astrological equipment, star charts and a small orrery,
+      and an armillary sphere.
+    ∙ The antechamber of the lab, containing two chairs, a small table and the exit
+      door.
+    ∙ This room is a small greenhouse type room that leads out into a garden. It
+      contains two chairs, some small pot plants and a small table.
+  Outside of the lab proper is a lush garden that stretches out for ten or so paces.
+  It is home to butterflies and many small magical creatures that Aelita fancies, as
+  well as mystical plants and trees.
+  A small glade lies in a thicket of trees to one side. Therein is a bench that sits in
+  front of a small stream that passes by the lab.
+  Once outside, it's immediately obvious that this lab and its surroundings have been
+  Warped by exposure to Aelita's mind. The sky twinkles with many thousands of stars and
+  dazzles with bright aurorae, which become more subdued as Aelita relaxes. In the sky
+  sit two moons, one of which is much larger than the other.
