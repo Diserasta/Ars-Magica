@@ -55,7 +55,7 @@ Virtues and Flaws:
 			may burn more Fatigue Levels than she possesses, however if she 
 			does, she must Soak 5 damage per extra fatigue level + stress die,
 			without the help of armour. Ashe can kill herself doing this. The
-			number of Fatigue Levels is commited before the casting roll is 
+			number of Fatigue Levels is committed before the casting roll is 
 			made.
 		The Enigma (Minor, Hermetic) M
 			Ashe is a member of House Criamon, and as such has been inducted
@@ -110,7 +110,7 @@ Virtues and Flaws:
 			not enjoying combat, or fighting in the least. This may explain
 			why she chose the path she did in her House. It may also explain
 			how the whole situation with Tess ended up happening.
-		Noncombatant (Major, General) M
+		Non-combatant (Major, General) M
 			Ashe's progress on the Path of Walking Backwards marks her as a 
 			healer, and as such, she can no longer harm others. To avoid 
 			spiritual dilemmas, she often sits out the escapades of her friends
