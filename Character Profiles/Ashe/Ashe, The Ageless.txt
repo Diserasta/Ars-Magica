@@ -28,7 +28,7 @@ Virtues and Flaws:
 			Roll as per usual. If her result is higher than the level declared,
 			she only spends one Fatigue Level as normal. If, however, the 
 			result is lover, she must spend one additional Fatigue level per
-			5 points, or fraction therof, by which she missed the target. If 
+			5 points, or fraction thereof, by which she missed the target. If 
 			she runs out of Fatigue Levels, she takes a wound. The number of 
 			levels still needed is treated as the Attack Advantage, and she 
 			takes a corresponding wound. She can kill herself this way.
@@ -70,7 +70,7 @@ Virtues and Flaws:
 		Dance that Heals (Major, Supernatural) M
 			Ashe may dance around objects to bring them to wholeness again. A
 			cracked gem made be made whole, or a broken tool fixed, but a 
-			cabachon could not be returned to an un-cut gem. Humans, being
+			cabochon could not be returned to an uncut gem. Humans, being
 			creatures with control over their own destiny cannot be healed by 
 			this power, however the dance can prevent them from dying while 
 			others provide magical, or mundane healing.
@@ -81,7 +81,7 @@ Virtues and Flaws:
 			viewers of one who has achieved this station grasp, in a way they 
 			cannot describe, the message the magus is attempting to convey. 
 			They find it persuasive, but are unable to articulate it in any
-			detail unless they have Enigmatic Wisom.
+			detail unless they have Enigmatic Wisdom.
 		The Station of Exultation (Minor, Special) M
 			Ashe may perform a labyrinth meditation while circling, or carrying
 			an object to add one plausible, positive adjective to the object.

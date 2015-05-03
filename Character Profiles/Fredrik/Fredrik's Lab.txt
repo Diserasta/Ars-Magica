@@ -1,7 +1,7 @@
 ﻿Fredrik's Laboratory
 
 Base Statistics:
-	Size: 						+2 (1)
+	Size: 						+2 (2)
 	Refinement: 			+2
 	Base Safety: 			 0
 	General Quality: 	-3
@@ -58,9 +58,8 @@ Base Statistics:
 				from the heat of the outdoors. It does however also make working a little
 				more hazardous, as anything placed close to the forge and not immediately
 				warded against heat may spontaneously ignite.)
-			
 		Flaws:
-			Greater Focus (Major Structure Flaw) -3 (-2 Gen. Q, +4 pts on Spec provided by 
+			Greater Focus (Major Structure Flaw) -3 (-2 Gen. Q, +4 pts on Spec provided by
 			the feature)
 				(Fredrik's magical forge is dangerous to work around and puts out so much heat
 				that it makes work not involving forging or enchanting incredibly difficult)
@@ -80,30 +79,31 @@ Base Statistics:
 	traditionally used in a Lab are present, but are shrunk down for easy transportation.
 	When expanded and laid out in it's full capacity, the Lab, such that it is, takes up
 	approximately 800 square feet, in a circle approximately 11 paces across.
-	
+
 	At the centre of this circle sits a giant forge and smithy, taking up six paces of the
 	perimeter. At one end of the circle sits a stone desk, dusted with a strange, icy blue
-	powder. There are evenly spaced waist-high stone cupboards around the room with indicitive
+	powder. There are evenly spaced waist-high stone cupboards around the room with indicative
 	specimens sitting on top of each.
-	
+
 	Around the perimeter of the Lab's area sit a circle of marble slabs, marking the safe
-	area. Two paces in from them stand a circle of wooden posts, which constantly smoke
+	area. Two paces in from them stand a circle of wooden posts, which constantly smoulder
 	slightly. Fredrik warns visitors that venturing any closer than that is foolish, and
 	has more than once had to explain to Ashe why she was treating *another* person with
 	90% body burns.
-	
+
 	The Forge:
 	The forge is powered by magic and emits an unearthly heat, being able to
 	melt steel on contact with it's surface, and boil lead when it is placed in the heart
 	of the forge. The heat is unbearable and legitimately dangerous when one works at the
 	forge itself, as metal within a pace or two will soften, the person's clothing will
-	ignite, and fabric in the lab will char over time. 
+	ignite, and fabric in the lab will char over time.
 	The enchantment does however have an effect that will protect certain people from the
 	effects of the heat if an Arcane Connection to them is placed in a small holder at the
 	back of the forge (a vial of blood is commonly used). This does not prevent Lab damage
 	however, and as such, Fredrik keeps ample supply of a charged item in the form of
 	frost powder, that cools and insulates anything it touches.
-	
+
 	The Desk:
-	This desk is made from what seems to be single slab of granite which floats about one
-  pace above the ground.
+	This desk is made from what seems to be single slab of granite which floats about a
+  pace and a half off the ground. On it sit a sheet of parchment, a quill, and an inkwell.
+  The slab has been engraved with a long, continuous Celtic Knot that follows its edge.
