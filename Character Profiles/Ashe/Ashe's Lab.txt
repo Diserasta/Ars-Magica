@@ -1,8 +1,8 @@
-﻿[NAME]'s Laboratory
+﻿Ashe's Laboratory
 
 Base Statistics:
-	Size: 						0 (0)
-	Refinement: 			0
+	Size: 						+2 (-3)
+	Refinement: 			+1
 	Base Safety: 			0
 	General Quality: 	0
 	Upkeep: 					0
@@ -19,11 +19,16 @@ Base Statistics:
 		[YOUGETTHEPOINT]
 	
 	Virtues and Flaws:
-	(F for free, or S for special if cost doesn't apply)
+
 		Virtues:
-			NAME (TYPE [Structure/Environs etc])	[COST]	([EFFECT])
-			(Description goes between these brackets. Explain why the virtue exists or
-			just what it does. Be flavourful.)
+			Greater Feature (Major Structure Virtue) 	-3	(3 pts among Longevity Rituals, Cr or Co)
+			(Ashe's lab contains a large pallet and a selection of diagnostic tools, for treating
+      patients.)
+      Gallery (Minor Structure Virtue) -1 (+1 Sa, +1 Ae, +1 Teaching)
+      (A gallery around the edge of the lab allows Ashe, or others to view what is happening
+      below without interrupting it, or being a hazard.)
+      Palatial (Major Outfitting Virtue) -3 (+1 Gen Q., +3 Up, +2 Hea, +4 Ae, +2 Tch, +1 pt Spec)
+      ()
 		Flaws:
 			NAME (TYPE [Structure/Environs etc])	[COST] ([EFFECT])
 			(Description goes between these brackets. Explain why the virtue exists or
