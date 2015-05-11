@@ -57,7 +57,10 @@ Virtues and Flaw:
 			(Relly is a Vikti, and might be hunted down by the Order of Hermes
 			if anyone found out. Additionally, many people in the Order would
 			resent her even if she did swear the Oath, and might continue to 
-			hunt her even then)
+			hunt her even then. On the flip side, she is also a Muspelli, meaning
+			that even the Viktir would hate her if they found out. Whether her
+			family would disown her for this is unsure, though Runa is sure they
+			would)
 		Close Family Ties (Minor, Story) -1
 			(Runa's family is incredibly close, considering they're one of the 
 			few rune mages left alive. Even without that, they love each other
@@ -83,30 +86,30 @@ Virtues and Flaw:
 Personality Traits:
 	Irritable 	+5
 	Boisterous	+2
-	Reliable	+2
+	Reliable		+2
 
 Wizard's Sigil: Thin threads of gold wrap around the target, glow and then fade
 a few moments later.
 Arts:
-Letter	Name		Sc	Xp | Letter	Name	Sc	Xp  | Letter	Name		Sc	Xp
+Letter	Name			Sc	Xp | Letter	Name		Sc	Xp	| Letter	Name			Sc	Xp
 -----------------------------------------------------------------------------------
-	F	Fehu		__	___| 	H	Hagalaz	__	___ |	T		Tiwaz		__	___ 
-	U	Uruz		__	___| 	N	Naudiz	__	___ |	B		Berkanan	__	___ 
-	Th	Thurisaz	__	___| 	I	Isa		__	___ |	E		Ehwaz		__	___ 
-	A	Ansuz		__	___| 	J	Jera	__	___ |	M		Mannaz		__	___ 
-	R	Raido		__	___| 	Y	Ihwaz	__	___ |	L		Laguz		__	___ 
-	K	Kauno		__	___| 	P	Perth	__	___ |	Ng		Ingwaz		__	___ 
-	G	Gebo		__	___| 	Z	Algiz	__	___ |	D		Dagaz		__	___ 
-	W	Wunjo		__	___| 	S	Sowilo	__	___ |	O		Othila		__	___ 
+	F			Fehu			__	___| 	H			Hagalaz	__	___ |	T				Tiwaz			__	___ 
+	U			Uruz			__	___| 	N			Naudiz	__	___ |	B				Berkanan	__	___ 
+	Th		Thurisaz	__	___| 	I			Isa			__	___ |	E				Ehwaz			__	___ 
+	A			Ansuz			__	___| 	J			Jera		__	___ |	M				Mannaz		__	___ 
+	R			Raido			__	___| 	Y			Ihwaz		__	___ |	L				Laguz			__	___ 
+	K			Kauno			__	___| 	P			Perth		__	___ |	Ng			Ingwaz		__	___ 
+	G			Gebo			__	___| 	Z			Algiz		__	___ |	D				Dagaz			__	___ 
+	W			Wunjo			__	___| 	S			Sowilo	__	___ |	O				Othila		__	___ 
 
 Muspelli Abilities:
-	Ability					Specialty				Sc	Xp
-	Entrancement			(Talking)				__	___
-	Spadomur				(Deaths)				__	___
-	Threads of Fate			(Rescue)				__	___
+	Ability						Specialisation					Sc	Xp
+	Entrancement			(Talking)								__	___
+	Spadomur					(Deaths)								__	___
+	Threads of Fate		(Rescue)								__	___
 	Premonitions			(Threats to Her Family)	__	___
-	Sjonverfing				(Natural Features)		__	___
-	Storm's Eye				(At Night)				__	___
+	Sjonverfing				(Natural Features)			__	___
+	Storm's Eye				(At Night)							__	___
 	
 	
 	
@@ -120,40 +123,7 @@ Appearance:
 	out like a sore thumb in most locales, and people are often suspicious of 
 	her strange appearance despite her Gentle Gift.
 Reference:
-							Freya's Aett
-	Letter	Rune	Name		Meaning			Effects
-		F			Fehu		"Wealth"		wealth, domesticated animals
-		U			Uruz		"Auroch"		endurance, the wild
-		Th			Thurisaz	"Ogre"			malice, shapeshifting
-		A			Ansuz		"Mouth"			communication, teaching
-		R			Raido		"Riding"		travel, knowledge
-		K			Kauno		"Pain"			fire, sores
-		G			Gebo		"Gift"			debt, sacrifice
-		W			Wunjo		"Joy"			emotion, intoxication
-		
-							Heimdall's Aett
-	Letter	Rune	Name		Meaning			Effects
-		H			Hagalaz		"Hail"			weather, illness
-		N			Naudiz		"Need"			trouble, hardship
-		I			Isa			"Ice"			cold, stasis
-		J			Jera		"Year"			harvest, bounty
-		Y			Ihwaz		"Yew"			patience, the dead
-		P			Perth		"Cup"			chance, secrets
-		Z			Algiz		"Elk"			protection, the hunt
-		S			Sowilo		"Sun"			triumph, virtue
-		
-								Tyr's Aett
-	Letter	Rune	Name		Meaning			Effects
-		T			Tiwas		"Tyr"			justice, battle
-		B			Berkanan	"Birch"			health, youth
-		E			Ehwaz		"Horse"			speed, relationships
-		M			Mannaz		"Man"			cooperation, duty
-		L			Laguz		"Water"			ocean, ships
-		Ng			Ingwaz		"Lord"			family, security
-		D			Dagaz		"Day"			time, growth
-		O			Othila		"Inheritance"	lands, possessions
-		
-						Etin-Mod
+																	Etin-Mod
 	Characteristics:
 		Int: +2
 		Per:  0
@@ -177,7 +147,7 @@ Reference:
 			Unconscious Fatigue Level, then she reverts to human form 
 			immediately)
 		Greater Magical Defenses (Minor, Supernatural)
-			(Runa's Magical Defenses are double when she in etin-mod)
+			(Runa's Magical Defenses are doubled when she in etin-mod)
 	Qualities:
 		Tireless
 			(While in etin-mod, Runa has two extra Fatigue Levels)

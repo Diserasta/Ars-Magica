@@ -1,22 +1,22 @@
 ﻿Ashe's Laboratory
 
 Base Statistics:
-	Size: 						+2 (-3)
-	Refinement: 			+1
-	Base Safety: 			0
-	General Quality: 	0
-	Upkeep: 					0
-	Safety:						0
-	Warping:					0
+	Size: 						+2 (+2)
+	Refinement: 			+2
+	Base Safety: 			-2
+	General Quality: 	+1
+	Upkeep: 					+3
+	Safety:						 0
+	Warping:					 0
 		[TYPE1]				0
 		[TYPE2]				0
 		[TYPE3]				0
-	Health:						0
-	Aesthetics:				0
+	Health:						+2
+	Aesthetics:				+5
 	Specialisations:
-		[TYPE1]				0
-		[TYPE2]				0
-		[YOUGETTHEPOINT]
+		Teaching  		+3
+		Creo				  +4
+		Animal        +1
 	
 	Virtues and Flaws:
 
@@ -27,12 +27,17 @@ Base Statistics:
       Gallery (Minor Structure Virtue) -1 (+1 Sa, +1 Ae, +1 Teaching)
       (A gallery around the edge of the lab allows Ashe, or others to view what is happening
       below without interrupting it, or being a hazard.)
+      Spacious (Minor Structure Virtue) -1 (+2 Sa, +1 Ae)
+      (Ashe's lab is quite spacious and open, both to allow students space to walk around and
+      examine things, and so she can work without worrying about knocking things over.)
       Palatial (Major Outfitting Virtue) -3 (+1 Gen Q., +3 Up, +2 Hea, +4 Ae, +2 Tch, +1 pt Spec)
-      ()
+      (The lab is lavishly outfitted with spices and ingredients, as well as any creature comfort
+      that Ashe's patients could conceivably need.)
 		Flaws:
-			NAME (TYPE [Structure/Environs etc])	[COST] ([EFFECT])
-			(Description goes between these brackets. Explain why the virtue exists or
-			just what it does. Be flavourful.)
+			Inhabitants (Minor Supernatural Flaw)	+1 (-1 Sa, -1 Ae, 1pt to An)
+			(A herd of cats that Ashe has adopted over the years lives inside her lab. Though they know
+      to stay well enough away from the glowing magical things, they still get caught up in feet
+      and tend to leave furballs lying around.)
 	Description:
 	(Describe what the lab is (is it held in a cart? is it a room? a tree?), how it
 	got to be there (and if the character knows). Any questions can be answered via
