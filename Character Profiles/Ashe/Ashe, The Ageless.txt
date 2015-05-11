@@ -13,7 +13,7 @@ Characteristics:
 	Qik: -3
 	
 Size: 0
-Age: 204 (42)
+Age: 206 (42)
 Decrepitude: 0
 Warping Score: 5 (84)
 Confidence Score: 1 (3)
@@ -132,32 +132,44 @@ Soak: 0
 Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
 Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incap. (16-20), Dead (21+)
 Abilities:
-	Ability				  Specialty					  Sc  Xp
-	Swedish				  Poetry						  5	  75
-	Latin				    Hermetic Usage		  5	  75
-	Hungarian			  Poetry						  4	  50
+	Ability				    Specialty					      Sc  Xp
+	Swedish				    Poetry						      5	  75
+	Latin				      Hermetic Usage		      5	  75
+	Hungarian			    Poetry						      5	  75
+
+  Animal Handling   Cats                    5   75
+	Artes Liberales	  Logic 			  			    7	  140
+  Charm             Being Witty             5   75
+	Chirurgy			    Diagnosis			  		    8	  180
+  Code of Hermes    Tribunal Procedures     3   30
+	Etiquette			    Peasants				  	    5	  75
+	Finesse				    Grace					  	      10  275
+	Folk Ken			    Townsfolk				  	    5	  75
+	Guile				      Lying to Authority	    5	  75
+  Intrigue          Mediating               5   75
+  Leadership        Inspiration             5   75
+	Magic Theory		  Creo						        10  275
+	Medicine			    Anatomy						      8	  180
+	Music				      Singing						      8	  180
+	Parma Magica		  Creo						        6	  105
+  Penetration       Creo                    5   75
+  Philosophiae      Ritual Magic            8   180
+  Teaching          Magic Theory            10  275
 	
-	Artes Liberales	Logic 			  			2	  15
-	Chirurgy			  Diagnosis			  		6	  105
-	Etiquette			  Peasants				  	4	  50
-	Finesse				  Grace					  	  4	  50
-	Folk Ken			  Townsfolk				  	3	  30
-	Guile				    Lying to Authority	3	  30
-	Magic Theory		Creo						    8	  180
-	Medicine			  Anatomy						  8	  180
-	Music				    Singing						  8	  180
-	Parma Magica		Creo						    6	  105
-	
-	Enigmatic Wisdom	Comprehending Twilight		5	80
+	Enigmatic Wisdom	Comprehending Twilight	10  275
+  Magic Lore        Magical Traditions      5   75
+  Faerie Lore       Faerie Gods             5   75
+  Infernal Lore     Demons                  5   75
+  Dominion Lore     Angels                  5   75
 	
 Arts:
 		Techniques							  Forms
 	Art		Score	Xp		Art		Score	Xp		Art		Score	Xp
-	Cr		21+3	231		An		15		120		Ig		12		78
-	In		12		78		Aq		12		78		Im		8		  44
-	Mu		10		55		Au		12		78		Me		10		55
-	Pe		5		  15		Co		15		120		Te		12		78
-	Re		10		55		He		15		120		Vi		10		55
+	Cr		30+3	465		An		20		210		Ig		10		55
+	In		20		210		Aq		10		55		Im		10	  55
+	Mu		10		55		Au		10		55		Me		10		55
+	Pe		10	  55		Co		30		465		Te		10		55
+	Re		10		55		He		20		210		Vi		10		55
 Twilight Scars:
 	+ Ashe's eyes sparkle as if there were tiny gems within them
 
@@ -167,7 +179,7 @@ Spells Known:
 	Bind Wound
 	CrCo 10
 	R:Touch, D:Sun, T:Individual
-	Binds a wound so it can not worsen. Wound penalties are still suffered, 
+	Binds a wound so it can not worsen. Wound penalties are still suffered,
 	however.
 	
 	Soothe the Pains of the Beast
