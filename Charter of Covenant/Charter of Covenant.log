@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2015.5.14)  14 MAY 2015 23:00
+This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2015.5.15)  15 MAY 2015 21:40
 **"Charter of Covenant.tex"
 ("./Charter of Covenant.tex"
 LaTeX2e <2014/05/01>
@@ -28,7 +28,7 @@ Package: inputenc 2014/04/30 v1.2b Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) ("C:/Program Files/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty"
+) (C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -39,8 +39,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidth=\dimen105
 \titlewidthlast=\dimen106
 \titlewidthfirst=\dimen107
-)
-("C:/Program Files/MiKTeX 2.9/tex/latex/babel/babel.sty"
+) ("C:/Program Files/MiKTeX 2.9/tex/latex/babel/babel.sty"
 Package: babel 2014/09/25 3.9l The Babel package
 
 *************************************
@@ -49,10 +48,10 @@ Package: babel 2014/09/25 3.9l The Babel package
 ("C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/babel-english/english.ldf"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/babel-english/english.ld
+f
 Language: english 2012/08/20 v3.3p English support from the babel system
-
-("C:/Program Files/MiKTeX 2.9/tex/latex/babel/babel.def"
+ ("C:/Program Files/MiKTeX 2.9/tex/latex/babel/babel.def"
 File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen108
@@ -67,10 +66,10 @@ guage.dat.lua))
 ("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty"
 Package: fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3.sty
 Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
 L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
 
@@ -180,22 +179,23 @@ L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
 \l__coffin_scaled_total_height_dim=\dimen138
 \l__coffin_scaled_width_dim=\dimen139
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/l3unicode-data.def"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/l3unicode-data.
+def
 File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3kernel/l3pdfmode.def"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2015/03/01 v5544 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count111
 ))
-("C:/Program Files/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/xparse/xparse
+.sty
 Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count112
 \l__xparse_m_args_int=\count113
 \l__xparse_mandatory_args_int=\count114
 \l__xparse_processor_int=\count115
 \l__xparse_v_nesting_int=\count116
-)
-("C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload.sty"
+) ("C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload.sty"
 Package: luaotfload 2014/08/10 v2.5-4 OpenType layout system
 
 ("C:/Program Files/MiKTeX 2.9/tex/luatex/luatexbase/luatexbase.sty"
@@ -275,7 +275,7 @@ Module luaotfload-main warning: LuaTeX v0.76 is old, v0.79 or later is recommend
 ed.
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-log.lua)
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-fontloader.lua)(us
-ing cache: C:/Users/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic)
+ing cache: C:/Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic)
 luatexbase-attr: luatexbase.attributes["luaotfload@kernpair"] = 1
 luatexbase-attr: luatexbase.attributes["luaotfload@ligacomp"] = 2
 luatexbase-attr: luatexbase.attributes["luaotfload@markbase"] = 3
@@ -285,7 +285,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.019 seconds
+luaotfload | main : fontloader loaded in 0.025 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -296,13 +296,13 @@ at position 1 in 'find_vf_file'
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-parsers.lua)
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-configuration.lua)
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-status.lua)
-luaotfload | conf : Root cache directory is C:/Users/Sally/AppData/Local/MiKTeX/
-2.9/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is C:/Users/Samouil/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names.
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-loaders.lua)
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-database.lua)
 (C:/Program Files/MiKTeX 2.9/tex/luatex/luaotfload/luaotfload-colors.lua)
-luaotfload | conf : Root cache directory is C:/Users/Sally/AppData/Local/MiKTeX/
-2.9/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is C:/Users/Samouil/AppData/Local/MiKTe
+X/2.9/luatex-cache/generic/names.
 luatexbase-mcb: creating 'luaotfload.resolve_font' type 4
 luatexbase-mcb: creating 'luaotfload.patch_font' type 4
 luatexbase-mcb: resetting callback 'define_font'
@@ -361,29 +361,29 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 100.
 ("C:/Program Files/MiKTeX 2.9/tex/latex/euenc/eu2lmr.fd"
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database loaded from C:/Users/Sally/AppData/Local/M
-iKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users/Sal
-ly/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-regular.luc
-)) ("C:/Program Files/MiKTeX 2.9/tex/xelatex/xunicode/xunicode.sty"
+luaotfload | db : Font names database loaded from C:/Users/Samouil/AppData/Local
+/MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users/S
+amouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-regular
+.luc)) ("C:/Program Files/MiKTeX 2.9/tex/xelatex/xunicode/xunicode.sty"
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
 
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
-("C:/Program Files/MiKTeX 2.9/tex/latex/tipa/t3enc.def"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-(load luc: C:/Users/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/ot
-f/lmromanslant10-regular.luc)(load luc: C:/Users/Sally/AppData/Local/MiKTeX/2.9/
-luatex-cache/generic/fonts/otf/lmroman10-italic.luc)(load luc: C:/Users/Sally/Ap
-pData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-bold.luc)
+(load luc: C:/Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/
+otf/lmromanslant10-regular.luc)(load luc: C:/Users/Samouil/AppData/Local/MiKTeX/
+2.9/luatex-cache/generic/fonts/otf/lmroman10-italic.luc)(load luc: C:/Users/Samo
+uil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-bold.luc)
 LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
 
 
 ("C:/Program Files/MiKTeX 2.9/tex/latex/euenc/eu2lmss.fd"
 File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)(load luc: C:/Users/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/o
-tf/lmsans10-regular.luc))
+)(load luc: C:/Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts
+/otf/lmsans10-regular.luc))
 \tipaTiiicode=\count286
 \tipasavetokens=\toks17
 \tipachecktokens=\toks18
@@ -540,7 +540,7 @@ LaTeX Info: Redefining \scshape on input line 2127.
 LaTeX Info: Redefining \upshape on input line 2132.
 
 ("C:/Program Files/MiKTeX 2.9/tex/latex/fontspec/fontspec.cfg")))
-("C:/Program Files/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/color.cfg"
@@ -557,7 +557,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip256
 \f@ncyO@elh=\skip257
 \f@ncyO@erh=\skip258
@@ -655,7 +655,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count295
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/url/url.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -692,7 +692,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip265
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/lipsum/lipsum.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count302
 )
@@ -745,15 +745,16 @@ Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
 \colbreak@box=\box281
 \mc@col@check@num=\count311
 )
-("C:/Program Files/MiKTeX 2.9/tex/latex/anyfontsize/anyfontsize.sty"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/anyfontsize/anyfontsize.
+sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
 \g__file_internal_ior=\read1
-luaotfload | cache : Lookup cache loaded from C:/Users/Sally/AppData/Local/MiKTe
-X/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from C:/Users/Samouil/AppData/Local/MiK
+TeX/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"(load luc: 
-C:/Users/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/anglicant
-ext.luc)
+C:/Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/anglica
+ntext.luc)
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | aux : font no 21 (AnglicanText) defines no feature for script latn
 luaotfload | aux : no font with id 21
@@ -793,12 +794,12 @@ luaotfload | aux : no font with id 21
 . fontspec info: "defining-font"
 . 
 . Font family 'AnglicanText(0)' created for font 'AnglicanText' with options
-. [Ligatures=TeX,Color=003366].
+. [Ligatures=TeX,Color=003f7f].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"AnglicanText:mode=node;+tlig;+trep;color=003366FF ;"
+. <->"AnglicanText:mode=node;+tlig;+trep;color=003f7fFF ;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
@@ -830,7 +831,7 @@ LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
 
-("C:/Program Files/MiKTeX 2.9/tex/latex/tipa/t3cmr.fd"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 18.
@@ -840,7 +841,7 @@ LaTeX Font Info:    ... okay on input line 18.
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
-("C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii"
+(C:/Users/Samouil/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count313
 \scratchdimen=\dimen282
@@ -990,7 +991,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 27.
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"(load luc: C:/Users
-/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/precious.luc)
+/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/precious.luc)
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 luaotfload | aux : font no 49 (Precious) defines no feature for script latn
 luaotfload | aux : no font with id 49
@@ -1052,8 +1053,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"(load luc: C:/
-Users/Sally/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/blkchcry.luc
-)
+Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/blkchcry.l
+uc)
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
 luaotfload | aux : font no 63 (BlackChancery) defines no feature for script latn
 luaotfload | aux : no font with id 63
@@ -1120,7 +1121,7 @@ Overfull \vbox (3.59116pt too high) has occurred while \output is active []
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Samouil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
@@ -1154,16 +1155,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
 
 Here is how much of LuaTeX's memory you used:
  20265 strings out of 494733
- 305231,662416 words of node,token memory allocated
+ 305222,662416 words of node,token memory allocated
  367 words of node memory still in use:
     nodes
-   avail lists: 2:223,3:4189,4:7248,5:20,6:33599,7:302,8:5,9:480,10:2675
+   avail lists: 2:223,3:4190,4:7248,5:20,6:33605,7:301,8:5,9:480,10:2678
  23405 multiletter control sequences out of 65536+200000
  74 fonts using 3820103 bytes
  55i,8n,60p,1197b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/blkchcry.ttf><C:/Windows/Fonts/precious.ttf><C:/Windows/Fonts/
 anglicantext.ttf>
-Output written on Charter of Covenant.pdf (2 pages, 69223 bytes).
+Output written on Charter of Covenant.pdf (2 pages, 69241 bytes).
 
 PDF statistics: 39 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 131072)
