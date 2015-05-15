@@ -165,7 +165,7 @@ Abilities:
 Arts:
 		Techniques							  Forms
 	Art		Score	Xp		Art		Score	Xp		Art		Score	Xp
-	Cr		30+3	465		An		20		210		Ig		10		55
+	Cr		35+3	630		An		20		210		Ig		10		55
 	In		20		210		Aq		10		55		Im		10	  55
 	Mu		10		55		Au		10		55		Me		10		55
 	Pe		10	  55		Co		30		465		Te		10		55
@@ -287,6 +287,8 @@ Spells Known:
 	R:Touch, D:Sun, T:Individual
 	The target gains the eyes of a cat, allowing them to see in near darkness.
 	However, as with normal cats, they can not see if there is no light at all.
+  The target's eyes have small butterflies in the iris as opposed to turning
+  into actual cat's eyes.
   
 	Palm of Flame
 	CrIg 5
@@ -294,6 +296,12 @@ Spells Known:
 	A small flame sprite coalesces on Ashe's shoulder and sits there, providing
   light as a torch would.
 	
+  Blessing of Athena
+  CrMe 40
+  R:Touch, D:Momentary, T:Individual
+  Increases a target's Intelligence by one point permanently, to no higher
+  than +1.
+  
 Wizard's Sigil: 
 	All of Ashe's spells seem to be performed by little sprites or butterflies.
 	Mentem spells will often place butterflies in the background, while a CrIg
@@ -311,6 +319,6 @@ Appearance:
 	use a commanding voice when it is required. A rather large triangular
 	stigmata sits on her throat. It is a triangle pointing upwards at her head,
 	a light, hazy purple in colour, with a azure outline. This is the only 
-	easily visible stigmata she carries, as the rest are on her stomache, and
+	easily visible stigmata she carries, as the rest are on her stomach, and
 	legs.
 	
