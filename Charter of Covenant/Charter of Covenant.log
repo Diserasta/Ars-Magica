@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2015.5.15)  15 MAY 2015 21:40
+This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2015.5.15)  16 MAY 2015 13:37
 **"Charter of Covenant.tex"
 ("./Charter of Covenant.tex"
 LaTeX2e <2014/05/01>
@@ -285,7 +285,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.025 seconds
+luaotfload | main : fontloader loaded in 0.031 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -811,7 +811,7 @@ luatexbase-mcb: inserting 'luaotfload.color_handler'
 at position 2 in 'pre_linebreak_filter'
 
 LaTeX Warning: Unused global option(s):
-    [a3paper,portrait,20pt].
+    [portrait].
 
 ("./Charter of Covenant.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -925,16 +925,16 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a3paper
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(43.36243pt, 758.32199pt, 43.36243pt)
-* v-part:(T,H,B)=(43.36243pt, 1108.2909pt, 43.36243pt)
-* \paperwidth=845.04684pt
-* \paperheight=1195.01575pt
-* \textwidth=758.32199pt
-* \textheight=1108.2909pt
+* h-part:(L,W,R)=(43.36243pt, 510.78302pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 758.32199pt, 43.36243pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=510.78302pt
+* \textheight=758.32199pt
 * \oddsidemargin=-28.90756pt
 * \evensidemargin=-28.90756pt
 * \topmargin=-65.90756pt
@@ -942,7 +942,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -982,19 +982,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 27.
-luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
-luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 27.
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"(load luc: C:/Users
 /Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/precious.luc)
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
-luaotfload | aux : font no 49 (Precious) defines no feature for script latn
-luaotfload | aux : no font with id 49
+luaotfload | aux : font no 38 (Precious) defines no feature for script latn
+luaotfload | aux : no font with id 38
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1024,9 +1016,9 @@ luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 .................................................
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
-luaotfload | aux : font no 49 (Precious) does not define feature smcp for script
+luaotfload | aux : font no 38 (Precious) does not define feature smcp for script
   with language 
-luaotfload | aux : no font with id 49
+luaotfload | aux : no font with id 38
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1045,19 +1037,13 @@ luaotfload | aux : no font with id 49
 .................................................
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
-luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
-luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 28.
 luaotfload | load : Lookup/name: "Precious" -> "precious.ttf"
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"(load luc: C:/
 Users/Samouil/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/blkchcry.l
 uc)
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
-luaotfload | aux : font no 63 (BlackChancery) defines no feature for script latn
-luaotfload | aux : no font with id 63
+luaotfload | aux : font no 42 (BlackChancery) defines no feature for script latn
+luaotfload | aux : no font with id 42
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1087,9 +1073,9 @@ luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
 .................................................
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
-luaotfload | aux : font no 63 (BlackChancery) does not define feature smcp for s
+luaotfload | aux : font no 42 (BlackChancery) does not define feature smcp for s
 cript  with language 
-luaotfload | aux : no font with id 63
+luaotfload | aux : no font with id 42
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1107,16 +1093,17 @@ luaotfload | aux : no font with id 63
 . 
 .................................................
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
+luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 
 LaTeX Font Warning: Font shape `EU2/AnglicanText(0)/bx/n' undefined
 (Font)              using `EU2/AnglicanText(0)/m/n' instead on input line 51.
 
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | load : Lookup/name: "BlackChancery" -> "blkchcry.ttf"
-Overfull \vbox (4.42998pt too high) has occurred while \output is active []
+Overfull \vbox (10.3365pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (3.59116pt too high) has occurred while \output is active []
+Overfull \vbox (4.35756pt too high) has occurred while \output is active []
 
 
 [1
@@ -1124,22 +1111,31 @@ Overfull \vbox (3.59116pt too high) has occurred while \output is active []
 {C:/Users/Samouil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
+Overfull \hbox (16.08958pt too wide) in paragraph at lines 91--91
+[]|[]\EU2/AnglicanText(0)/bx/n/30 G[][]o[][]v[]-[]e[][]r[]-[]n[][]a[][]n[][]c[]
+[]e[] []o[][]f[] []t[][]h[][]i[][]s[] []C[][]o[][]v[][]e[][]n[][]a[][]n[][]t[]|
+ 
+ []
+
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 116.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 116.
 
-Overfull \hbox (4.55005pt too wide) in paragraph at lines 132--132
-[]|[]\EU2/AnglicanText(0)/bx/n/35 R[][]e[]-[]s[][]o[][]u[][]r[][]c[][]e[][]s[] 
-[]O[][]w[][]n[][]e[][]d[] []b[][]y[] []t[][]h[][]i[][]s[] []C[][]o[][]v[][]e[][
-]n[][]a[][]n[][]t[]| 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 197.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|[]\EU2/AnglicanText(0)/bx/n/30 R[][]e[]-[]s[][]p[][]o[][]n[]-[]s[][]i[]-[]b[
+][]i[][]l[]-[]i[]-[]t[][]i[][]e[][]s[] []o[][]f[] []t[][]h[][]e[]
  []
 
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 luaotfload | load : Lookup/name: "AnglicanText" -> "anglicantext.ttf"
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
-[2]
+[3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
  ("./Charter of Covenant.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
@@ -1154,19 +1150,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
  )
 
 Here is how much of LuaTeX's memory you used:
- 20265 strings out of 494733
- 305222,662416 words of node,token memory allocated
+ 20213 strings out of 494733
+ 125006,662416 words of node,token memory allocated
  367 words of node memory still in use:
     nodes
-   avail lists: 2:223,3:4190,4:7248,5:20,6:33605,7:301,8:5,9:480,10:2678
- 23405 multiletter control sequences out of 65536+200000
- 74 fonts using 3820103 bytes
- 55i,8n,60p,1197b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
+   avail lists: 2:158,3:4190,4:2811,5:15,6:12490,7:281,8:4,9:235,10:1030
+ 23379 multiletter control sequences out of 65536+200000
+ 54 fonts using 2715839 bytes
+ 55i,8n,60p,1197b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/blkchcry.ttf><C:/Windows/Fonts/precious.ttf><C:/Windows/Fonts/
 anglicantext.ttf>
-Output written on Charter of Covenant.pdf (2 pages, 69241 bytes).
+Output written on Charter of Covenant.pdf (3 pages, 71293 bytes).
 
-PDF statistics: 39 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 131072)
+PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

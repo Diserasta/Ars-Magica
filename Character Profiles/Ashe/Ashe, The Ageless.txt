@@ -139,6 +139,7 @@ Abilities:
 
   Animal Handling   Cats                    5   75
 	Artes Liberales	  Logic 			  			    7	  140
+  Art of Memory     
   Charm             Being Witty             5   75
 	Chirurgy			    Diagnosis			  		    8	  180
   Code of Hermes    Tribunal Procedures     3   30
@@ -290,17 +291,49 @@ Spells Known:
   The target's eyes have small butterflies in the iris as opposed to turning
   into actual cat's eyes.
   
+  Seven League Step
+  ReCo 30
+  R:Personal, D:Momentary, T:Individual
+  Transports Ashe to any place within seven leagues that she can either see or
+  has an Arcane Connection to. If she fails an Intelligence + Finesse stress
+  roll of 9+, her arrival goes slightly awry. When Ashe uses this spell, she
+  appears from a cloud of butterflies.
+  
 	Palm of Flame
 	CrIg 5
 	R:Touch, D:Concentration, T:Individual
 	A small flame sprite coalesces on Ashe's shoulder and sits there, providing
   light as a torch would.
 	
+  Imparting the Subtle Thoughts
+  CrMe 5
+  R:Eye, D:Concentration, T:Individual
+  Allows Ashe to create words in the mind of a target who makes eye contact
+  with her. The words sound as if spoken by a singing faerie.
+  
   Blessing of Athena
   CrMe 40
   R:Touch, D:Momentary, T:Individual
   Increases a target's Intelligence by one point permanently, to no higher
   than +1.
+  
+  Blessing of Apollo
+  CrMe 40
+  R:Touch, D:Momentary, T:Individual
+  Increases a target's Perception by one point permanently, to no higher
+  than +1.
+  
+  Blessing of Venus
+  CrMe 40
+  R:Touch, D:Momentary, T:Individual
+  Increases a target's Presence by one point permanently, to no higher than +1.
+  
+  Blessing of Mercury
+  CrMe 40
+  R:Touch, D:Momentary, T:Individual
+  Increases a target's Communication by one point permanently, to no higher
+  than +1.
+  
   
 Wizard's Sigil: 
 	All of Ashe's spells seem to be performed by little sprites or butterflies.
