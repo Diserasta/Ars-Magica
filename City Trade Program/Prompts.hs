@@ -24,10 +24,23 @@ yesno prompt = do
       putStrLn "Invalid Input."
       yesno prompt
 
+addPrompt :: IO String
+addPrompt = do
+  putStr $ "What would you like to generate?\n"
+  putStr $ "Options are: p for places, q to return"
+  hFlush stdout
+  str <- getLine
+  case str of
+    "p"   -> addPlaceCmd
+    "q"   -> return ""
+    _     -> do
+      putStrLn "Invalid Input. "
+      addPrompt
+
 genPrompt :: IO String
 genPrompt = do
   putStr $ "What would you like to generate?\n"
-  putStr $ "Options are n for names, p for people, q to return"
+  putStr $ "Options are: n for names, p for people, q to return"
   hFlush stdout
   str <- getLine
   case str of
@@ -39,12 +52,14 @@ genPrompt = do
       genPrompt
 --Gen Person command goes here. It should call Generator's Functions
 --But that's work for tomorrow - It's like 1AM
+--It's now July. WORK ETHICS :D
 mainPrompt :: IO String
 mainPrompt = do
   putStr $ "Please enter a command - h for help - q to quit\n"
   hFlush stdout
   str <-getLine
   case str of
+    "a"       -> addPrompt
     "c"       -> return cmdList
     "g"       -> genPrompt
     "h"       -> return mainHelpText
@@ -63,6 +78,7 @@ mainHelpText =
 
 cmdList :: String
 cmdList =
+  "a -- Add an object into the world \n" ++
   "c -- this list of commands \n" ++
   "g -- generate something \n" ++
   "h -- help text for the current prompt \n" ++
@@ -70,6 +86,16 @@ cmdList =
   "q! -- quit unsafely, not saving any data and discarding all changes. Notably, this throws exit code 05 for any program running this Agent to catch \n" ++
   "purge -- purge the world buffer, discarding all changes and reverting to the state the world was in when this Agent was initialised. You will be asked for confirmation. \n"
 
+--Add Commands
+addPlaceCmd :: IO String
+addPlaceCmd = do
+  putStrLn "What Type of place would you like to add?"
+  putStrLn "Options are: Region, Biome, Settlement, District, Building, Room or Feature"
+  ptype <- getLine
+  
+
+
+--Generate Commands
 genNameCmd :: IO String
 genNameCmd = do
   putStrLn "How many names would you like to generate?"
@@ -89,15 +115,15 @@ genNameLoop :: Int  -> String -> String -> IO [Str.ByteString]
 genNameLoop n nat gen = (genNameN nat gen n)
 
 
-genPersonCmd :: IO String
-genPersonCmd = do
-  putStrLn "How many people would you like to generate?"
-  num <- getLine
-  let n = read (num) :: Int
-  putStrLn "What Nationality do you wish to generate?"
-  putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
-  nat <- getLine
-  putStrLn "What Gender would you like to generate?"
-  putStrLn "Options are Male and Female"
-  gen <-getLine
-
+--genPersonCmd :: IO String
+--genPersonCmd = do
+--  putStrLn "How many people would you like to generate?"
+--  num <- getLine
+--  let n = read (num) :: Int
+--  putStrLn "What Nationality do you wish to generate?"
+--  putStrLn "Options are: Anglo, Byz, Frank, Goth and Welsh"
+--  nat <- getLine
+--  putStrLn "What Gender would you like to generate?"
+--  putStrLn "Options are Male and Female"
+--  gen <-getLine
+--  
