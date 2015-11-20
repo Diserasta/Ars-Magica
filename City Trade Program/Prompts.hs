@@ -92,6 +92,7 @@ addPlaceCmd = do
   putStrLn "What Type of place would you like to add?"
   putStrLn "Options are: Region, Biome, Settlement, District, Building, Room or Feature"
   ptype <- getLine
+  return ("Succss." ++ show ptype)
   
 
 
@@ -107,12 +108,12 @@ genNameCmd = do
   putStrLn "What Gender person would you like?"
   putStrLn "Options are Male and Female"
   gen <- getLine
-  nameList <- genNameN nat gen n
+  nameList <- pickNameN nat gen n
   mapM_ Str.putStrLn nameList
   return ("Success. " ++ show n ++ " Names Generated.")
 
 genNameLoop :: Int  -> String -> String -> IO [Str.ByteString]
-genNameLoop n nat gen = (genNameN nat gen n)
+genNameLoop n nat gen = (pickNameN nat gen n)
 
 
 --genPersonCmd :: IO String

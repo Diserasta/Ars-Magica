@@ -4,7 +4,7 @@ module Generator (
 pickFromFile,
 rndSelectN,
 rndSelect,
-genNameN,
+pickNameN,
 genUniform,
 genNormal,
 genLogNormal,
@@ -75,13 +75,13 @@ pickNFromFile :: (CMR.MonadRandom m) => Str.ByteString -> Int -> m [Str.ByteStri
 pickNFromFile h n = rndSelectN (Str.lines h) n
 
 --Name Generator
-genNameN :: String -> String -> Int -> IO [Str.ByteString]
-genNameN nat gen n = do
+pickNameN :: String -> String -> Int -> IO [Str.ByteString]
+pickNameN nat gen n = do
   nameList <- H.chkData ("Names/" ++ nat ++ gen ++ ".dat") "Names loaded" "Names not found"
   (pickNFromFile nameList n)
 
 
-genNameOnce = do
+genPersonOnce = do
   putStrLn "Opening People Data in Append"
   chk <- H.chkData "Data/People.dat" "People Data Loaded" "People Data not found"
   putStrLn "What Nationality do you wish to generate?"
@@ -90,9 +90,16 @@ genNameOnce = do
   putStrLn "What Gender person would you like?"
   putStrLn"Options are Male and Female"
   gen <- getLine
-  nameList <- H.chkData ("Names/" ++ nat ++ gen ++ ".dat") "Names loaded" "Names not found"
-  newName <- (pickFromFile nameList)
-  Str.appendFile "People.dat" newName
+  newName <- (pickNameN nat gen 1)
+  putStrLn "Around what age should this person be?"
+  ageBase <- getLine
+  --TODO:
+  --Load list of places
+  --Use to generate home town
+  --Generate relatives if need be
+  --newPerson <- genPerson (newName gen ageBase [] )
+  let newPerson = Str.empty
+  Str.appendFile "People.dat" newPerson
 
 --Age Generator
 --This one should be easier. Smaller range.
@@ -126,6 +133,7 @@ genPlace :: (CMR.MonadRandom m) => [Place] -> m Place
 genPlace x = do
   r <- rndSelect x
   return r
+
 genPlaceN :: (CMR.MonadRandom m) => [Place] -> Int -> m [Place]
 genPlaceN x n = do
   r <- rndSelectN x n
@@ -135,7 +143,7 @@ genPlaceN x n = do
 --Takes in a Gender and NameType, as well as expected age, and hometown
 genPerson :: String -> String -> Int -> [Place] -> [(Person, String)] -> IO Person
 genPerson nameloc gen expAge home rels = do
-  n <- (genNameN nameloc gen 1)
+  n <- (pickNameN nameloc gen 1)
   let k = Str.unpack (head n)
   a <- (genWeightedAge (fromIntegral expAge))
   let b = floor a

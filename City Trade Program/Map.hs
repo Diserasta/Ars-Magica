@@ -24,38 +24,32 @@ distN a b = sqrt((pointx a - pointx b)^2 + (pointy a - pointy b)^2)
 
 --A type list for our places
 
-data PlaceType =  Region | Biome | Settlement | District | Building | Room | Feature
+data PlaceType =  Region | Country | Biome | Settlement | District | Building | Room | Feature
                 deriving (Read, Show, Ord, Eq)
 
 --A node is two floats representing a position--
 
-data Path = Path  { id :: String
+data Path = Path  { id :: Int
                   , cost :: Double
-                  , endpoints :: (Place, Place)
+                  , endpts :: (String, String) --Listed by identifier
                   } deriving (Read, Show, Ord, Eq)
 --A path has an identifier (which can be a name), a list of intersecting paths,
 --and two or more endpoints
 --aka Places
-
-endpts :: Path -> (Place, Place)
-endpts (Path _ _ pl) = pl
+--TODO:
+--  Traverse places that don't have paths
 
 data Place = Place  { name :: String
                     , pos :: Node
                     , pval :: PlaceType
-                    , paths :: [Path]
+                    , contains :: [Place]
+                    , paths :: [Int] --Listed by identifier
                     } deriving (Read, Show, Ord, Eq)
 --A place has a name, a position, and a list of paths that connect to it
 
 --Data Type for our complete map
 data Carta = Carta { loc :: [Place]
                     } deriving (Read, Show, Ord, Eq)
-
-placePos :: Place -> Node
-placePos (Place _ pos _ _) = pos
-
-placePaths :: Place -> [Path]
-placePaths (Place _ _ _ paths) = paths
 
 --Technical implementation of a path-follower
 pathfImpl :: Eq a => ([a],Double) -> a -> a -> [(a,a,Double)] -> [([a], Double)]
@@ -78,4 +72,5 @@ followPath src dest clauses = map sanPath (pathfImpl ([],0.0) src dest clauses)
 
 --Finally, I need a convenient way to add, or delete Nodes, Paths etc
 --In that regard, I also need a data structure for this
+--addPath :: Int -> Double -> (String, String) -> Path
 
