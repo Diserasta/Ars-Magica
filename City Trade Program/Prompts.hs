@@ -8,10 +8,11 @@ import Control.Monad.State
 import System.IO
 import System.Directory
 import System.Exit
+import Data.List.Split
 import qualified Data.ByteString.Char8 as Str
 
 import Generator
-
+import Map
 yesno :: String -> IO Bool
 yesno prompt = do
   putStr $ prompt ++ " y/n: "
@@ -86,13 +87,30 @@ cmdList =
   "q! -- quit unsafely, not saving any data and discarding all changes. Notably, this throws exit code 05 for any program running this Agent to catch \n" ++
   "purge -- purge the world buffer, discarding all changes and reverting to the state the world was in when this Agent was initialised. You will be asked for confirmation. \n"
 
+--Write to Map
+addPlace :: Place ->  IO Str.ByteString
+addPlace = do
+  Str.appendFile "Map.dat" (show Place)
+
+
+
 --Add Commands
 addPlaceCmd :: IO String
 addPlaceCmd = do
   putStrLn "What Type of place would you like to add?"
   putStrLn "Options are: Region, Biome, Settlement, District, Building, Room or Feature"
   ptype <- getLine
-  return ("Succss." ++ show ptype)
+  putStrLn ("Please enter the co-ordinates of the " ++ show ptype ++ " separated by a comma")
+  inn <- getLine
+  let cc = map (splitOn " ") (splitOn "," inn)
+  putStrLn ("Please enter the name of the " ++ show ptype)
+  namen <- getLine
+  putStrLn "Please enter the list of connected path ids separated by a space"
+  pathsl' <- getLine
+  let pathsl = splitOn " " pathsl'
+  let finalp = Place namen (Node (read (head (head cc)) :: Double) (read (last (head cc)) :: Double), Node (read (head (last cc)) :: Double) (read (last (last cc)) :: Double)) (read ptype :: PlaceType) [] (map read pathsl :: [Int])
+  
+  return ("Success." ++ show finalp)
   
 
 

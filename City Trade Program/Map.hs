@@ -2,6 +2,7 @@ module Map
 ( Node(..)
 , Path(..)
 , Place(..)
+, PlaceType(..)
 , distN
 , followPath
 ) where
@@ -40,7 +41,7 @@ data Path = Path  { id :: Int
 --  Traverse places that don't have paths
 
 data Place = Place  { name :: String
-                    , pos :: Node
+                    , pos :: (Node, Node)
                     , pval :: PlaceType
                     , contains :: [Place]
                     , paths :: [Int] --Listed by identifier
