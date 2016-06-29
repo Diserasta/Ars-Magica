@@ -43,7 +43,6 @@ data Path = Path  { id :: Int
 data Place = Place  { name :: String
                     , pos :: (Node, Node)
                     , pval :: PlaceType
-                    , contains :: [Place]
                     , paths :: [Int] --Listed by identifier
                     } deriving (Read, Show, Ord, Eq)
 --A place has a name, a position, and a list of paths that connect to it

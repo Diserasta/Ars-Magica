@@ -88,9 +88,9 @@ cmdList =
   "purge -- purge the world buffer, discarding all changes and reverting to the state the world was in when this Agent was initialised. You will be asked for confirmation. \n"
 
 --Write to Map
-addPlace :: Place ->  IO Str.ByteString
-addPlace = do
-  Str.appendFile "Map.dat" (show Place)
+addPlace :: Place ->  IO ()
+addPlace plc = do
+  Str.appendFile "Map.dat" (Str.pack (show plc))
 
 
 
@@ -108,9 +108,16 @@ addPlaceCmd = do
   putStrLn "Please enter the list of connected path ids separated by a space"
   pathsl' <- getLine
   let pathsl = splitOn " " pathsl'
-  let finalp = Place namen (Node (read (head (head cc)) :: Double) (read (last (head cc)) :: Double), Node (read (head (last cc)) :: Double) (read (last (last cc)) :: Double)) (read ptype :: PlaceType) [] (map read pathsl :: [Int])
-  
-  return ("Success." ++ show finalp)
+  let finalp = Place namen (Node (read (head (head cc)) :: Double) (read (last (head cc)) :: Double), Node (read (head (last cc)) :: Double) (read (last (last cc)) :: Double)) (read ptype :: PlaceType) (map read pathsl :: [Int])
+  putStrLn ("Success." ++ show finalp)
+  chk <- yesno "Do you wish to commit this place?"
+  if chk then do
+    ret <- addPlace finalp
+    return ("Committed!" ++ show ret)
+  else do
+    return ("Not Commited!")
+
+
   
 
 
